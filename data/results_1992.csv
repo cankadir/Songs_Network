@@ -1,0 +1,254 @@
+,pts,pts_from,year,points_to
+0,12,Switzerland,1992,france
+1,12,Israel,1992,france
+2,10,Norway,1992,france
+3,7,Finland,1992,france
+4,6,Italy,1992,france
+5,6,Spain,1992,france
+6,6,The Netherlands,1992,france
+7,5,Ireland,1992,france
+8,3,Turkey,1992,france
+9,3,Cyprus,1992,france
+10,3,Germany,1992,france
+11,73,points received,1992,france
+0,12,Turkey,1992,ireland
+1,12,Malta,1992,ireland
+2,12,Greece,1992,ireland
+3,10,Luxembourg,1992,ireland
+4,10,Denmark,1992,ireland
+5,10,Germany,1992,ireland
+6,10,Austria,1992,ireland
+7,10,The Netherlands,1992,ireland
+8,10,Sweden,1992,ireland
+9,10,Finland,1992,ireland
+10,8,United Kingdom,1992,ireland
+11,7,Norway,1992,ireland
+12,7,Iceland,1992,ireland
+13,7,Belgium,1992,ireland
+14,6,Switzerland,1992,ireland
+15,5,Cyprus,1992,ireland
+16,4,Portugal,1992,ireland
+17,2,Yugoslavia,1992,ireland
+18,2,Italy,1992,ireland
+19,1,Spain,1992,ireland
+20,155,points received,1992,ireland
+0,12,United Kingdom,1992,iceland
+1,8,Spain,1992,iceland
+2,7,Austria,1992,iceland
+3,6,Greece,1992,iceland
+4,6,Germany,1992,iceland
+5,6,Portugal,1992,iceland
+6,6,Sweden,1992,iceland
+7,5,Italy,1992,iceland
+8,5,Denmark,1992,iceland
+9,5,Luxembourg,1992,iceland
+10,4,Belgium,1992,iceland
+11,4,Israel,1992,iceland
+12,3,Switzerland,1992,iceland
+13,2,The Netherlands,1992,iceland
+14,1,Norway,1992,iceland
+15,80,points received,1992,iceland
+0,7,Italy,1992,spain
+1,6,France,1992,spain
+2,5,Norway,1992,spain
+3,4,Greece,1992,spain
+4,3,Luxembourg,1992,spain
+5,3,Finland,1992,spain
+6,2,Malta,1992,spain
+7,2,Austria,1992,spain
+8,1,Turkey,1992,spain
+9,1,United Kingdom,1992,spain
+10,1,Belgium,1992,spain
+11,1,Denmark,1992,spain
+12,1,The Netherlands,1992,spain
+13,37,points received,1992,spain
+0,12,Germany,1992,united-kingdom
+1,12,Belgium,1992,united-kingdom
+2,12,Austria,1992,united-kingdom
+3,12,Denmark,1992,united-kingdom
+4,10,France,1992,united-kingdom
+5,10,Turkey,1992,united-kingdom
+6,8,Italy,1992,united-kingdom
+7,8,Switzerland,1992,united-kingdom
+8,7,Ireland,1992,united-kingdom
+9,7,Luxembourg,1992,united-kingdom
+10,7,The Netherlands,1992,united-kingdom
+11,6,Finland,1992,united-kingdom
+12,6,Cyprus,1992,united-kingdom
+13,6,Malta,1992,united-kingdom
+14,5,Spain,1992,united-kingdom
+15,5,Sweden,1992,united-kingdom
+16,4,Iceland,1992,united-kingdom
+17,2,Israel,1992,united-kingdom
+18,139,points received,1992,united-kingdom
+0,10,Portugal,1992,germany
+1,6,United Kingdom,1992,germany
+2,6,Belgium,1992,germany
+3,3,Denmark,1992,germany
+4,2,Ireland,1992,germany
+5,27,points received,1992,germany
+0,12,Ireland,1992,austria
+1,10,United Kingdom,1992,austria
+2,8,Cyprus,1992,austria
+3,8,Belgium,1992,austria
+4,8,Greece,1992,austria
+5,7,Denmark,1992,austria
+6,4,Malta,1992,austria
+7,3,Portugal,1992,austria
+8,2,Spain,1992,austria
+9,1,Sweden,1992,austria
+10,63,points received,1992,austria
+0,12,Iceland,1992,switzerland
+1,10,Italy,1992,switzerland
+2,5,Belgium,1992,switzerland
+3,4,United Kingdom,1992,switzerland
+4,1,Ireland,1992,switzerland
+5,32,points received,1992,switzerland
+0,4,Turkey,1992,belgium
+1,3,France,1992,belgium
+2,3,Spain,1992,belgium
+3,1,Luxembourg,1992,belgium
+4,11,points received,1992,belgium
+0,10,Greece,1992,cyprus
+1,8,Finland,1992,cyprus
+2,8,Yugoslavia,1992,cyprus
+3,8,The Netherlands,1992,cyprus
+4,6,Ireland,1992,cyprus
+5,4,Italy,1992,cyprus
+6,3,Israel,1992,cyprus
+7,3,Norway,1992,cyprus
+8,2,Portugal,1992,cyprus
+9,2,France,1992,cyprus
+10,2,Switzerland,1992,cyprus
+11,1,Malta,1992,cyprus
+12,57,points received,1992,cyprus
+0,8,Malta,1992,turkey
+1,6,Yugoslavia,1992,turkey
+2,3,Ireland,1992,turkey
+3,17,points received,1992,turkey
+0,12,Yugoslavia,1992,israel
+1,10,Spain,1992,israel
+2,8,France,1992,israel
+3,8,Luxembourg,1992,israel
+4,7,Malta,1992,israel
+5,7,United Kingdom,1992,israel
+6,7,Portugal,1992,israel
+7,4,Cyprus,1992,israel
+8,4,Switzerland,1992,israel
+9,4,Germany,1992,israel
+10,4,Sweden,1992,israel
+11,3,The Netherlands,1992,israel
+12,2,Turkey,1992,israel
+13,2,Denmark,1992,israel
+14,2,Norway,1992,israel
+15,1,Austria,1992,israel
+16,85,points received,1992,israel
+0,12,Cyprus,1992,greece
+1,12,Italy,1992,greece
+2,10,Switzerland,1992,greece
+3,8,Turkey,1992,greece
+4,8,Norway,1992,greece
+5,7,Yugoslavia,1992,greece
+6,7,France,1992,greece
+7,7,Israel,1992,greece
+8,5,Finland,1992,greece
+9,5,Portugal,1992,greece
+10,4,The Netherlands,1992,greece
+11,4,Austria,1992,greece
+12,3,Sweden,1992,greece
+13,2,Iceland,1992,greece
+14,94,points received,1992,greece
+0,6,Denmark,1992,norway
+1,5,United Kingdom,1992,norway
+2,4,Luxembourg,1992,norway
+3,3,Belgium,1992,norway
+4,2,Sweden,1992,norway
+5,1,Finland,1992,norway
+6,1,Yugoslavia,1992,norway
+7,1,Iceland,1992,norway
+8,23,points received,1992,norway
+0,12,The Netherlands,1992,italy
+1,12,Finland,1992,italy
+2,12,Norway,1992,italy
+3,12,France,1992,italy
+4,10,Iceland,1992,italy
+5,10,Cyprus,1992,italy
+6,8,Sweden,1992,italy
+7,8,Portugal,1992,italy
+8,7,Switzerland,1992,italy
+9,6,Austria,1992,italy
+10,5,Turkey,1992,italy
+11,5,Malta,1992,italy
+12,3,Greece,1992,italy
+13,1,Germany,1992,italy
+14,111,points received,1992,italy
+0,7,Sweden,1992,denmark
+1,6,Norway,1992,denmark
+2,6,Luxembourg,1992,denmark
+3,6,Israel,1992,denmark
+4,6,Iceland,1992,denmark
+5,5,Germany,1992,denmark
+6,4,Spain,1992,denmark
+7,3,United Kingdom,1992,denmark
+8,3,Austria,1992,denmark
+9,1,Portugal,1992,denmark
+10,47,points received,1992,denmark
+0,10,Malta,1992,luxembourg
+1,10,points received,1992,luxembourg
+0,8,Ireland,1992,the-netherlands
+1,7,Cyprus,1992,the-netherlands
+2,7,Spain,1992,the-netherlands
+3,7,Germany,1992,the-netherlands
+4,7,Turkey,1992,the-netherlands
+5,5,Greece,1992,the-netherlands
+6,5,Austria,1992,the-netherlands
+7,5,Israel,1992,the-netherlands
+8,4,France,1992,the-netherlands
+9,4,Norway,1992,the-netherlands
+10,3,Iceland,1992,the-netherlands
+11,2,United Kingdom,1992,the-netherlands
+12,2,Belgium,1992,the-netherlands
+13,1,Switzerland,1992,the-netherlands
+14,67,points received,1992,the-netherlands
+0,3,Yugoslavia,1992,finland
+1,1,Israel,1992,finland
+2,4,points received,1992,finland
+0,12,Spain,1992,malta
+1,12,Luxembourg,1992,malta
+2,12,Portugal,1992,malta
+3,12,Sweden,1992,malta
+4,10,Belgium,1992,malta
+5,10,Yugoslavia,1992,malta
+6,10,Ireland,1992,malta
+7,8,Denmark,1992,malta
+8,8,Iceland,1992,malta
+9,8,Austria,1992,malta
+10,7,Greece,1992,malta
+11,5,Switzerland,1992,malta
+12,5,The Netherlands,1992,malta
+13,3,Italy,1992,malta
+14,1,Cyprus,1992,malta
+15,123,points received,1992,malta
+0,10,Israel,1992,yugoslavia
+1,6,Turkey,1992,yugoslavia
+2,5,Iceland,1992,yugoslavia
+3,5,France,1992,yugoslavia
+4,4,Ireland,1992,yugoslavia
+5,4,Finland,1992,yugoslavia
+6,3,Malta,1992,yugoslavia
+7,2,Cyprus,1992,yugoslavia
+8,2,Luxembourg,1992,yugoslavia
+9,2,Germany,1992,yugoslavia
+10,1,Greece,1992,yugoslavia
+11,44,points received,1992,yugoslavia
+0,4,Yugoslavia,1992,sweden
+1,4,Denmark,1992,sweden
+2,1,France,1992,sweden
+3,9,points received,1992,sweden
+0,8,Germany,1992,portugal
+1,8,Israel,1992,portugal
+2,5,Yugoslavia,1992,portugal
+3,2,Greece,1992,portugal
+4,2,Finland,1992,portugal
+5,1,Italy,1992,portugal
+6,26,points received,1992,portugal

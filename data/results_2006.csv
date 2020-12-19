@@ -1,0 +1,545 @@
+,pts,pts_from,year,points_to
+0,7,Switzerland,2006,germany
+1,5,Albania,2006,germany
+2,5,United Kingdom,2006,germany
+3,5,Spain,2006,germany
+4,3,Ireland,2006,germany
+5,3,Denmark,2006,germany
+6,3,The Netherlands,2006,germany
+7,3,Latvia,2006,germany
+8,1,Belgium,2006,germany
+9,1,Norway,2006,germany
+10,36,points received,2006,germany
+0,12,Malta,2006,switzerland
+1,6,Monaco,2006,switzerland
+2,4,Israel,2006,switzerland
+3,4,Bosnia & Herzegovina,2006,switzerland
+4,3,Cyprus,2006,switzerland
+5,1,Portugal,2006,switzerland
+6,30,points received,2006,switzerland
+0,12,The Netherlands,2006,turkey
+1,12,France,2006,turkey
+2,12,Germany,2006,turkey
+3,10,Switzerland,2006,turkey
+4,10,Bosnia & Herzegovina,2006,turkey
+5,7,Belgium,2006,turkey
+6,7,Albania,2006,turkey
+7,6,Romania,2006,turkey
+8,4,Bulgaria,2006,turkey
+9,4,North Macedonia,2006,turkey
+10,3,Greece,2006,turkey
+11,3,United Kingdom,2006,turkey
+12,1,Israel,2006,turkey
+13,91,points received,2006,turkey
+0,12,Bosnia & Herzegovina,2006,slovenia
+1,10,Croatia,2006,slovenia
+2,8,Finland,2006,slovenia
+3,7,Sweden,2006,slovenia
+4,6,North Macedonia,2006,slovenia
+5,5,Romania,2006,slovenia
+6,4,Russia,2006,slovenia
+7,3,Lithuania,2006,slovenia
+8,2,Ukraine,2006,slovenia
+9,1,Ireland,2006,slovenia
+0,12,Croatia,2006,bosnia-herzegovina
+1,12,Turkey,2006,bosnia-herzegovina
+2,12,North Macedonia,2006,bosnia-herzegovina
+3,12,Albania,2006,bosnia-herzegovina
+4,12,Slovenia,2006,bosnia-herzegovina
+5,12,Serbia & Montenegro,2006,bosnia-herzegovina
+6,12,Switzerland,2006,bosnia-herzegovina
+7,12,Monaco,2006,bosnia-herzegovina
+8,10,Finland,2006,bosnia-herzegovina
+9,10,Ukraine,2006,bosnia-herzegovina
+10,10,Sweden,2006,bosnia-herzegovina
+11,8,The Netherlands,2006,bosnia-herzegovina
+12,8,Norway,2006,bosnia-herzegovina
+13,8,Denmark,2006,bosnia-herzegovina
+14,7,Bulgaria,2006,bosnia-herzegovina
+15,7,Germany,2006,bosnia-herzegovina
+16,7,Romania,2006,bosnia-herzegovina
+17,6,France,2006,bosnia-herzegovina
+18,6,Belgium,2006,bosnia-herzegovina
+19,6,Greece,2006,bosnia-herzegovina
+20,6,Russia,2006,bosnia-herzegovina
+21,5,Armenia,2006,bosnia-herzegovina
+22,5,Moldova,2006,bosnia-herzegovina
+23,4,Poland,2006,bosnia-herzegovina
+24,4,Belarus,2006,bosnia-herzegovina
+25,4,Lithuania,2006,bosnia-herzegovina
+26,3,Iceland,2006,bosnia-herzegovina
+27,2,Portugal,2006,bosnia-herzegovina
+28,2,Ireland,2006,bosnia-herzegovina
+29,2,Israel,2006,bosnia-herzegovina
+30,2,Cyprus,2006,bosnia-herzegovina
+31,1,Spain,2006,bosnia-herzegovina
+32,229,points received,2006,bosnia-herzegovina
+0,8,Bosnia & Herzegovina,2006,fyr-macedonia
+1,8,Serbia & Montenegro,2006,fyr-macedonia
+2,8,Croatia,2006,fyr-macedonia
+3,7,Armenia,2006,fyr-macedonia
+4,6,Slovenia,2006,fyr-macedonia
+5,6,Turkey,2006,fyr-macedonia
+6,6,Bulgaria,2006,fyr-macedonia
+7,4,Switzerland,2006,fyr-macedonia
+8,3,Albania,2006,fyr-macedonia
+9,56,points received,2006,fyr-macedonia
+0,12,Bosnia & Herzegovina,2006,monaco
+1,10,Ireland,2006,monaco
+2,8,Latvia,2006,monaco
+3,7,Lithuania,2006,monaco
+4,6,Switzerland,2006,monaco
+5,5,Sweden,2006,monaco
+6,4,Croatia,2006,monaco
+7,3,France,2006,monaco
+8,2,Ukraine,2006,monaco
+9,1,Norway,2006,monaco
+0,12,Bosnia & Herzegovina,2006,serbia-montenegro
+1,10,Croatia,2006,serbia-montenegro
+2,8,North Macedonia,2006,serbia-montenegro
+3,7,Finland,2006,serbia-montenegro
+4,6,Greece,2006,serbia-montenegro
+5,5,Russia,2006,serbia-montenegro
+6,4,Romania,2006,serbia-montenegro
+7,3,Lithuania,2006,serbia-montenegro
+8,2,Ukraine,2006,serbia-montenegro
+9,1,Sweden,2006,serbia-montenegro
+0,12,Belgium,2006,armenia
+1,12,Russia,2006,armenia
+2,10,France,2006,armenia
+3,10,The Netherlands,2006,armenia
+4,10,Turkey,2006,armenia
+5,10,Greece,2006,armenia
+6,8,Bulgaria,2006,armenia
+7,8,Israel,2006,armenia
+8,8,Spain,2006,armenia
+9,8,Ukraine,2006,armenia
+10,8,Belarus,2006,armenia
+11,7,Cyprus,2006,armenia
+12,7,Moldova,2006,armenia
+13,5,Poland,2006,armenia
+14,3,Germany,2006,armenia
+15,2,Lithuania,2006,armenia
+16,1,Romania,2006,armenia
+17,129,points received,2006,armenia
+0,3,Monaco,2006,france
+1,2,Armenia,2006,france
+2,5,points received,2006,france
+0,8,Ireland,2006,united-kingdom
+1,4,Denmark,2006,united-kingdom
+2,3,Malta,2006,united-kingdom
+3,2,Andorra,2006,united-kingdom
+4,2,Norway,2006,united-kingdom
+5,2,Estonia,2006,united-kingdom
+6,1,Latvia,2006,united-kingdom
+7,1,Croatia,2006,united-kingdom
+8,1,Poland,2006,united-kingdom
+9,1,Cyprus,2006,united-kingdom
+10,25,points received,2006,united-kingdom
+0,12,Armenia,2006,belgium
+1,10,Greece,2006,belgium
+2,8,Finland,2006,belgium
+3,7,Turkey,2006,belgium
+4,6,Bosnia & Herzegovina,2006,belgium
+5,5,Sweden,2006,belgium
+6,4,Lithuania,2006,belgium
+7,3,Russia,2006,belgium
+8,2,Romania,2006,belgium
+9,1,Germany,2006,belgium
+0,12,Greece,2006,cyprus
+1,10,Romania,2006,cyprus
+2,8,Russia,2006,cyprus
+3,7,Armenia,2006,cyprus
+4,6,Ukraine,2006,cyprus
+5,5,Finland,2006,cyprus
+6,4,Lithuania,2006,cyprus
+7,3,Switzerland,2006,cyprus
+8,2,Bosnia & Herzegovina,2006,cyprus
+9,1,United Kingdom,2006,cyprus
+0,12,Turkey,2006,the-netherlands
+1,10,Armenia,2006,the-netherlands
+2,8,Bosnia & Herzegovina,2006,the-netherlands
+3,7,Finland,2006,the-netherlands
+4,6,Lithuania,2006,the-netherlands
+5,5,Greece,2006,the-netherlands
+6,4,Ireland,2006,the-netherlands
+7,3,Germany,2006,the-netherlands
+8,2,Russia,2006,the-netherlands
+9,1,Ukraine,2006,the-netherlands
+0,10,Denmark,2006,sweden
+1,10,Norway,2006,sweden
+2,10,Albania,2006,sweden
+3,8,Andorra,2006,sweden
+4,8,Portugal,2006,sweden
+5,7,Latvia,2006,sweden
+6,7,Slovenia,2006,sweden
+7,7,Finland,2006,sweden
+8,7,Estonia,2006,sweden
+9,7,Iceland,2006,sweden
+10,7,Ireland,2006,sweden
+11,7,Poland,2006,sweden
+12,6,Armenia,2006,sweden
+13,6,Spain,2006,sweden
+14,6,Malta,2006,sweden
+15,6,Ukraine,2006,sweden
+16,5,Monaco,2006,sweden
+17,5,Israel,2006,sweden
+18,5,Lithuania,2006,sweden
+19,5,Belarus,2006,sweden
+20,5,Belgium,2006,sweden
+21,5,Romania,2006,sweden
+22,4,United Kingdom,2006,sweden
+23,3,Bosnia & Herzegovina,2006,sweden
+24,3,France,2006,sweden
+25,3,Croatia,2006,sweden
+26,2,Russia,2006,sweden
+27,2,Moldova,2006,sweden
+28,2,Switzerland,2006,sweden
+29,1,Serbia & Montenegro,2006,sweden
+30,1,North Macedonia,2006,sweden
+31,170,points received,2006,sweden
+0,12,Greece,2006,finland
+1,12,United Kingdom,2006,finland
+2,12,Denmark,2006,finland
+3,12,Iceland,2006,finland
+4,12,Poland,2006,finland
+5,12,Sweden,2006,finland
+6,12,Estonia,2006,finland
+7,12,Norway,2006,finland
+8,10,Croatia,2006,finland
+9,10,Ireland,2006,finland
+10,10,Spain,2006,finland
+11,10,Lithuania,2006,finland
+12,10,Andorra,2006,finland
+13,10,Germany,2006,finland
+14,8,France,2006,finland
+15,8,Switzerland,2006,finland
+16,8,Belgium,2006,finland
+17,8,Slovenia,2006,finland
+18,8,Latvia,2006,finland
+19,8,Russia,2006,finland
+20,7,Ukraine,2006,finland
+21,7,Serbia & Montenegro,2006,finland
+22,7,Belarus,2006,finland
+23,7,Turkey,2006,finland
+24,7,Malta,2006,finland
+25,7,The Netherlands,2006,finland
+26,7,Bosnia & Herzegovina,2006,finland
+27,7,Israel,2006,finland
+28,6,Portugal,2006,finland
+29,6,North Macedonia,2006,finland
+30,6,Moldova,2006,finland
+31,5,Cyprus,2006,finland
+32,5,Bulgaria,2006,finland
+33,4,Romania,2006,finland
+34,292,points received,2006,finland
+0,12,Ireland,2006,lithuania
+1,10,Latvia,2006,lithuania
+2,10,United Kingdom,2006,lithuania
+3,10,Iceland,2006,lithuania
+4,8,Finland,2006,lithuania
+5,8,Estonia,2006,lithuania
+6,8,Poland,2006,lithuania
+7,7,Monaco,2006,lithuania
+8,7,Denmark,2006,lithuania
+9,7,Andorra,2006,lithuania
+10,6,Croatia,2006,lithuania
+11,6,The Netherlands,2006,lithuania
+12,6,Belarus,2006,lithuania
+13,5,Norway,2006,lithuania
+14,5,Russia,2006,lithuania
+15,5,Ukraine,2006,lithuania
+16,4,Moldova,2006,lithuania
+17,4,Spain,2006,lithuania
+18,4,Belgium,2006,lithuania
+19,4,Cyprus,2006,lithuania
+20,4,Greece,2006,lithuania
+21,4,Portugal,2006,lithuania
+22,3,Serbia & Montenegro,2006,lithuania
+23,3,North Macedonia,2006,lithuania
+24,3,Slovenia,2006,lithuania
+25,3,Israel,2006,lithuania
+26,3,Sweden,2006,lithuania
+27,1,Germany,2006,lithuania
+28,1,Bulgaria,2006,lithuania
+29,1,Malta,2006,lithuania
+30,162,points received,2006,lithuania
+0,1,Albania,2006,malta
+1,1,points received,2006,malta
+0,12,Moldova,2006,romania
+1,12,Spain,2006,romania
+2,10,Malta,2006,romania
+3,10,Portugal,2006,romania
+4,10,Israel,2006,romania
+5,10,Cyprus,2006,romania
+6,7,Greece,2006,romania
+7,7,France,2006,romania
+8,6,United Kingdom,2006,romania
+9,6,Denmark,2006,romania
+10,6,Sweden,2006,romania
+11,6,Finland,2006,romania
+12,6,Ireland,2006,romania
+13,5,Slovenia,2006,romania
+14,5,Germany,2006,romania
+15,5,Croatia,2006,romania
+16,4,Russia,2006,romania
+17,4,Norway,2006,romania
+18,4,Serbia & Montenegro,2006,romania
+19,4,Armenia,2006,romania
+20,4,Estonia,2006,romania
+21,3,Poland,2006,romania
+22,3,Turkey,2006,romania
+23,3,Andorra,2006,romania
+24,3,Belarus,2006,romania
+25,2,Bulgaria,2006,romania
+26,2,North Macedonia,2006,romania
+27,2,Belgium,2006,romania
+28,2,Bosnia & Herzegovina,2006,romania
+29,2,Latvia,2006,romania
+30,2,Albania,2006,romania
+31,2,Iceland,2006,romania
+32,1,Ukraine,2006,romania
+33,1,Switzerland,2006,romania
+34,1,Lithuania,2006,romania
+35,172,points received,2006,romania
+0,12,Bosnia & Herzegovina,2006,albania
+1,10,Sweden,2006,albania
+2,8,Greece,2006,albania
+3,7,Turkey,2006,albania
+4,6,Spain,2006,albania
+5,5,Germany,2006,albania
+6,4,Russia,2006,albania
+7,3,North Macedonia,2006,albania
+8,2,Romania,2006,albania
+9,1,Malta,2006,albania
+0,12,Spain,2006,andorra
+1,10,Finland,2006,andorra
+2,8,Sweden,2006,andorra
+3,7,Lithuania,2006,andorra
+4,6,Russia,2006,andorra
+5,5,Ukraine,2006,andorra
+6,4,Ireland,2006,andorra
+7,3,Romania,2006,andorra
+8,2,United Kingdom,2006,andorra
+9,1,Greece,2006,andorra
+0,12,Russia,2006,belarus
+1,10,Ukraine,2006,belarus
+2,8,Armenia,2006,belarus
+3,7,Finland,2006,belarus
+4,6,Lithuania,2006,belarus
+5,5,Sweden,2006,belarus
+6,4,Bosnia & Herzegovina,2006,belarus
+7,3,Romania,2006,belarus
+8,2,Greece,2006,belarus
+9,1,Norway,2006,belarus
+0,12,Greece,2006,bulgaria
+1,10,Russia,2006,bulgaria
+2,8,Armenia,2006,bulgaria
+3,7,Bosnia & Herzegovina,2006,bulgaria
+4,6,North Macedonia,2006,bulgaria
+5,5,Finland,2006,bulgaria
+6,4,Turkey,2006,bulgaria
+7,3,Ukraine,2006,bulgaria
+8,2,Romania,2006,bulgaria
+9,1,Lithuania,2006,bulgaria
+0,12,Romania,2006,moldova
+1,3,Portugal,2006,moldova
+2,3,Russia,2006,moldova
+3,2,Spain,2006,moldova
+4,1,Turkey,2006,moldova
+5,1,Greece,2006,moldova
+6,22,points received,2006,moldova
+0,10,Monaco,2006,ireland
+1,8,United Kingdom,2006,ireland
+2,7,Norway,2006,ireland
+3,6,Lithuania,2006,ireland
+4,6,Estonia,2006,ireland
+5,5,Sweden,2006,ireland
+6,5,Denmark,2006,ireland
+7,5,Portugal,2006,ireland
+8,4,Finland,2006,ireland
+9,4,Andorra,2006,ireland
+10,4,Germany,2006,ireland
+11,4,The Netherlands,2006,ireland
+12,4,Latvia,2006,ireland
+13,4,Malta,2006,ireland
+14,3,Switzerland,2006,ireland
+15,3,Armenia,2006,ireland
+16,2,Romania,2006,ireland
+17,2,Poland,2006,ireland
+18,2,Croatia,2006,ireland
+19,2,Ukraine,2006,ireland
+20,1,Slovenia,2006,ireland
+21,1,Iceland,2006,ireland
+22,1,France,2006,ireland
+23,93,points received,2006,ireland
+0,8,Iceland,2006,denmark
+1,8,Sweden,2006,denmark
+2,6,Norway,2006,denmark
+3,3,Finland,2006,denmark
+4,1,Estonia,2006,denmark
+5,26,points received,2006,denmark
+0,7,Russia,2006,norway
+1,6,Latvia,2006,norway
+2,5,Finland,2006,norway
+3,4,Iceland,2006,norway
+4,3,Moldova,2006,norway
+5,3,Ukraine,2006,norway
+6,2,Greece,2006,norway
+7,2,Sweden,2006,norway
+8,1,Monaco,2006,norway
+9,1,Belarus,2006,norway
+10,1,Denmark,2006,norway
+11,1,Armenia,2006,norway
+12,36,points received,2006,norway
+0,12,Bosnia & Herzegovina,2006,croatia
+1,10,Serbia & Montenegro,2006,croatia
+2,10,Slovenia,2006,croatia
+3,10,North Macedonia,2006,croatia
+4,6,Switzerland,2006,croatia
+5,4,Monaco,2006,croatia
+6,2,Germany,2006,croatia
+7,2,Turkey,2006,croatia
+8,56,points received,2006,croatia
+0,12,Finland,2006,estonia
+1,10,Russia,2006,estonia
+2,8,Lithuania,2006,estonia
+3,7,Sweden,2006,estonia
+4,6,Ireland,2006,estonia
+5,5,Ukraine,2006,estonia
+6,4,Romania,2006,estonia
+7,3,Latvia,2006,estonia
+8,2,United Kingdom,2006,estonia
+9,1,Denmark,2006,estonia
+0,8,Lithuania,2006,latvia
+1,8,Monaco,2006,latvia
+2,4,Ireland,2006,latvia
+3,4,Ukraine,2006,latvia
+4,3,Estonia,2006,latvia
+5,2,United Kingdom,2006,latvia
+6,1,Russia,2006,latvia
+7,30,points received,2006,latvia
+0,12,Finland,2006,poland
+1,10,Russia,2006,poland
+2,8,Lithuania,2006,poland
+3,7,Sweden,2006,poland
+4,6,Ukraine,2006,poland
+5,5,Armenia,2006,poland
+6,4,Bosnia & Herzegovina,2006,poland
+7,3,Romania,2006,poland
+8,2,Ireland,2006,poland
+9,1,United Kingdom,2006,poland
+0,12,Finland,2006,iceland
+1,10,Lithuania,2006,iceland
+2,8,Denmark,2006,iceland
+3,7,Sweden,2006,iceland
+4,6,Ukraine,2006,iceland
+5,5,Russia,2006,iceland
+6,4,Norway,2006,iceland
+7,3,Bosnia & Herzegovina,2006,iceland
+8,2,Romania,2006,iceland
+9,1,Ireland,2006,iceland
+0,12,Andorra,2006,spain
+1,6,Albania,2006,spain
+2,18,points received,2006,spain
+0,4,France,2006,israel
+1,4,points received,2006,israel
+0,12,Cyprus,2006,greece
+1,12,Bulgaria,2006,greece
+2,10,Romania,2006,greece
+3,10,Belgium,2006,greece
+4,8,Albania,2006,greece
+5,8,Germany,2006,greece
+6,8,Malta,2006,greece
+7,8,Armenia,2006,greece
+8,7,North Macedonia,2006,greece
+9,7,United Kingdom,2006,greece
+10,6,Serbia & Montenegro,2006,greece
+11,5,The Netherlands,2006,greece
+12,5,France,2006,greece
+13,5,Switzerland,2006,greece
+14,4,Turkey,2006,greece
+15,4,Sweden,2006,greece
+16,3,Lithuania,2006,greece
+17,2,Belarus,2006,greece
+18,1,Andorra,2006,greece
+19,1,Finland,2006,greece
+20,1,Bosnia & Herzegovina,2006,greece
+21,1,Moldova,2006,greece
+22,128,points received,2006,greece
+0,12,Ukraine,2006,portugal
+1,10,Romania,2006,portugal
+2,8,Sweden,2006,portugal
+3,7,Russia,2006,portugal
+4,6,Finland,2006,portugal
+5,5,Ireland,2006,portugal
+6,4,Lithuania,2006,portugal
+7,3,Moldova,2006,portugal
+8,2,Bosnia & Herzegovina,2006,portugal
+9,1,Switzerland,2006,portugal
+0,12,Belarus,2006,russia
+1,12,Israel,2006,russia
+2,12,Armenia,2006,russia
+3,12,Latvia,2006,russia
+4,12,Ukraine,2006,russia
+5,12,Finland,2006,russia
+6,12,Lithuania,2006,russia
+7,10,Poland,2006,russia
+8,10,Estonia,2006,russia
+9,10,Bulgaria,2006,russia
+10,10,Moldova,2006,russia
+11,8,Romania,2006,russia
+12,8,Cyprus,2006,russia
+13,8,Greece,2006,russia
+14,8,North Macedonia,2006,russia
+15,7,Croatia,2006,russia
+16,7,Spain,2006,russia
+17,7,Portugal,2006,russia
+18,7,Sweden,2006,russia
+19,6,Andorra,2006,russia
+20,6,Bosnia & Herzegovina,2006,russia
+21,6,Germany,2006,russia
+22,5,Ireland,2006,russia
+23,5,Serbia & Montenegro,2006,russia
+24,5,Turkey,2006,russia
+25,5,Malta,2006,russia
+26,5,Iceland,2006,russia
+27,4,Slovenia,2006,russia
+28,4,Albania,2006,russia
+29,3,Norway,2006,russia
+30,3,Belgium,2006,russia
+31,2,France,2006,russia
+32,2,The Netherlands,2006,russia
+33,2,Denmark,2006,russia
+34,1,United Kingdom,2006,russia
+35,248,points received,2006,russia
+0,12,Portugal,2006,ukraine
+1,10,Armenia,2006,ukraine
+2,10,Russia,2006,ukraine
+3,10,Belarus,2006,ukraine
+4,8,Turkey,2006,ukraine
+5,8,Moldova,2006,ukraine
+6,7,Lithuania,2006,ukraine
+7,6,Cyprus,2006,ukraine
+8,6,Israel,2006,ukraine
+9,6,Poland,2006,ukraine
+10,6,Iceland,2006,ukraine
+11,5,Estonia,2006,ukraine
+12,5,Greece,2006,ukraine
+13,5,Bosnia & Herzegovina,2006,ukraine
+14,5,North Macedonia,2006,ukraine
+15,5,Latvia,2006,ukraine
+16,5,Andorra,2006,ukraine
+17,4,Croatia,2006,ukraine
+18,3,Spain,2006,ukraine
+19,3,Romania,2006,ukraine
+20,3,Bulgaria,2006,ukraine
+21,2,Finland,2006,ukraine
+22,2,Monaco,2006,ukraine
+23,2,Malta,2006,ukraine
+24,2,Serbia & Montenegro,2006,ukraine
+25,2,Slovenia,2006,ukraine
+26,1,Ireland,2006,ukraine
+27,1,Sweden,2006,ukraine
+28,1,The Netherlands,2006,ukraine
+29,145,points received,2006,ukraine

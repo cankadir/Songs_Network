@@ -1,0 +1,229 @@
+,pts,pts_from,year,points_to
+0,10,Germany,1987,iceland
+1,6,Greece,1987,iceland
+2,4,Spain,1987,iceland
+3,4,Belgium,1987,iceland
+4,4,Norway,1987,iceland
+5,28,points received,1987,iceland
+0,8,Sweden,1987,denmark
+1,8,France,1987,denmark
+2,8,Finland,1987,denmark
+3,8,Greece,1987,denmark
+4,7,United Kingdom,1987,denmark
+5,7,Austria,1987,denmark
+6,7,Norway,1987,denmark
+7,7,Iceland,1987,denmark
+8,6,The Netherlands,1987,denmark
+9,6,Israel,1987,denmark
+10,4,Ireland,1987,denmark
+11,3,Switzerland,1987,denmark
+12,2,Italy,1987,denmark
+13,1,Portugal,1987,denmark
+14,1,Turkey,1987,denmark
+15,83,points received,1987,denmark
+0,2,United Kingdom,1987,luxembourg
+1,2,Portugal,1987,luxembourg
+2,4,points received,1987,luxembourg
+0,12,Greece,1987,cyprus
+1,10,Yugoslavia,1987,cyprus
+2,10,Denmark,1987,cyprus
+3,8,Ireland,1987,cyprus
+4,6,United Kingdom,1987,cyprus
+5,6,Norway,1987,cyprus
+6,6,Finland,1987,cyprus
+7,6,Iceland,1987,cyprus
+8,5,France,1987,cyprus
+9,4,Switzerland,1987,cyprus
+10,3,Germany,1987,cyprus
+11,2,Sweden,1987,cyprus
+12,2,The Netherlands,1987,cyprus
+13,80,points received,1987,cyprus
+0,12,France,1987,the-netherlands
+1,10,Italy,1987,the-netherlands
+2,10,Switzerland,1987,the-netherlands
+3,8,Yugoslavia,1987,the-netherlands
+4,8,Luxembourg,1987,the-netherlands
+5,7,Turkey,1987,the-netherlands
+6,6,Ireland,1987,the-netherlands
+7,5,Spain,1987,the-netherlands
+8,5,Israel,1987,the-netherlands
+9,3,United Kingdom,1987,the-netherlands
+10,3,Greece,1987,the-netherlands
+11,2,Finland,1987,the-netherlands
+12,2,Denmark,1987,the-netherlands
+13,2,Austria,1987,the-netherlands
+14,83,points received,1987,the-netherlands
+0,0,points received,1987,turkey
+0,10,France,1987,israel
+1,10,Portugal,1987,israel
+2,8,Switzerland,1987,israel
+3,8,Germany,1987,israel
+4,7,Finland,1987,israel
+5,6,Belgium,1987,israel
+6,5,Ireland,1987,israel
+7,5,Iceland,1987,israel
+8,4,United Kingdom,1987,israel
+9,4,Sweden,1987,israel
+10,3,The Netherlands,1987,israel
+11,2,Norway,1987,israel
+12,1,Austria,1987,israel
+13,73,points received,1987,israel
+0,12,Luxembourg,1987,france
+1,10,Ireland,1987,france
+2,5,Germany,1987,france
+3,5,Italy,1987,france
+4,4,Greece,1987,france
+5,4,Iceland,1987,france
+6,2,Switzerland,1987,france
+7,1,The Netherlands,1987,france
+8,1,Norway,1987,france
+9,44,points received,1987,france
+0,12,Finland,1987,ireland
+1,12,United Kingdom,1987,ireland
+2,12,Austria,1987,ireland
+3,12,Switzerland,1987,ireland
+4,12,Belgium,1987,ireland
+5,12,The Netherlands,1987,ireland
+6,12,Sweden,1987,ireland
+7,12,Italy,1987,ireland
+8,10,Turkey,1987,ireland
+9,10,Luxembourg,1987,ireland
+10,10,Spain,1987,ireland
+11,8,Portugal,1987,ireland
+12,8,Cyprus,1987,ireland
+13,8,Norway,1987,ireland
+14,6,Germany,1987,ireland
+15,6,Yugoslavia,1987,ireland
+16,5,Denmark,1987,ireland
+17,4,Israel,1987,ireland
+18,1,France,1987,ireland
+19,172,points received,1987,ireland
+0,10,Greece,1987,spain
+1,10,points received,1987,spain
+0,7,Greece,1987,austria
+1,1,Italy,1987,austria
+2,8,points received,1987,austria
+0,8,United Kingdom,1987,belgium
+1,7,Spain,1987,belgium
+2,6,Italy,1987,belgium
+3,5,Luxembourg,1987,belgium
+4,5,Cyprus,1987,belgium
+5,5,Norway,1987,belgium
+6,4,Yugoslavia,1987,belgium
+7,4,Turkey,1987,belgium
+8,4,Germany,1987,belgium
+9,3,Finland,1987,belgium
+10,3,Austria,1987,belgium
+11,2,Israel,1987,belgium
+12,56,points received,1987,belgium
+0,12,Cyprus,1987,greece
+1,8,Italy,1987,greece
+2,7,Luxembourg,1987,greece
+3,7,France,1987,greece
+4,6,Sweden,1987,greece
+5,6,Denmark,1987,greece
+6,5,Yugoslavia,1987,greece
+7,5,United Kingdom,1987,greece
+8,5,The Netherlands,1987,greece
+9,2,Belgium,1987,greece
+10,1,Iceland,1987,greece
+11,64,points received,1987,greece
+0,8,Spain,1987,portugal
+1,5,Greece,1987,portugal
+2,2,Germany,1987,portugal
+3,15,points received,1987,portugal
+0,10,Sweden,1987,norway
+1,7,Germany,1987,norway
+2,7,Italy,1987,norway
+3,7,Belgium,1987,norway
+4,6,Switzerland,1987,norway
+5,5,Finland,1987,norway
+6,4,Austria,1987,norway
+7,4,The Netherlands,1987,norway
+8,4,France,1987,norway
+9,3,Cyprus,1987,norway
+10,3,Denmark,1987,norway
+11,3,Spain,1987,norway
+12,2,Ireland,1987,norway
+13,65,points received,1987,norway
+0,12,Ireland,1987,italy
+1,12,Portugal,1987,italy
+2,12,Spain,1987,italy
+3,12,Yugoslavia,1987,italy
+4,12,Germany,1987,italy
+5,8,Turkey,1987,italy
+6,7,Switzerland,1987,italy
+7,6,Austria,1987,italy
+8,5,Belgium,1987,italy
+9,4,Finland,1987,italy
+10,4,Luxembourg,1987,italy
+11,3,Israel,1987,italy
+12,3,Iceland,1987,italy
+13,1,United Kingdom,1987,italy
+14,1,Cyprus,1987,italy
+15,1,Sweden,1987,italy
+16,103,points received,1987,italy
+0,10,Israel,1987,united-kingdom
+1,5,Sweden,1987,united-kingdom
+2,5,Austria,1987,united-kingdom
+3,5,Switzerland,1987,united-kingdom
+4,4,Denmark,1987,united-kingdom
+5,3,Belgium,1987,united-kingdom
+6,3,Ireland,1987,united-kingdom
+7,3,Portugal,1987,united-kingdom
+8,3,Turkey,1987,united-kingdom
+9,2,Yugoslavia,1987,united-kingdom
+10,2,Cyprus,1987,united-kingdom
+11,1,Finland,1987,united-kingdom
+12,1,Luxembourg,1987,united-kingdom
+13,47,points received,1987,united-kingdom
+0,12,Iceland,1987,germany
+1,12,Denmark,1987,germany
+2,10,Finland,1987,germany
+3,10,United Kingdom,1987,germany
+4,10,Austria,1987,germany
+5,10,Belgium,1987,germany
+6,10,The Netherlands,1987,germany
+7,8,Israel,1987,germany
+8,7,Yugoslavia,1987,germany
+9,7,Sweden,1987,germany
+10,7,Ireland,1987,germany
+11,6,France,1987,germany
+12,6,Luxembourg,1987,germany
+13,6,Cyprus,1987,germany
+14,6,Turkey,1987,germany
+15,5,Portugal,1987,germany
+16,4,Italy,1987,germany
+17,3,Norway,1987,germany
+18,1,Spain,1987,germany
+19,1,Switzerland,1987,germany
+20,141,points received,1987,germany
+0,7,The Netherlands,1987,switzerland
+1,5,Turkey,1987,switzerland
+2,4,Cyprus,1987,switzerland
+3,3,Yugoslavia,1987,switzerland
+4,3,Luxembourg,1987,switzerland
+5,2,Iceland,1987,switzerland
+6,1,Denmark,1987,switzerland
+7,1,Israel,1987,switzerland
+8,26,points received,1987,switzerland
+0,12,Israel,1987,sweden
+1,8,Iceland,1987,sweden
+2,7,Cyprus,1987,sweden
+3,7,Denmark,1987,sweden
+4,7,Portugal,1987,sweden
+5,3,Italy,1987,sweden
+6,3,France,1987,sweden
+7,2,Turkey,1987,sweden
+8,1,Belgium,1987,sweden
+9,50,points received,1987,sweden
+0,10,Norway,1987,finland
+1,8,The Netherlands,1987,finland
+2,4,Portugal,1987,finland
+3,3,Sweden,1987,finland
+4,2,Spain,1987,finland
+5,2,Luxembourg,1987,finland
+6,1,Germany,1987,finland
+7,1,Greece,1987,finland
+8,1,Yugoslavia,1987,finland
+9,32,points received,1987,finland

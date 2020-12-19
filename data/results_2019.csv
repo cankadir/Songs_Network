@@ -1,0 +1,592 @@
+,pts,pts_from,year,points_to
+0,6,North Macedonia,2019,malta
+1,6,Armenia,2019,malta
+2,4,Azerbaijan,2019,malta
+3,4,Australia,2019,malta
+4,20,points received from televoters,2019,malta
+0,12,Italy,2019,albania
+1,12,North Macedonia,2019,albania
+2,10,Switzerland,2019,albania
+3,7,Montenegro,2019,albania
+4,5,Greece,2019,albania
+5,1,Croatia,2019,albania
+6,47,points received from televoters,2019,albania
+0,2,Iceland,2019,czech-republic
+1,2,Moldova,2019,czech-republic
+2,2,Australia,2019,czech-republic
+3,1,Poland,2019,czech-republic
+4,7,points received from televoters,2019,czech-republic
+0,12,Russia,2019,armenia
+1,10,The Netherlands,2019,armenia
+2,8,Switzerland,2019,armenia
+3,7,Italy,2019,armenia
+4,6,Malta,2019,armenia
+5,5,Norway,2019,armenia
+6,4,France,2019,armenia
+7,3,Iceland,2019,armenia
+8,2,Sweden,2019,armenia
+9,1,Australia,2019,armenia
+0,8,Denmark,2019,germany
+1,6,Switzerland,2019,germany
+2,5,Lithuania,2019,germany
+3,3,Australia,2019,germany
+4,2,Ireland,2019,germany
+5,24,points received from juries,2019,germany
+0,12,San Marino,2019,russia
+1,12,Israel,2019,russia
+2,12,Estonia,2019,russia
+3,12,Latvia,2019,russia
+4,12,Lithuania,2019,russia
+5,12,Azerbaijan,2019,russia
+6,12,Albania,2019,russia
+7,12,Belarus,2019,russia
+8,12,Moldova,2019,russia
+9,12,Czech Republic,2019,russia
+10,12,Armenia,2019,russia
+11,10,Cyprus,2019,russia
+12,10,Montenegro,2019,russia
+13,10,Portugal,2019,russia
+14,8,Greece,2019,russia
+15,8,Italy,2019,russia
+16,8,Serbia,2019,russia
+17,8,Georgia,2019,russia
+18,8,Germany,2019,russia
+19,7,Romania,2019,russia
+20,7,Hungary,2019,russia
+21,5,Austria,2019,russia
+22,5,Ireland,2019,russia
+23,4,Finland,2019,russia
+24,4,Malta,2019,russia
+25,3,France,2019,russia
+26,3,Poland,2019,russia
+27,2,Spain,2019,russia
+28,1,Belgium,2019,russia
+29,1,Norway,2019,russia
+30,244,points received from televoters,2019,russia
+0,7,Sweden,2019,denmark
+1,6,United Kingdom,2019,denmark
+2,6,Estonia,2019,denmark
+3,5,The Netherlands,2019,denmark
+4,5,Norway,2019,denmark
+5,4,France,2019,denmark
+6,4,Germany,2019,denmark
+7,4,Italy,2019,denmark
+8,4,Iceland,2019,denmark
+9,3,Slovenia,2019,denmark
+10,1,Portugal,2019,denmark
+11,1,Israel,2019,denmark
+12,1,Switzerland,2019,denmark
+13,51,points received from televoters,2019,denmark
+0,10,Albania,2019,san-marino
+1,10,Azerbaijan,2019,san-marino
+2,10,Georgia,2019,san-marino
+3,8,Montenegro,2019,san-marino
+4,8,North Macedonia,2019,san-marino
+5,8,Moldova,2019,san-marino
+6,6,Hungary,2019,san-marino
+7,2,Croatia,2019,san-marino
+8,1,Belarus,2019,san-marino
+9,1,Iceland,2019,san-marino
+10,1,Serbia,2019,san-marino
+11,65,points received from televoters,2019,san-marino
+0,12,Serbia,2019,fyr-macedonia
+1,12,Slovenia,2019,fyr-macedonia
+2,7,Croatia,2019,fyr-macedonia
+3,6,Albania,2019,fyr-macedonia
+4,6,Montenegro,2019,fyr-macedonia
+5,5,Malta,2019,fyr-macedonia
+6,3,Azerbaijan,2019,fyr-macedonia
+7,2,Switzerland,2019,fyr-macedonia
+8,2,Georgia,2019,fyr-macedonia
+9,2,Sweden,2019,fyr-macedonia
+10,1,The Netherlands,2019,fyr-macedonia
+11,58,points received from televoters,2019,fyr-macedonia
+0,12,Norway,2019,sweden
+1,10,Denmark,2019,sweden
+2,8,Australia,2019,sweden
+3,8,Iceland,2019,sweden
+4,8,The Netherlands,2019,sweden
+5,7,Finland,2019,sweden
+6,6,Malta,2019,sweden
+7,6,Georgia,2019,sweden
+8,6,Spain,2019,sweden
+9,5,United Kingdom,2019,sweden
+10,4,Switzerland,2019,sweden
+11,3,Estonia,2019,sweden
+12,3,Lithuania,2019,sweden
+13,2,Armenia,2019,sweden
+14,2,Ireland,2019,sweden
+15,2,Belgium,2019,sweden
+16,1,Germany,2019,sweden
+17,93,points received from televoters,2019,sweden
+0,10,Croatia,2019,slovenia
+1,10,Serbia,2019,slovenia
+2,7,Estonia,2019,slovenia
+3,6,Russia,2019,slovenia
+4,5,Belarus,2019,slovenia
+5,4,Montenegro,2019,slovenia
+6,4,Poland,2019,slovenia
+7,3,Hungary,2019,slovenia
+8,3,Germany,2019,slovenia
+9,2,Latvia,2019,slovenia
+10,2,North Macedonia,2019,slovenia
+11,2,Austria,2019,slovenia
+12,1,Finland,2019,slovenia
+13,59,points received from televoters,2019,slovenia
+0,12,Greece,2019,cyprus
+1,12,Georgia,2019,cyprus
+2,7,San Marino,2019,cyprus
+3,1,United Kingdom,2019,cyprus
+4,32,points received from televoters,2019,cyprus
+0,12,Belgium,2019,the-netherlands
+1,12,Romania,2019,the-netherlands
+2,10,Poland,2019,the-netherlands
+3,10,Armenia,2019,the-netherlands
+4,10,Belarus,2019,the-netherlands
+5,10,Malta,2019,the-netherlands
+6,8,Norway,2019,the-netherlands
+7,8,Spain,2019,the-netherlands
+8,8,Portugal,2019,the-netherlands
+9,8,Hungary,2019,the-netherlands
+10,8,Ireland,2019,the-netherlands
+11,8,Estonia,2019,the-netherlands
+12,7,Denmark,2019,the-netherlands
+13,7,Albania,2019,the-netherlands
+14,7,Germany,2019,the-netherlands
+15,7,Austria,2019,the-netherlands
+16,7,North Macedonia,2019,the-netherlands
+17,7,Azerbaijan,2019,the-netherlands
+18,7,Lithuania,2019,the-netherlands
+19,6,Australia,2019,the-netherlands
+20,6,Switzerland,2019,the-netherlands
+21,6,Cyprus,2019,the-netherlands
+22,6,Sweden,2019,the-netherlands
+23,6,Greece,2019,the-netherlands
+24,6,Moldova,2019,the-netherlands
+25,6,San Marino,2019,the-netherlands
+26,5,France,2019,the-netherlands
+27,5,Georgia,2019,the-netherlands
+28,5,Latvia,2019,the-netherlands
+29,5,Slovenia,2019,the-netherlands
+30,5,Finland,2019,the-netherlands
+31,5,Iceland,2019,the-netherlands
+32,5,Italy,2019,the-netherlands
+33,5,Russia,2019,the-netherlands
+34,4,Croatia,2019,the-netherlands
+35,4,United Kingdom,2019,the-netherlands
+36,4,Czech Republic,2019,the-netherlands
+37,3,Serbia,2019,the-netherlands
+38,2,Israel,2019,the-netherlands
+39,1,Montenegro,2019,the-netherlands
+40,261,points received from televoters,2019,the-netherlands
+0,12,Cyprus,2019,greece
+1,10,San Marino,2019,greece
+2,2,Albania,2019,greece
+3,24,points received from televoters,2019,greece
+0,12,France,2019,israel
+1,7,Moldova,2019,israel
+2,5,Cyprus,2019,israel
+3,4,Georgia,2019,israel
+4,3,Romania,2019,israel
+5,3,Czech Republic,2019,israel
+6,1,San Marino,2019,israel
+7,35,points received from televoters,2019,israel
+0,12,The Netherlands,2019,norway
+1,12,Australia,2019,norway
+2,12,Ireland,2019,norway
+3,12,Iceland,2019,norway
+4,12,Sweden,2019,norway
+5,12,United Kingdom,2019,norway
+6,12,Denmark,2019,norway
+7,12,Germany,2019,norway
+8,10,Italy,2019,norway
+9,10,Israel,2019,norway
+10,10,Finland,2019,norway
+11,10,Estonia,2019,norway
+12,10,Hungary,2019,norway
+13,10,Russia,2019,norway
+14,10,Czech Republic,2019,norway
+15,8,Belarus,2019,norway
+16,8,France,2019,norway
+17,8,Latvia,2019,norway
+18,8,Lithuania,2019,norway
+19,8,Poland,2019,norway
+20,8,Austria,2019,norway
+21,8,Switzerland,2019,norway
+22,7,Belgium,2019,norway
+23,7,Spain,2019,norway
+24,7,Malta,2019,norway
+25,6,Portugal,2019,norway
+26,6,Slovenia,2019,norway
+27,5,Croatia,2019,norway
+28,5,Armenia,2019,norway
+29,5,North Macedonia,2019,norway
+30,5,Albania,2019,norway
+31,4,Romania,2019,norway
+32,4,Serbia,2019,norway
+33,3,San Marino,2019,norway
+34,3,Moldova,2019,norway
+35,1,Cyprus,2019,norway
+36,1,Azerbaijan,2019,norway
+37,291,points received from televoters,2019,norway
+0,3,Ireland,2019,united-kingdom
+1,3,points received from televoters,2019,united-kingdom
+0,12,Hungary,2019,iceland
+1,12,Poland,2019,iceland
+2,12,Finland,2019,iceland
+3,10,Australia,2019,iceland
+4,10,Norway,2019,iceland
+5,8,Sweden,2019,iceland
+6,8,United Kingdom,2019,iceland
+7,7,Italy,2019,iceland
+8,7,The Netherlands,2019,iceland
+9,7,Slovenia,2019,iceland
+10,7,Latvia,2019,iceland
+11,7,Russia,2019,iceland
+12,7,Belarus,2019,iceland
+13,6,Czech Republic,2019,iceland
+14,6,Ireland,2019,iceland
+15,6,Austria,2019,iceland
+16,6,Lithuania,2019,iceland
+17,5,Estonia,2019,iceland
+18,5,Serbia,2019,iceland
+19,5,Romania,2019,iceland
+20,4,Denmark,2019,iceland
+21,3,Portugal,2019,iceland
+22,3,Croatia,2019,iceland
+23,3,Spain,2019,iceland
+24,3,Armenia,2019,iceland
+25,3,Belgium,2019,iceland
+26,3,Georgia,2019,iceland
+27,2,Germany,2019,iceland
+28,2,Montenegro,2019,iceland
+29,2,Greece,2019,iceland
+30,2,San Marino,2019,iceland
+31,1,Moldova,2019,iceland
+32,1,France,2019,iceland
+33,1,Malta,2019,iceland
+34,186,points received from televoters,2019,iceland
+0,10,Sweden,2019,estonia
+1,10,Latvia,2019,estonia
+2,8,Denmark,2019,estonia
+3,8,Finland,2019,estonia
+4,4,Lithuania,2019,estonia
+5,3,Iceland,2019,estonia
+6,2,Norway,2019,estonia
+7,1,Czech Republic,2019,estonia
+8,1,Slovenia,2019,estonia
+9,1,Ireland,2019,estonia
+10,48,points received from televoters,2019,estonia
+0,8,Russia,2019,belarus
+1,5,Azerbaijan,2019,belarus
+2,13,points received from televoters,2019,belarus
+0,12,Russia,2019,azerbaijan
+1,10,Moldova,2019,azerbaijan
+2,7,Czech Republic,2019,azerbaijan
+3,7,Georgia,2019,azerbaijan
+4,6,Belarus,2019,azerbaijan
+5,6,Romania,2019,azerbaijan
+6,5,Denmark,2019,azerbaijan
+7,5,Lithuania,2019,azerbaijan
+8,4,The Netherlands,2019,azerbaijan
+9,4,Latvia,2019,azerbaijan
+10,4,San Marino,2019,azerbaijan
+11,3,Sweden,2019,azerbaijan
+12,3,Norway,2019,azerbaijan
+13,3,United Kingdom,2019,azerbaijan
+14,3,Albania,2019,azerbaijan
+15,3,Israel,2019,azerbaijan
+16,3,Montenegro,2019,azerbaijan
+17,2,Poland,2019,azerbaijan
+18,2,Malta,2019,azerbaijan
+19,2,Hungary,2019,azerbaijan
+20,1,Australia,2019,azerbaijan
+21,1,Spain,2019,azerbaijan
+22,1,Austria,2019,azerbaijan
+23,1,Estonia,2019,azerbaijan
+24,1,North Macedonia,2019,azerbaijan
+25,1,Italy,2019,azerbaijan
+26,100,points received from televoters,2019,azerbaijan
+0,10,Belgium,2019,france
+1,4,Armenia,2019,france
+2,4,Spain,2019,france
+3,4,Israel,2019,france
+4,3,Switzerland,2019,france
+5,3,Cyprus,2019,france
+6,3,Australia,2019,france
+7,2,Italy,2019,france
+8,2,Portugal,2019,france
+9,1,Romania,2019,france
+10,1,Hungary,2019,france
+11,1,Greece,2019,france
+12,38,points received from televoters,2019,france
+0,12,Spain,2019,italy
+1,12,Croatia,2019,italy
+2,12,Switzerland,2019,italy
+3,12,Malta,2019,italy
+4,10,France,2019,italy
+5,10,Lithuania,2019,italy
+6,10,The Netherlands,2019,italy
+7,10,Austria,2019,italy
+8,10,Greece,2019,italy
+9,8,Israel,2019,italy
+10,8,San Marino,2019,italy
+11,8,Belgium,2019,italy
+12,8,Cyprus,2019,italy
+13,8,Slovenia,2019,italy
+14,8,Albania,2019,italy
+15,8,Romania,2019,italy
+16,7,Armenia,2019,italy
+17,7,Poland,2019,italy
+18,7,Portugal,2019,italy
+19,7,Norway,2019,italy
+20,7,Serbia,2019,italy
+21,6,Iceland,2019,italy
+22,6,Azerbaijan,2019,italy
+23,6,Germany,2019,italy
+24,5,Australia,2019,italy
+25,5,Moldova,2019,italy
+26,5,Montenegro,2019,italy
+27,4,Ireland,2019,italy
+28,4,Hungary,2019,italy
+29,4,Sweden,2019,italy
+30,3,Denmark,2019,italy
+31,3,Finland,2019,italy
+32,3,North Macedonia,2019,italy
+33,3,Belarus,2019,italy
+34,3,Latvia,2019,italy
+35,2,Czech Republic,2019,italy
+36,1,Russia,2019,italy
+37,1,Georgia,2019,italy
+38,253,points received from televoters,2019,italy
+0,12,Montenegro,2019,serbia
+1,10,North Macedonia,2019,serbia
+2,10,Slovenia,2019,serbia
+3,8,Croatia,2019,serbia
+4,7,Switzerland,2019,serbia
+5,4,Austria,2019,serbia
+6,3,Russia,2019,serbia
+7,54,points received from televoters,2019,serbia
+0,12,Austria,2019,switzerland
+1,10,Spain,2019,switzerland
+2,10,Germany,2019,switzerland
+3,10,Romania,2019,switzerland
+4,8,Malta,2019,switzerland
+5,8,Armenia,2019,switzerland
+6,8,Azerbaijan,2019,switzerland
+7,7,Israel,2019,switzerland
+8,7,Iceland,2019,switzerland
+9,7,United Kingdom,2019,switzerland
+10,7,Australia,2019,switzerland
+11,7,Cyprus,2019,switzerland
+12,7,Ireland,2019,switzerland
+13,7,Greece,2019,switzerland
+14,6,Croatia,2019,switzerland
+15,6,Denmark,2019,switzerland
+16,6,The Netherlands,2019,switzerland
+17,6,Norway,2019,switzerland
+18,6,Serbia,2019,switzerland
+19,5,Belgium,2019,switzerland
+20,5,Poland,2019,switzerland
+21,5,Portugal,2019,switzerland
+22,5,Czech Republic,2019,switzerland
+23,5,Hungary,2019,switzerland
+24,5,San Marino,2019,switzerland
+25,4,Albania,2019,switzerland
+26,4,Estonia,2019,switzerland
+27,4,North Macedonia,2019,switzerland
+28,4,Slovenia,2019,switzerland
+29,4,Moldova,2019,switzerland
+30,4,Belarus,2019,switzerland
+31,3,Italy,2019,switzerland
+32,2,Russia,2019,switzerland
+33,2,Finland,2019,switzerland
+34,2,France,2019,switzerland
+35,2,Lithuania,2019,switzerland
+36,1,Sweden,2019,switzerland
+37,1,Latvia,2019,switzerland
+38,212,points received from televoters,2019,switzerland
+0,10,United Kingdom,2019,australia
+1,10,Ireland,2019,australia
+2,10,Iceland,2019,australia
+3,8,Czech Republic,2019,australia
+4,6,Israel,2019,australia
+5,6,Italy,2019,australia
+6,6,France,2019,australia
+7,6,Latvia,2019,australia
+8,6,Finland,2019,australia
+9,6,Poland,2019,australia
+10,5,Spain,2019,australia
+11,5,Germany,2019,australia
+12,5,Sweden,2019,australia
+13,4,Portugal,2019,australia
+14,4,Belgium,2019,australia
+15,4,Norway,2019,australia
+16,4,Russia,2019,australia
+17,3,Malta,2019,australia
+18,3,Austria,2019,australia
+19,3,Greece,2019,australia
+20,2,Cyprus,2019,australia
+21,2,Romania,2019,australia
+22,2,Denmark,2019,australia
+23,2,Slovenia,2019,australia
+24,2,Estonia,2019,australia
+25,2,Belarus,2019,australia
+26,2,The Netherlands,2019,australia
+27,1,Lithuania,2019,australia
+28,1,Armenia,2019,australia
+29,1,Albania,2019,australia
+30,131,points received from televoters,2019,australia
+0,12,Portugal,2019,spain
+1,7,France,2019,spain
+2,6,Belgium,2019,spain
+3,5,Switzerland,2019,spain
+4,5,Israel,2019,spain
+5,4,Cyprus,2019,spain
+6,4,Greece,2019,spain
+7,3,The Netherlands,2019,spain
+8,2,United Kingdom,2019,spain
+9,2,Azerbaijan,2019,spain
+10,2,Serbia,2019,spain
+11,1,Denmark,2019,spain
+12,53,points received from televoters,2019,spain
+0,12,Switzerland,2019,austria
+1,10,Italy,2019,austria
+2,8,Norway,2019,austria
+3,7,The Netherlands,2019,austria
+4,6,Iceland,2019,austria
+5,5,Russia,2019,austria
+6,4,Serbia,2019,austria
+7,3,Australia,2019,austria
+8,2,Slovenia,2019,austria
+9,1,Azerbaijan,2019,austria
+0,12,The Netherlands,2019,belgium
+1,10,France,2019,belgium
+2,8,Italy,2019,belgium
+3,7,Norway,2019,belgium
+4,6,Spain,2019,belgium
+5,5,Switzerland,2019,belgium
+6,4,Australia,2019,belgium
+7,3,Iceland,2019,belgium
+8,2,Sweden,2019,belgium
+9,1,Russia,2019,belgium
+0,12,Italy,2019,croatia
+1,10,Slovenia,2019,croatia
+2,8,Serbia,2019,croatia
+3,7,North Macedonia,2019,croatia
+4,6,Switzerland,2019,croatia
+5,5,Norway,2019,croatia
+6,4,The Netherlands,2019,croatia
+7,3,Iceland,2019,croatia
+8,2,San Marino,2019,croatia
+9,1,Albania,2019,croatia
+0,12,Iceland,2019,finland
+1,10,Norway,2019,finland
+2,8,Estonia,2019,finland
+3,7,Sweden,2019,finland
+4,6,Australia,2019,finland
+5,5,The Netherlands,2019,finland
+6,4,Russia,2019,finland
+7,3,Italy,2019,finland
+8,2,Switzerland,2019,finland
+9,1,Slovenia,2019,finland
+0,12,Cyprus,2019,georgia
+1,10,San Marino,2019,georgia
+2,8,Russia,2019,georgia
+3,7,Azerbaijan,2019,georgia
+4,6,Sweden,2019,georgia
+5,5,The Netherlands,2019,georgia
+6,4,Israel,2019,georgia
+7,3,Iceland,2019,georgia
+8,2,North Macedonia,2019,georgia
+9,1,Italy,2019,georgia
+0,12,Iceland,2019,hungary
+1,10,Norway,2019,hungary
+2,8,The Netherlands,2019,hungary
+3,7,Russia,2019,hungary
+4,6,San Marino,2019,hungary
+5,5,Switzerland,2019,hungary
+6,4,Italy,2019,hungary
+7,3,Slovenia,2019,hungary
+8,2,Azerbaijan,2019,hungary
+9,1,France,2019,hungary
+0,12,Norway,2019,ireland
+1,10,Australia,2019,ireland
+2,8,The Netherlands,2019,ireland
+3,7,Switzerland,2019,ireland
+4,6,Iceland,2019,ireland
+5,5,Russia,2019,ireland
+6,4,Italy,2019,ireland
+7,3,United Kingdom,2019,ireland
+8,2,Sweden,2019,ireland
+9,1,Estonia,2019,ireland
+0,12,Russia,2019,latvia
+1,10,Estonia,2019,latvia
+2,8,Norway,2019,latvia
+3,7,Iceland,2019,latvia
+4,6,Australia,2019,latvia
+5,5,The Netherlands,2019,latvia
+6,4,Azerbaijan,2019,latvia
+7,3,Italy,2019,latvia
+8,2,Slovenia,2019,latvia
+9,1,Switzerland,2019,latvia
+0,12,Russia,2019,lithuania
+1,10,Italy,2019,lithuania
+2,8,Norway,2019,lithuania
+3,7,The Netherlands,2019,lithuania
+4,6,Iceland,2019,lithuania
+5,5,Azerbaijan,2019,lithuania
+6,4,Estonia,2019,lithuania
+7,3,Sweden,2019,lithuania
+8,2,Switzerland,2019,lithuania
+9,1,Australia,2019,lithuania
+0,12,Russia,2019,moldova
+1,10,Azerbaijan,2019,moldova
+2,8,San Marino,2019,moldova
+3,7,Israel,2019,moldova
+4,6,The Netherlands,2019,moldova
+5,5,Italy,2019,moldova
+6,4,Switzerland,2019,moldova
+7,3,Norway,2019,moldova
+8,2,Czech Republic,2019,moldova
+9,1,Iceland,2019,moldova
+0,12,Serbia,2019,montenegro
+1,10,Russia,2019,montenegro
+2,8,San Marino,2019,montenegro
+3,7,Albania,2019,montenegro
+4,6,North Macedonia,2019,montenegro
+5,5,Italy,2019,montenegro
+6,4,Slovenia,2019,montenegro
+7,3,Azerbaijan,2019,montenegro
+8,2,Iceland,2019,montenegro
+9,1,The Netherlands,2019,montenegro
+0,12,Iceland,2019,poland
+1,10,The Netherlands,2019,poland
+2,8,Norway,2019,poland
+3,7,Italy,2019,poland
+4,6,Australia,2019,poland
+5,5,Switzerland,2019,poland
+6,4,Slovenia,2019,poland
+7,3,Russia,2019,poland
+8,2,Azerbaijan,2019,poland
+9,1,Czech Republic,2019,poland
+0,12,Spain,2019,portugal
+1,10,Russia,2019,portugal
+2,8,The Netherlands,2019,portugal
+3,7,Italy,2019,portugal
+4,6,Norway,2019,portugal
+5,5,Switzerland,2019,portugal
+6,4,Australia,2019,portugal
+7,3,Iceland,2019,portugal
+8,2,France,2019,portugal
+9,1,Denmark,2019,portugal
+0,12,The Netherlands,2019,romania
+1,10,Switzerland,2019,romania
+2,8,Italy,2019,romania
+3,7,Russia,2019,romania
+4,6,Azerbaijan,2019,romania
+5,5,Iceland,2019,romania
+6,4,Norway,2019,romania
+7,3,Israel,2019,romania
+8,2,Australia,2019,romania
+9,1,France,2019,romania

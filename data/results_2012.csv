@@ -1,0 +1,607 @@
+,pts,pts_from,year,points_to
+0,7,Finland,2012,iceland
+1,6,Denmark,2012,iceland
+2,6,Hungary,2012,iceland
+3,6,Estonia,2012,iceland
+4,5,Norway,2012,iceland
+5,4,Slovakia,2012,iceland
+6,4,Slovenia,2012,iceland
+7,4,Spain,2012,iceland
+8,3,Germany,2012,iceland
+9,1,Cyprus,2012,iceland
+10,46,points received,2012,iceland
+0,12,Sweden,2012,austria
+1,10,Serbia,2012,austria
+2,8,Albania,2012,austria
+3,7,Bosnia & Herzegovina,2012,austria
+4,6,Spain,2012,austria
+5,5,Russia,2012,austria
+6,4,Germany,2012,austria
+7,3,Turkey,2012,austria
+8,2,France,2012,austria
+9,1,Moldova,2012,austria
+0,12,Albania,2012,switzerland
+1,10,Serbia,2012,switzerland
+2,8,Spain,2012,switzerland
+3,7,Sweden,2012,switzerland
+4,6,France,2012,switzerland
+5,5,Italy,2012,switzerland
+6,4,Germany,2012,switzerland
+7,3,Turkey,2012,switzerland
+8,2,Moldova,2012,switzerland
+9,1,Bosnia & Herzegovina,2012,switzerland
+0,12,Russia,2012,sweden
+1,12,Israel,2012,sweden
+2,12,Norway,2012,sweden
+3,12,Finland,2012,sweden
+4,12,France,2012,sweden
+5,12,Estonia,2012,sweden
+6,12,Slovakia,2012,sweden
+7,12,Hungary,2012,sweden
+8,12,Latvia,2012,sweden
+9,12,Iceland,2012,sweden
+10,12,Spain,2012,sweden
+11,12,United Kingdom,2012,sweden
+12,12,Denmark,2012,sweden
+13,12,Germany,2012,sweden
+14,12,Austria,2012,sweden
+15,12,Ireland,2012,sweden
+16,12,Belgium,2012,sweden
+17,12,The Netherlands,2012,sweden
+18,10,Romania,2012,sweden
+19,10,Lithuania,2012,sweden
+20,10,Serbia,2012,sweden
+21,10,Slovenia,2012,sweden
+22,10,Cyprus,2012,sweden
+23,8,Bosnia & Herzegovina,2012,sweden
+24,8,Georgia,2012,sweden
+25,8,Bulgaria,2012,sweden
+26,7,Croatia,2012,sweden
+27,7,Switzerland,2012,sweden
+28,7,Azerbaijan,2012,sweden
+29,7,Moldova,2012,sweden
+30,7,Montenegro,2012,sweden
+31,6,Ukraine,2012,sweden
+32,6,Malta,2012,sweden
+33,6,North Macedonia,2012,sweden
+34,6,Turkey,2012,sweden
+35,6,Belarus,2012,sweden
+36,6,Greece,2012,sweden
+37,5,Albania,2012,sweden
+38,3,San Marino,2012,sweden
+39,3,Portugal,2012,sweden
+40,372,points received,2012,sweden
+0,10,Turkey,2012,bosnia-herzegovina
+1,10,Croatia,2012,bosnia-herzegovina
+2,7,Austria,2012,bosnia-herzegovina
+3,7,Slovenia,2012,bosnia-herzegovina
+4,7,North Macedonia,2012,bosnia-herzegovina
+5,6,Montenegro,2012,bosnia-herzegovina
+6,5,Serbia,2012,bosnia-herzegovina
+7,2,Slovakia,2012,bosnia-herzegovina
+8,1,Switzerland,2012,bosnia-herzegovina
+9,55,points received,2012,bosnia-herzegovina
+0,12,Sweden,2012,latvia
+1,10,Russia,2012,latvia
+2,8,Estonia,2012,latvia
+3,7,Germany,2012,latvia
+4,6,Ukraine,2012,latvia
+5,5,Ireland,2012,latvia
+6,4,Lithuania,2012,latvia
+7,3,France,2012,latvia
+8,2,United Kingdom,2012,latvia
+9,1,Albania,2012,latvia
+0,10,United Kingdom,2012,ireland
+1,5,The Netherlands,2012,ireland
+2,5,Sweden,2012,ireland
+3,5,Latvia,2012,ireland
+4,4,Iceland,2012,ireland
+5,4,Denmark,2012,ireland
+6,4,Belgium,2012,ireland
+7,4,Finland,2012,ireland
+8,3,Croatia,2012,ireland
+9,1,Azerbaijan,2012,ireland
+10,1,Belarus,2012,ireland
+11,46,points received,2012,ireland
+0,5,Estonia,2012,united-kingdom
+1,4,Ireland,2012,united-kingdom
+2,2,Latvia,2012,united-kingdom
+3,1,Belgium,2012,united-kingdom
+4,12,points received,2012,united-kingdom
+0,12,Greece,2012,cyprus
+1,12,Sweden,2012,cyprus
+2,8,Serbia,2012,cyprus
+3,8,Iceland,2012,cyprus
+4,6,Albania,2012,cyprus
+5,5,Spain,2012,cyprus
+6,5,Italy,2012,cyprus
+7,3,Israel,2012,cyprus
+8,2,Russia,2012,cyprus
+9,2,Romania,2012,cyprus
+10,2,Azerbaijan,2012,cyprus
+11,65,points received,2012,cyprus
+0,12,Azerbaijan,2012,turkey
+1,10,Albania,2012,turkey
+2,8,Malta,2012,turkey
+3,8,Germany,2012,turkey
+4,8,The Netherlands,2012,turkey
+5,8,North Macedonia,2012,turkey
+6,7,Belgium,2012,turkey
+7,7,Bulgaria,2012,turkey
+8,7,Georgia,2012,turkey
+9,6,Sweden,2012,turkey
+10,5,France,2012,turkey
+11,5,San Marino,2012,turkey
+12,4,Bosnia & Herzegovina,2012,turkey
+13,3,Switzerland,2012,turkey
+14,3,Romania,2012,turkey
+15,3,Hungary,2012,turkey
+16,3,Austria,2012,turkey
+17,2,Denmark,2012,turkey
+18,1,Lithuania,2012,turkey
+19,1,Israel,2012,turkey
+20,1,United Kingdom,2012,turkey
+21,112,points received,2012,turkey
+0,12,Sweden,2012,israel
+1,10,Spain,2012,israel
+2,8,Azerbaijan,2012,israel
+3,7,Russia,2012,israel
+4,6,Romania,2012,israel
+5,5,Moldova,2012,israel
+6,4,Italy,2012,israel
+7,3,Cyprus,2012,israel
+8,2,Greece,2012,israel
+9,1,Turkey,2012,israel
+0,12,Albania,2012,greece
+1,12,Cyprus,2012,greece
+2,8,Romania,2012,greece
+3,5,Ukraine,2012,greece
+4,5,Azerbaijan,2012,greece
+5,4,Serbia,2012,greece
+6,4,Moldova,2012,greece
+7,3,Russia,2012,greece
+8,3,Turkey,2012,greece
+9,2,Israel,2012,greece
+10,2,Belgium,2012,greece
+11,1,Germany,2012,greece
+12,1,Bosnia & Herzegovina,2012,greece
+13,1,Bulgaria,2012,greece
+14,1,Georgia,2012,greece
+15,64,points received,2012,greece
+0,12,Bosnia & Herzegovina,2012,fyr-macedonia
+1,12,Serbia,2012,fyr-macedonia
+2,8,Albania,2012,fyr-macedonia
+3,8,Croatia,2012,fyr-macedonia
+4,8,Montenegro,2012,fyr-macedonia
+5,8,Turkey,2012,fyr-macedonia
+6,6,Slovenia,2012,fyr-macedonia
+7,3,Ukraine,2012,fyr-macedonia
+8,2,Belarus,2012,fyr-macedonia
+9,2,Bulgaria,2012,fyr-macedonia
+10,1,Italy,2012,fyr-macedonia
+11,1,Slovakia,2012,fyr-macedonia
+12,71,points received,2012,fyr-macedonia
+0,12,Georgia,2012,lithuania
+1,8,Belarus,2012,lithuania
+2,7,Ireland,2012,lithuania
+3,7,United Kingdom,2012,lithuania
+4,6,Norway,2012,lithuania
+5,5,Bulgaria,2012,lithuania
+6,5,Russia,2012,lithuania
+7,4,Latvia,2012,lithuania
+8,4,Malta,2012,lithuania
+9,4,Azerbaijan,2012,lithuania
+10,3,France,2012,lithuania
+11,3,Estonia,2012,lithuania
+12,1,The Netherlands,2012,lithuania
+13,1,Montenegro,2012,lithuania
+14,70,points received,2012,lithuania
+0,8,Azerbaijan,2012,malta
+1,7,Ukraine,2012,malta
+2,7,Lithuania,2012,malta
+3,6,Serbia,2012,malta
+4,5,United Kingdom,2012,malta
+5,3,Belarus,2012,malta
+6,2,Turkey,2012,malta
+7,2,San Marino,2012,malta
+8,1,North Macedonia,2012,malta
+9,41,points received,2012,malta
+0,12,Belarus,2012,russia
+1,10,Italy,2012,russia
+2,10,Latvia,2012,russia
+3,10,Azerbaijan,2012,russia
+4,10,Ukraine,2012,russia
+5,10,San Marino,2012,russia
+6,8,Belgium,2012,russia
+7,8,Portugal,2012,russia
+8,8,Norway,2012,russia
+9,8,Finland,2012,russia
+10,8,Slovenia,2012,russia
+11,8,Spain,2012,russia
+12,8,Estonia,2012,russia
+13,8,Denmark,2012,russia
+14,7,Israel,2012,russia
+15,7,Iceland,2012,russia
+16,7,Hungary,2012,russia
+17,7,Serbia,2012,russia
+18,7,Germany,2012,russia
+19,7,Sweden,2012,russia
+20,7,Turkey,2012,russia
+21,6,Lithuania,2012,russia
+22,6,Bulgaria,2012,russia
+23,6,Ireland,2012,russia
+24,6,Moldova,2012,russia
+25,6,Croatia,2012,russia
+26,5,Austria,2012,russia
+27,5,Cyprus,2012,russia
+28,5,Georgia,2012,russia
+29,4,North Macedonia,2012,russia
+30,4,The Netherlands,2012,russia
+31,4,Greece,2012,russia
+32,4,Romania,2012,russia
+33,4,Montenegro,2012,russia
+34,4,France,2012,russia
+35,3,Albania,2012,russia
+36,3,Slovakia,2012,russia
+37,3,Malta,2012,russia
+38,3,Bosnia & Herzegovina,2012,russia
+39,3,United Kingdom,2012,russia
+40,259,points received,2012,russia
+0,12,Sweden,2012,slovakia
+1,10,Estonia,2012,slovakia
+2,8,Hungary,2012,slovakia
+3,7,Serbia,2012,slovakia
+4,6,Azerbaijan,2012,slovakia
+5,5,Italy,2012,slovakia
+6,4,Iceland,2012,slovakia
+7,3,Russia,2012,slovakia
+8,2,Bosnia & Herzegovina,2012,slovakia
+9,1,North Macedonia,2012,slovakia
+0,10,Belarus,2012,ukraine
+1,8,Moldova,2012,ukraine
+2,8,Russia,2012,ukraine
+3,7,Malta,2012,ukraine
+4,6,Georgia,2012,ukraine
+5,6,Latvia,2012,ukraine
+6,3,Azerbaijan,2012,ukraine
+7,3,Ireland,2012,ukraine
+8,3,North Macedonia,2012,ukraine
+9,3,Italy,2012,ukraine
+10,2,Spain,2012,ukraine
+11,2,Lithuania,2012,ukraine
+12,1,Norway,2012,ukraine
+13,1,Portugal,2012,ukraine
+14,1,Greece,2012,ukraine
+15,1,Estonia,2012,ukraine
+16,65,points received,2012,ukraine
+0,12,Italy,2012,albania
+1,12,Switzerland,2012,albania
+2,12,North Macedonia,2012,albania
+3,12,San Marino,2012,albania
+4,10,Greece,2012,albania
+5,10,Belgium,2012,albania
+6,10,Montenegro,2012,albania
+7,8,Austria,2012,albania
+8,8,Hungary,2012,albania
+9,6,Finland,2012,albania
+10,6,Bosnia & Herzegovina,2012,albania
+11,6,Germany,2012,albania
+12,5,Denmark,2012,albania
+13,5,Turkey,2012,albania
+14,5,Croatia,2012,albania
+15,4,Cyprus,2012,albania
+16,4,Bulgaria,2012,albania
+17,3,Slovenia,2012,albania
+18,3,Georgia,2012,albania
+19,1,Latvia,2012,albania
+20,1,Serbia,2012,albania
+21,1,Sweden,2012,albania
+22,1,Malta,2012,albania
+23,1,Romania,2012,albania
+24,146,points received,2012,albania
+0,12,Russia,2012,belarus
+1,10,Ukraine,2012,belarus
+2,8,Lithuania,2012,belarus
+3,7,Azerbaijan,2012,belarus
+4,6,Sweden,2012,belarus
+5,5,Moldova,2012,belarus
+6,4,Estonia,2012,belarus
+7,3,Malta,2012,belarus
+8,2,North Macedonia,2012,belarus
+9,1,Ireland,2012,belarus
+0,12,Serbia,2012,bulgaria
+1,10,Azerbaijan,2012,bulgaria
+2,8,Sweden,2012,bulgaria
+3,7,Turkey,2012,bulgaria
+4,6,Russia,2012,bulgaria
+5,5,Lithuania,2012,bulgaria
+6,4,Albania,2012,bulgaria
+7,3,Spain,2012,bulgaria
+8,2,North Macedonia,2012,bulgaria
+9,1,Greece,2012,bulgaria
+0,12,Romania,2012,moldova
+1,8,San Marino,2012,moldova
+2,8,Ukraine,2012,moldova
+3,7,Russia,2012,moldova
+4,7,Spain,2012,moldova
+5,7,Denmark,2012,moldova
+6,6,Portugal,2012,moldova
+7,5,Israel,2012,moldova
+8,5,Belarus,2012,moldova
+9,4,Italy,2012,moldova
+10,3,Montenegro,2012,moldova
+11,2,Greece,2012,moldova
+12,2,Hungary,2012,moldova
+13,2,Switzerland,2012,moldova
+14,1,Austria,2012,moldova
+15,1,Slovenia,2012,moldova
+16,1,Croatia,2012,moldova
+17,81,points received,2012,moldova
+0,12,Lithuania,2012,georgia
+1,10,Azerbaijan,2012,georgia
+2,8,Sweden,2012,georgia
+3,7,Turkey,2012,georgia
+4,6,Ukraine,2012,georgia
+5,5,Russia,2012,georgia
+6,4,Italy,2012,georgia
+7,3,Albania,2012,georgia
+8,2,Germany,2012,georgia
+9,1,Greece,2012,georgia
+0,12,Bulgaria,2012,serbia
+1,12,Slovenia,2012,serbia
+2,12,Montenegro,2012,serbia
+3,12,Croatia,2012,serbia
+4,10,The Netherlands,2012,serbia
+5,10,Sweden,2012,serbia
+6,10,Bosnia & Herzegovina,2012,serbia
+7,10,Germany,2012,serbia
+8,10,Austria,2012,serbia
+9,10,Switzerland,2012,serbia
+10,10,Norway,2012,serbia
+11,10,North Macedonia,2012,serbia
+12,8,France,2012,serbia
+13,8,Greece,2012,serbia
+14,7,Cyprus,2012,serbia
+15,7,Slovakia,2012,serbia
+16,6,San Marino,2012,serbia
+17,6,Italy,2012,serbia
+18,5,Portugal,2012,serbia
+19,5,Belgium,2012,serbia
+20,5,Malta,2012,serbia
+21,5,Romania,2012,serbia
+22,5,Lithuania,2012,serbia
+23,4,Russia,2012,serbia
+24,4,Hungary,2012,serbia
+25,3,Iceland,2012,serbia
+26,3,Moldova,2012,serbia
+27,2,Finland,2012,serbia
+28,2,Ukraine,2012,serbia
+29,1,Albania,2012,serbia
+30,214,points received,2012,serbia
+0,12,Serbia,2012,montenegro
+1,10,Albania,2012,montenegro
+2,8,North Macedonia,2012,montenegro
+3,7,Sweden,2012,montenegro
+4,6,Bosnia & Herzegovina,2012,montenegro
+5,5,Azerbaijan,2012,montenegro
+6,4,Russia,2012,montenegro
+7,3,Moldova,2012,montenegro
+8,2,Italy,2012,montenegro
+9,1,Lithuania,2012,montenegro
+0,12,Albania,2012,san-marino
+1,10,Russia,2012,san-marino
+2,8,Moldova,2012,san-marino
+3,7,Italy,2012,san-marino
+4,6,Serbia,2012,san-marino
+5,5,Turkey,2012,san-marino
+6,4,Azerbaijan,2012,san-marino
+7,3,Sweden,2012,san-marino
+8,2,Malta,2012,san-marino
+9,1,Spain,2012,san-marino
+0,12,Sweden,2012,belgium
+1,10,Albania,2012,belgium
+2,8,Russia,2012,belgium
+3,7,Turkey,2012,belgium
+4,6,Spain,2012,belgium
+5,5,Serbia,2012,belgium
+6,4,Ireland,2012,belgium
+7,3,Romania,2012,belgium
+8,2,Greece,2012,belgium
+9,1,United Kingdom,2012,belgium
+0,10,Iceland,2012,estonia
+1,10,France,2012,estonia
+2,10,Finland,2012,estonia
+3,10,Slovakia,2012,estonia
+4,8,Lithuania,2012,estonia
+5,8,Latvia,2012,estonia
+6,8,Ireland,2012,estonia
+7,8,Sweden,2012,estonia
+8,7,Norway,2012,estonia
+9,7,The Netherlands,2012,estonia
+10,7,Portugal,2012,estonia
+11,6,Spain,2012,estonia
+12,6,Russia,2012,estonia
+13,4,Germany,2012,estonia
+14,4,Belarus,2012,estonia
+15,4,United Kingdom,2012,estonia
+16,2,Moldova,2012,estonia
+17,1,Ukraine,2012,estonia
+18,120,points received,2012,estonia
+0,6,Iceland,2012,france
+1,6,Switzerland,2012,france
+2,3,Latvia,2012,france
+3,2,Austria,2012,france
+4,2,Sweden,2012,france
+5,2,Bosnia & Herzegovina,2012,france
+6,21,points received,2012,france
+0,12,Portugal,2012,spain
+1,10,Israel,2012,spain
+2,8,United Kingdom,2012,spain
+3,8,Switzerland,2012,spain
+4,6,The Netherlands,2012,spain
+5,6,France,2012,spain
+6,6,Austria,2012,spain
+7,6,Belgium,2012,spain
+8,6,Cyprus,2012,spain
+9,6,Romania,2012,spain
+10,5,Bosnia & Herzegovina,2012,spain
+11,4,Estonia,2012,spain
+12,4,Sweden,2012,spain
+13,3,Bulgaria,2012,spain
+14,3,Finland,2012,spain
+15,2,Iceland,2012,spain
+16,1,San Marino,2012,spain
+17,1,Hungary,2012,spain
+18,97,points received,2012,spain
+0,5,Iceland,2012,denmark
+1,5,Germany,2012,denmark
+2,5,Finland,2012,denmark
+3,2,Italy,2012,denmark
+4,2,Norway,2012,denmark
+5,2,Estonia,2012,denmark
+6,21,points received,2012,denmark
+0,10,Estonia,2012,germany
+1,10,Ireland,2012,germany
+2,10,Denmark,2012,germany
+3,10,Portugal,2012,germany
+4,10,Hungary,2012,germany
+5,8,Italy,2012,germany
+6,7,Latvia,2012,germany
+7,7,France,2012,germany
+8,6,United Kingdom,2012,germany
+9,4,Croatia,2012,germany
+10,4,Austria,2012,germany
+11,4,Switzerland,2012,germany
+12,3,Norway,2012,germany
+13,3,Spain,2012,germany
+14,3,Lithuania,2012,germany
+15,2,The Netherlands,2012,germany
+16,2,Georgia,2012,germany
+17,2,Malta,2012,germany
+18,2,Albania,2012,germany
+19,2,Slovenia,2012,germany
+20,1,Finland,2012,germany
+21,110,points received,2012,germany
+0,12,Spain,2012,portugal
+1,10,Germany,2012,portugal
+2,8,Russia,2012,portugal
+3,7,Estonia,2012,portugal
+4,6,Moldova,2012,portugal
+5,5,Serbia,2012,portugal
+6,4,Romania,2012,portugal
+7,3,Sweden,2012,portugal
+8,2,Italy,2012,portugal
+9,1,Ukraine,2012,portugal
+0,3,The Netherlands,2012,norway
+1,3,Sweden,2012,norway
+2,1,Iceland,2012,norway
+3,7,points received,2012,norway
+0,12,Serbia,2012,slovenia
+1,10,Sweden,2012,slovenia
+2,8,Russia,2012,slovenia
+3,7,Bosnia & Herzegovina,2012,slovenia
+4,6,North Macedonia,2012,slovenia
+5,5,Italy,2012,slovenia
+6,4,Iceland,2012,slovenia
+7,3,Albania,2012,slovenia
+8,2,Germany,2012,slovenia
+9,1,Moldova,2012,slovenia
+0,12,Serbia,2012,croatia
+1,10,Bosnia & Herzegovina,2012,croatia
+2,8,North Macedonia,2012,croatia
+3,7,Sweden,2012,croatia
+4,6,Russia,2012,croatia
+5,5,Albania,2012,croatia
+6,4,Germany,2012,croatia
+7,3,Ireland,2012,croatia
+8,2,Italy,2012,croatia
+9,1,Moldova,2012,croatia
+0,8,Slovakia,2012,hungary
+1,7,Romania,2012,hungary
+2,2,Serbia,2012,hungary
+3,1,Turkey,2012,hungary
+4,1,Moldova,2012,hungary
+5,19,points received,2012,hungary
+0,12,Sweden,2012,the-netherlands
+1,10,Serbia,2012,the-netherlands
+2,8,Turkey,2012,the-netherlands
+3,7,Estonia,2012,the-netherlands
+4,6,Spain,2012,the-netherlands
+5,5,Ireland,2012,the-netherlands
+6,4,Russia,2012,the-netherlands
+7,3,Norway,2012,the-netherlands
+8,2,Germany,2012,the-netherlands
+9,1,Lithuania,2012,the-netherlands
+0,12,Sweden,2012,finland
+1,10,Estonia,2012,finland
+2,8,Russia,2012,finland
+3,7,Iceland,2012,finland
+4,6,Albania,2012,finland
+5,5,Denmark,2012,finland
+6,4,Ireland,2012,finland
+7,3,Spain,2012,finland
+8,2,Serbia,2012,finland
+9,1,Germany,2012,finland
+0,12,Moldova,2012,romania
+1,10,Spain,2012,romania
+2,7,Italy,2012,romania
+3,7,Greece,2012,romania
+4,6,Azerbaijan,2012,romania
+5,6,Israel,2012,romania
+6,5,Ireland,2012,romania
+7,4,Turkey,2012,romania
+8,4,Portugal,2012,romania
+9,3,Belgium,2012,romania
+10,3,Cyprus,2012,romania
+11,2,France,2012,romania
+12,1,Russia,2012,romania
+13,1,Denmark,2012,romania
+14,71,points received,2012,romania
+0,10,Malta,2012,italy
+1,7,Albania,2012,italy
+2,7,Estonia,2012,italy
+3,7,San Marino,2012,italy
+4,5,North Macedonia,2012,italy
+5,5,Switzerland,2012,italy
+6,5,Slovenia,2012,italy
+7,5,Slovakia,2012,italy
+8,5,Moldova,2012,italy
+9,5,Hungary,2012,italy
+10,4,Lithuania,2012,italy
+11,4,Ukraine,2012,italy
+12,4,Israel,2012,italy
+13,4,Norway,2012,italy
+14,4,Georgia,2012,italy
+15,3,Greece,2012,italy
+16,3,Denmark,2012,italy
+17,2,Croatia,2012,italy
+18,2,Ireland,2012,italy
+19,2,Germany,2012,italy
+20,2,Cyprus,2012,italy
+21,2,Portugal,2012,italy
+22,2,Montenegro,2012,italy
+23,1,Spain,2012,italy
+24,1,France,2012,italy
+25,101,points received,2012,italy
+0,12,Malta,2012,azerbaijan
+1,12,Lithuania,2012,azerbaijan
+2,12,Ukraine,2012,azerbaijan
+3,12,Turkey,2012,azerbaijan
+4,10,Bulgaria,2012,azerbaijan
+5,10,Moldova,2012,azerbaijan
+6,10,Georgia,2012,azerbaijan
+7,10,Russia,2012,azerbaijan
+8,8,Cyprus,2012,azerbaijan
+9,8,Israel,2012,azerbaijan
+10,7,Belarus,2012,azerbaijan
+11,7,Bosnia & Herzegovina,2012,azerbaijan
+12,6,Slovakia,2012,azerbaijan
+13,5,Greece,2012,azerbaijan
+14,5,Montenegro,2012,azerbaijan
+15,4,San Marino,2012,azerbaijan
+16,4,Albania,2012,azerbaijan
+17,3,Serbia,2012,azerbaijan
+18,2,North Macedonia,2012,azerbaijan
+19,2,United Kingdom,2012,azerbaijan
+20,1,Ireland,2012,azerbaijan
+21,150,points received,2012,azerbaijan

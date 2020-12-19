@@ -1,0 +1,325 @@
+,pts,pts_from,year,points_to
+0,9,Switzerland,1972,italy
+1,8,Sweden,1972,italy
+2,7,Portugal,1972,italy
+3,6,Monaco,1972,italy
+4,6,Austria,1972,italy
+5,6,Belgium,1972,italy
+6,6,Luxembourg,1972,italy
+7,6,Norway,1972,italy
+8,6,Finland,1972,italy
+9,6,Malta,1972,italy
+10,5,France,1972,italy
+11,5,The Netherlands,1972,italy
+12,4,Yugoslavia,1972,italy
+13,4,Germany,1972,italy
+14,3,United Kingdom,1972,italy
+15,3,Ireland,1972,italy
+16,2,Spain,1972,italy
+17,92,points received,1972,italy
+0,9,United Kingdom,1972,france
+1,8,Luxembourg,1972,france
+2,7,Belgium,1972,france
+3,7,Norway,1972,france
+4,6,Monaco,1972,france
+5,6,The Netherlands,1972,france
+6,5,Germany,1972,france
+7,5,Malta,1972,france
+8,5,Ireland,1972,france
+9,5,Yugoslavia,1972,france
+10,4,Finland,1972,france
+11,3,Italy,1972,france
+12,3,Switzerland,1972,france
+13,2,Sweden,1972,france
+14,2,Spain,1972,france
+15,2,Austria,1972,france
+16,2,Portugal,1972,france
+17,81,points received,1972,france
+0,6,Malta,1972,ireland
+1,6,Norway,1972,ireland
+2,6,Luxembourg,1972,ireland
+3,5,Sweden,1972,ireland
+4,5,The Netherlands,1972,ireland
+5,5,Monaco,1972,ireland
+6,4,Belgium,1972,ireland
+7,4,Spain,1972,ireland
+8,4,United Kingdom,1972,ireland
+9,4,Germany,1972,ireland
+10,4,Austria,1972,ireland
+11,4,Portugal,1972,ireland
+12,3,France,1972,ireland
+13,3,Switzerland,1972,ireland
+14,3,Finland,1972,ireland
+15,3,Yugoslavia,1972,ireland
+16,3,Italy,1972,ireland
+17,72,points received,1972,ireland
+0,8,Monaco,1972,spain
+1,8,Norway,1972,spain
+2,7,Sweden,1972,spain
+3,7,Germany,1972,spain
+4,6,Portugal,1972,spain
+5,5,France,1972,spain
+6,5,Austria,1972,spain
+7,5,Ireland,1972,spain
+8,5,Luxembourg,1972,spain
+9,5,The Netherlands,1972,spain
+10,4,Malta,1972,spain
+11,4,Finland,1972,spain
+12,3,Belgium,1972,spain
+13,3,United Kingdom,1972,spain
+14,3,Switzerland,1972,spain
+15,3,Italy,1972,spain
+16,2,Yugoslavia,1972,spain
+17,83,points received,1972,spain
+0,10,Norway,1972,united-kingdom
+1,9,Yugoslavia,1972,united-kingdom
+2,9,Monaco,1972,united-kingdom
+3,9,France,1972,united-kingdom
+4,8,Switzerland,1972,united-kingdom
+5,8,Luxembourg,1972,united-kingdom
+6,8,Germany,1972,united-kingdom
+7,8,The Netherlands,1972,united-kingdom
+8,7,Italy,1972,united-kingdom
+9,7,Austria,1972,united-kingdom
+10,7,Finland,1972,united-kingdom
+11,6,Sweden,1972,united-kingdom
+12,6,Ireland,1972,united-kingdom
+13,4,Portugal,1972,united-kingdom
+14,4,Belgium,1972,united-kingdom
+15,2,Spain,1972,united-kingdom
+16,2,Malta,1972,united-kingdom
+17,114,points received,1972,united-kingdom
+0,9,Monaco,1972,yugoslavia
+1,8,Belgium,1972,yugoslavia
+2,8,Spain,1972,yugoslavia
+3,8,Luxembourg,1972,yugoslavia
+4,7,Germany,1972,yugoslavia
+5,6,The Netherlands,1972,yugoslavia
+6,5,United Kingdom,1972,yugoslavia
+7,5,Portugal,1972,yugoslavia
+8,5,Ireland,1972,yugoslavia
+9,4,France,1972,yugoslavia
+10,4,Sweden,1972,yugoslavia
+11,4,Malta,1972,yugoslavia
+12,4,Norway,1972,yugoslavia
+13,3,Austria,1972,yugoslavia
+14,3,Finland,1972,yugoslavia
+15,2,Italy,1972,yugoslavia
+16,2,Switzerland,1972,yugoslavia
+17,87,points received,1972,yugoslavia
+0,9,Spain,1972,germany
+1,8,Sweden,1972,germany
+2,8,France,1972,germany
+3,8,Monaco,1972,germany
+4,7,Belgium,1972,germany
+5,7,Italy,1972,germany
+6,7,Luxembourg,1972,germany
+7,6,Norway,1972,germany
+8,6,Portugal,1972,germany
+9,6,Ireland,1972,germany
+10,6,The Netherlands,1972,germany
+11,5,Austria,1972,germany
+12,5,United Kingdom,1972,germany
+13,5,Switzerland,1972,germany
+14,5,Finland,1972,germany
+15,5,Yugoslavia,1972,germany
+16,4,Malta,1972,germany
+17,107,points received,1972,germany
+0,10,Sweden,1972,austria
+1,9,The Netherlands,1972,austria
+2,8,Yugoslavia,1972,austria
+3,7,Switzerland,1972,austria
+4,6,Germany,1972,austria
+5,6,Italy,1972,austria
+6,6,Ireland,1972,austria
+7,6,Spain,1972,austria
+8,6,France,1972,austria
+9,5,Monaco,1972,austria
+10,5,Luxembourg,1972,austria
+11,5,Portugal,1972,austria
+12,5,Norway,1972,austria
+13,5,Malta,1972,austria
+14,4,Belgium,1972,austria
+15,4,Finland,1972,austria
+16,3,United Kingdom,1972,austria
+17,100,points received,1972,austria
+0,8,Austria,1972,switzerland
+1,7,Finland,1972,switzerland
+2,7,Norway,1972,switzerland
+3,7,Luxembourg,1972,switzerland
+4,6,Monaco,1972,switzerland
+5,6,Ireland,1972,switzerland
+6,5,Italy,1972,switzerland
+7,5,France,1972,switzerland
+8,5,Spain,1972,switzerland
+9,5,Yugoslavia,1972,switzerland
+10,5,The Netherlands,1972,switzerland
+11,4,Sweden,1972,switzerland
+12,4,Belgium,1972,switzerland
+13,4,Germany,1972,switzerland
+14,4,Malta,1972,switzerland
+15,4,United Kingdom,1972,switzerland
+16,2,Portugal,1972,switzerland
+17,88,points received,1972,switzerland
+0,6,Luxembourg,1972,belgium
+1,5,United Kingdom,1972,belgium
+2,5,Malta,1972,belgium
+3,4,Finland,1972,belgium
+4,4,Ireland,1972,belgium
+5,4,Monaco,1972,belgium
+6,3,Switzerland,1972,belgium
+7,3,France,1972,belgium
+8,3,Italy,1972,belgium
+9,3,The Netherlands,1972,belgium
+10,3,Portugal,1972,belgium
+11,2,Sweden,1972,belgium
+12,2,Spain,1972,belgium
+13,2,Norway,1972,belgium
+14,2,Germany,1972,belgium
+15,2,Austria,1972,belgium
+16,2,Yugoslavia,1972,belgium
+17,55,points received,1972,belgium
+0,10,Yugoslavia,1972,luxembourg
+1,10,United Kingdom,1972,luxembourg
+2,9,Italy,1972,luxembourg
+3,9,The Netherlands,1972,luxembourg
+4,9,Ireland,1972,luxembourg
+5,9,Germany,1972,luxembourg
+6,8,Sweden,1972,luxembourg
+7,8,Austria,1972,luxembourg
+8,8,Norway,1972,luxembourg
+9,8,Belgium,1972,luxembourg
+10,8,France,1972,luxembourg
+11,7,Monaco,1972,luxembourg
+12,7,Portugal,1972,luxembourg
+13,6,Switzerland,1972,luxembourg
+14,6,Finland,1972,luxembourg
+15,4,Malta,1972,luxembourg
+16,2,Spain,1972,luxembourg
+17,128,points received,1972,luxembourg
+0,7,Yugoslavia,1972,sweden
+1,7,Belgium,1972,sweden
+2,5,Finland,1972,sweden
+3,5,Ireland,1972,sweden
+4,5,Germany,1972,sweden
+5,5,The Netherlands,1972,sweden
+6,5,Norway,1972,sweden
+7,5,Monaco,1972,sweden
+8,5,Luxembourg,1972,sweden
+9,4,Malta,1972,sweden
+10,4,Austria,1972,sweden
+11,4,Portugal,1972,sweden
+12,3,Italy,1972,sweden
+13,3,France,1972,sweden
+14,3,Spain,1972,sweden
+15,3,United Kingdom,1972,sweden
+16,2,Switzerland,1972,sweden
+17,75,points received,1972,sweden
+0,10,Luxembourg,1972,portugal
+1,9,Italy,1972,portugal
+2,7,Sweden,1972,portugal
+3,7,Ireland,1972,portugal
+4,7,Spain,1972,portugal
+5,7,Belgium,1972,portugal
+6,6,Switzerland,1972,portugal
+7,5,The Netherlands,1972,portugal
+8,5,Malta,1972,portugal
+9,4,United Kingdom,1972,portugal
+10,4,France,1972,portugal
+11,4,Monaco,1972,portugal
+12,4,Yugoslavia,1972,portugal
+13,4,Austria,1972,portugal
+14,3,Germany,1972,portugal
+15,2,Finland,1972,portugal
+16,2,Norway,1972,portugal
+17,90,points received,1972,portugal
+0,7,Finland,1972,norway
+1,6,Luxembourg,1972,norway
+2,6,Ireland,1972,norway
+3,5,Malta,1972,norway
+4,5,Spain,1972,norway
+5,5,Yugoslavia,1972,norway
+6,5,Portugal,1972,norway
+7,4,Germany,1972,norway
+8,4,Sweden,1972,norway
+9,4,Monaco,1972,norway
+10,4,Belgium,1972,norway
+11,4,United Kingdom,1972,norway
+12,4,The Netherlands,1972,norway
+13,3,France,1972,norway
+14,3,Austria,1972,norway
+15,2,Switzerland,1972,norway
+16,2,Italy,1972,norway
+17,73,points received,1972,norway
+0,8,Belgium,1972,finland
+1,8,The Netherlands,1972,finland
+2,6,Luxembourg,1972,finland
+3,6,Norway,1972,finland
+4,6,Spain,1972,finland
+5,5,Monaco,1972,finland
+6,5,United Kingdom,1972,finland
+7,4,Germany,1972,finland
+8,4,Sweden,1972,finland
+9,4,Portugal,1972,finland
+10,4,Yugoslavia,1972,finland
+11,3,Switzerland,1972,finland
+12,3,France,1972,finland
+13,3,Ireland,1972,finland
+14,3,Austria,1972,finland
+15,3,Italy,1972,finland
+16,3,Malta,1972,finland
+17,78,points received,1972,finland
+0,6,United Kingdom,1972,malta
+1,5,Finland,1972,malta
+2,4,Ireland,1972,malta
+3,4,The Netherlands,1972,malta
+4,3,Germany,1972,malta
+5,3,Sweden,1972,malta
+6,3,Monaco,1972,malta
+7,2,Luxembourg,1972,malta
+8,2,Portugal,1972,malta
+9,2,Norway,1972,malta
+10,2,Switzerland,1972,malta
+11,2,France,1972,malta
+12,2,Spain,1972,malta
+13,2,Yugoslavia,1972,malta
+14,2,Austria,1972,malta
+15,2,Italy,1972,malta
+16,2,Belgium,1972,malta
+17,48,points received,1972,malta
+0,6,Norway,1972,monaco
+1,5,The Netherlands,1972,monaco
+2,5,United Kingdom,1972,monaco
+3,5,Finland,1972,monaco
+4,5,Malta,1972,monaco
+5,4,Belgium,1972,monaco
+6,4,Yugoslavia,1972,monaco
+7,4,Germany,1972,monaco
+8,4,Ireland,1972,monaco
+9,4,Luxembourg,1972,monaco
+10,3,Italy,1972,monaco
+11,3,France,1972,monaco
+12,3,Spain,1972,monaco
+13,3,Austria,1972,monaco
+14,3,Sweden,1972,monaco
+15,2,Portugal,1972,monaco
+16,2,Switzerland,1972,monaco
+17,65,points received,1972,monaco
+0,9,Finland,1972,the-netherlands
+1,9,United Kingdom,1972,the-netherlands
+2,9,Yugoslavia,1972,the-netherlands
+3,8,Norway,1972,the-netherlands
+4,8,Spain,1972,the-netherlands
+5,8,Ireland,1972,the-netherlands
+6,7,Luxembourg,1972,the-netherlands
+7,6,Sweden,1972,the-netherlands
+8,6,Germany,1972,the-netherlands
+9,6,Austria,1972,the-netherlands
+10,6,Switzerland,1972,the-netherlands
+11,6,France,1972,the-netherlands
+12,5,Monaco,1972,the-netherlands
+13,5,Portugal,1972,the-netherlands
+14,3,Malta,1972,the-netherlands
+15,3,Italy,1972,the-netherlands
+16,2,Belgium,1972,the-netherlands
+17,106,points received,1972,the-netherlands

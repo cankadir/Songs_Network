@@ -1,0 +1,276 @@
+,pts,pts_from,year,points_to
+0,12,Italy,1993,ireland
+1,12,United Kingdom,1993,ireland
+2,12,Switzerland,1993,ireland
+3,12,Sweden,1993,ireland
+4,12,Norway,1993,ireland
+5,12,Slovenia,1993,ireland
+6,12,Malta,1993,ireland
+7,10,France,1993,ireland
+8,10,Spain,1993,ireland
+9,10,The Netherlands,1993,ireland
+10,8,Austria,1993,ireland
+11,8,Bosnia & Herzegovina,1993,ireland
+12,7,Luxembourg,1993,ireland
+13,7,Cyprus,1993,ireland
+14,6,Croatia,1993,ireland
+15,6,Portugal,1993,ireland
+16,6,Greece,1993,ireland
+17,6,Denmark,1993,ireland
+18,5,Germany,1993,ireland
+19,5,Israel,1993,ireland
+20,3,Iceland,1993,ireland
+21,3,Finland,1993,ireland
+22,2,Belgium,1993,ireland
+23,1,Turkey,1993,ireland
+24,187,points received,1993,ireland
+0,7,The Netherlands,1993,iceland
+1,7,Sweden,1993,iceland
+2,5,Croatia,1993,iceland
+3,5,Slovenia,1993,iceland
+4,4,Greece,1993,iceland
+5,4,Denmark,1993,iceland
+6,2,Israel,1993,iceland
+7,2,Norway,1993,iceland
+8,2,Cyprus,1993,iceland
+9,2,United Kingdom,1993,iceland
+10,1,Ireland,1993,iceland
+11,1,Austria,1993,iceland
+12,42,points received,1993,iceland
+0,8,Italy,1993,germany
+1,4,Ireland,1993,germany
+2,3,Denmark,1993,germany
+3,2,Switzerland,1993,germany
+4,1,The Netherlands,1993,germany
+5,18,points received,1993,germany
+0,12,Germany,1993,switzerland
+1,12,Luxembourg,1993,switzerland
+2,12,France,1993,switzerland
+3,10,United Kingdom,1993,switzerland
+4,10,Italy,1993,switzerland
+5,10,Denmark,1993,switzerland
+6,8,The Netherlands,1993,switzerland
+7,8,Slovenia,1993,switzerland
+8,8,Belgium,1993,switzerland
+9,7,Ireland,1993,switzerland
+10,7,Greece,1993,switzerland
+11,6,Cyprus,1993,switzerland
+12,6,Austria,1993,switzerland
+13,6,Sweden,1993,switzerland
+14,5,Malta,1993,switzerland
+15,4,Finland,1993,switzerland
+16,4,Israel,1993,switzerland
+17,4,Iceland,1993,switzerland
+18,3,Spain,1993,switzerland
+19,3,Norway,1993,switzerland
+20,2,Croatia,1993,switzerland
+21,1,Portugal,1993,switzerland
+22,148,points received,1993,switzerland
+0,3,Germany,1993,belgium
+1,3,points received,1993,belgium
+0,10,Malta,1993,luxembourg
+1,1,Slovenia,1993,luxembourg
+2,11,points received,1993,luxembourg
+0,10,Greece,1993,cyprus
+1,5,United Kingdom,1993,cyprus
+2,2,Denmark,1993,cyprus
+3,17,points received,1993,cyprus
+0,12,Ireland,1993,the-netherlands
+1,10,Norway,1993,the-netherlands
+2,10,Bosnia & Herzegovina,1993,the-netherlands
+3,7,Spain,1993,the-netherlands
+4,7,Germany,1993,the-netherlands
+5,7,Slovenia,1993,the-netherlands
+6,7,Belgium,1993,the-netherlands
+7,6,Italy,1993,the-netherlands
+8,6,Turkey,1993,the-netherlands
+9,6,Iceland,1993,the-netherlands
+10,5,Sweden,1993,the-netherlands
+11,3,Austria,1993,the-netherlands
+12,3,Croatia,1993,the-netherlands
+13,3,Malta,1993,the-netherlands
+14,92,points received,1993,the-netherlands
+0,6,Spain,1993,turkey
+1,2,Bosnia & Herzegovina,1993,turkey
+2,1,Iceland,1993,turkey
+3,1,Croatia,1993,turkey
+4,10,points received,1993,turkey
+0,12,Cyprus,1993,greece
+1,8,Spain,1993,greece
+2,7,France,1993,greece
+3,7,Norway,1993,greece
+4,7,Israel,1993,greece
+5,6,Malta,1993,greece
+6,6,Finland,1993,greece
+7,5,The Netherlands,1993,greece
+8,2,Turkey,1993,greece
+9,2,Italy,1993,greece
+10,2,Germany,1993,greece
+11,64,points received,1993,greece
+0,12,Spain,1993,portugal
+1,12,The Netherlands,1993,portugal
+2,8,France,1993,portugal
+3,5,Austria,1993,portugal
+4,5,Norway,1993,portugal
+5,4,Luxembourg,1993,portugal
+6,3,Cyprus,1993,portugal
+7,2,Finland,1993,portugal
+8,2,Sweden,1993,portugal
+9,2,Greece,1993,portugal
+10,2,Iceland,1993,portugal
+11,1,Denmark,1993,portugal
+12,1,United Kingdom,1993,portugal
+13,1,Germany,1993,portugal
+14,60,points received,1993,portugal
+0,8,Greece,1993,finland
+1,5,Iceland,1993,finland
+2,3,Turkey,1993,finland
+3,2,Luxembourg,1993,finland
+4,2,Malta,1993,finland
+5,20,points received,1993,finland
+0,4,Italy,1993,slovenia
+1,3,Sweden,1993,slovenia
+2,1,Bosnia & Herzegovina,1993,slovenia
+3,1,Malta,1993,slovenia
+4,9,points received,1993,slovenia
+0,12,Turkey,1993,bosnia-herzegovina
+1,4,France,1993,bosnia-herzegovina
+2,4,Malta,1993,bosnia-herzegovina
+3,3,Italy,1993,bosnia-herzegovina
+4,3,Ireland,1993,bosnia-herzegovina
+5,1,Belgium,1993,bosnia-herzegovina
+6,27,points received,1993,bosnia-herzegovina
+0,8,United Kingdom,1993,croatia
+1,6,Israel,1993,croatia
+2,5,Portugal,1993,croatia
+3,4,Belgium,1993,croatia
+4,4,Norway,1993,croatia
+5,3,Switzerland,1993,croatia
+6,1,Spain,1993,croatia
+7,31,points received,1993,croatia
+0,12,Portugal,1993,france
+1,12,Denmark,1993,france
+2,10,Cyprus,1993,france
+3,10,Ireland,1993,france
+4,8,Croatia,1993,france
+5,8,Iceland,1993,france
+6,8,Sweden,1993,france
+7,8,Israel,1993,france
+8,7,Austria,1993,france
+9,7,Turkey,1993,france
+10,6,Luxembourg,1993,france
+11,6,Norway,1993,france
+12,4,Switzerland,1993,france
+13,4,Slovenia,1993,france
+14,4,United Kingdom,1993,france
+15,3,Greece,1993,france
+16,3,The Netherlands,1993,france
+17,1,Finland,1993,france
+18,121,points received,1993,france
+0,12,Iceland,1993,united-kingdom
+1,12,Belgium,1993,united-kingdom
+2,12,Austria,1993,united-kingdom
+3,12,Israel,1993,united-kingdom
+4,10,Croatia,1993,united-kingdom
+5,10,Sweden,1993,united-kingdom
+6,10,Slovenia,1993,united-kingdom
+7,8,Norway,1993,united-kingdom
+8,8,Ireland,1993,united-kingdom
+9,8,Denmark,1993,united-kingdom
+10,8,Luxembourg,1993,united-kingdom
+11,8,Turkey,1993,united-kingdom
+12,7,Portugal,1993,united-kingdom
+13,6,France,1993,united-kingdom
+14,6,Germany,1993,united-kingdom
+15,5,Finland,1993,united-kingdom
+16,5,Spain,1993,united-kingdom
+17,5,Switzerland,1993,united-kingdom
+18,4,Cyprus,1993,united-kingdom
+19,4,The Netherlands,1993,united-kingdom
+20,3,Bosnia & Herzegovina,1993,united-kingdom
+21,1,Italy,1993,united-kingdom
+22,164,points received,1993,united-kingdom
+0,5,Bosnia & Herzegovina,1993,denmark
+1,3,Luxembourg,1993,denmark
+2,1,Sweden,1993,denmark
+3,9,points received,1993,denmark
+0,10,Portugal,1993,italy
+1,10,Luxembourg,1993,italy
+2,8,Finland,1993,italy
+3,7,Malta,1993,italy
+4,5,France,1993,italy
+5,2,The Netherlands,1993,italy
+6,2,Spain,1993,italy
+7,1,Switzerland,1993,italy
+8,45,points received,1993,italy
+0,12,Bosnia & Herzegovina,1993,austria
+1,6,Ireland,1993,austria
+2,4,Turkey,1993,austria
+3,3,Belgium,1993,austria
+4,3,United Kingdom,1993,austria
+5,3,France,1993,austria
+6,1,Greece,1993,austria
+7,32,points received,1993,austria
+0,3,Portugal,1993,israel
+1,1,France,1993,israel
+2,4,points received,1993,israel
+0,12,Greece,1993,norway
+1,12,Finland,1993,norway
+2,12,Croatia,1993,norway
+3,10,Germany,1993,norway
+4,10,Turkey,1993,norway
+5,10,Iceland,1993,norway
+6,10,Switzerland,1993,norway
+7,8,Cyprus,1993,norway
+8,8,Portugal,1993,norway
+9,7,Bosnia & Herzegovina,1993,norway
+10,6,The Netherlands,1993,norway
+11,6,Belgium,1993,norway
+12,5,Ireland,1993,norway
+13,3,Slovenia,1993,norway
+14,1,Luxembourg,1993,norway
+15,120,points received,1993,norway
+0,7,Italy,1993,malta
+1,7,Switzerland,1993,malta
+2,6,United Kingdom,1993,malta
+3,5,Denmark,1993,malta
+4,5,Greece,1993,malta
+5,5,Turkey,1993,malta
+6,4,Bosnia & Herzegovina,1993,malta
+7,4,Sweden,1993,malta
+8,4,Austria,1993,malta
+9,4,Spain,1993,malta
+10,4,Germany,1993,malta
+11,4,Croatia,1993,malta
+12,3,Israel,1993,malta
+13,2,Ireland,1993,malta
+14,2,Portugal,1993,malta
+15,2,France,1993,malta
+16,1,Cyprus,1993,malta
+17,69,points received,1993,malta
+0,10,Finland,1993,spain
+1,8,Malta,1993,spain
+2,7,Croatia,1993,spain
+3,6,Bosnia & Herzegovina,1993,spain
+4,6,Switzerland,1993,spain
+5,5,Italy,1993,spain
+6,5,Belgium,1993,spain
+7,5,Cyprus,1993,spain
+8,2,Slovenia,1993,spain
+9,2,Austria,1993,spain
+10,1,Norway,1993,spain
+11,1,Israel,1993,spain
+12,58,points received,1993,spain
+0,10,Belgium,1993,sweden
+1,10,Israel,1993,sweden
+2,10,Austria,1993,sweden
+3,8,Switzerland,1993,sweden
+4,8,Germany,1993,sweden
+5,7,Iceland,1993,sweden
+6,7,United Kingdom,1993,sweden
+7,7,Denmark,1993,sweden
+8,7,Finland,1993,sweden
+9,6,Slovenia,1993,sweden
+10,5,Luxembourg,1993,sweden
+11,4,Portugal,1993,sweden
+12,89,points received,1993,sweden

@@ -1,0 +1,199 @@
+,pts,pts_from,year,points_to
+0,8,Ireland,1977,italy
+1,7,France,1977,italy
+2,6,Monaco,1977,italy
+3,3,Germany,1977,italy
+4,3,Portugal,1977,italy
+5,2,Switzerland,1977,italy
+6,2,Finland,1977,italy
+7,2,Spain,1977,italy
+8,33,points received,1977,italy
+0,12,Sweden,1977,ireland
+1,12,Norway,1977,ireland
+2,12,United Kingdom,1977,ireland
+3,12,Israel,1977,ireland
+4,10,France,1977,ireland
+5,10,Greece,1977,ireland
+6,8,Monaco,1977,ireland
+7,8,Switzerland,1977,ireland
+8,8,Luxembourg,1977,ireland
+9,8,Italy,1977,ireland
+10,5,Austria,1977,ireland
+11,5,Germany,1977,ireland
+12,4,Spain,1977,ireland
+13,3,Belgium,1977,ireland
+14,1,Portugal,1977,ireland
+15,1,The Netherlands,1977,ireland
+16,119,points received,1977,ireland
+0,7,Finland,1977,spain
+1,7,Germany,1977,spain
+2,7,Belgium,1977,spain
+3,7,Luxembourg,1977,spain
+4,7,Italy,1977,spain
+5,6,The Netherlands,1977,spain
+6,4,Greece,1977,spain
+7,3,United Kingdom,1977,spain
+8,3,Switzerland,1977,spain
+9,1,Austria,1977,spain
+10,52,points received,1977,spain
+0,12,Luxembourg,1977,united-kingdom
+1,12,France,1977,united-kingdom
+2,12,Monaco,1977,united-kingdom
+3,12,Portugal,1977,united-kingdom
+4,12,Austria,1977,united-kingdom
+5,12,Belgium,1977,united-kingdom
+6,10,Germany,1977,united-kingdom
+7,8,Sweden,1977,united-kingdom
+8,8,Israel,1977,united-kingdom
+9,7,The Netherlands,1977,united-kingdom
+10,7,Norway,1977,united-kingdom
+11,4,Finland,1977,united-kingdom
+12,3,Spain,1977,united-kingdom
+13,2,Italy,1977,united-kingdom
+14,121,points received,1977,united-kingdom
+0,8,United Kingdom,1977,germany
+1,8,Portugal,1977,germany
+2,8,Greece,1977,germany
+3,6,Italy,1977,germany
+4,5,Sweden,1977,germany
+5,5,Israel,1977,germany
+6,5,Spain,1977,germany
+7,3,The Netherlands,1977,germany
+8,2,Luxembourg,1977,germany
+9,2,Austria,1977,germany
+10,1,Ireland,1977,germany
+11,1,France,1977,germany
+12,1,Monaco,1977,germany
+13,55,points received,1977,germany
+0,5,Monaco,1977,austria
+1,3,Greece,1977,austria
+2,2,Norway,1977,austria
+3,1,Finland,1977,austria
+4,11,points received,1977,austria
+0,10,Finland,1977,switzerland
+1,10,Austria,1977,switzerland
+2,10,Norway,1977,switzerland
+3,8,Belgium,1977,switzerland
+4,6,Greece,1977,switzerland
+5,6,Ireland,1977,switzerland
+6,5,Luxembourg,1977,switzerland
+7,4,Israel,1977,switzerland
+8,4,Portugal,1977,switzerland
+9,4,Italy,1977,switzerland
+10,4,United Kingdom,1977,switzerland
+11,71,points received,1977,switzerland
+0,12,The Netherlands,1977,belgium
+1,10,United Kingdom,1977,belgium
+2,8,Germany,1977,belgium
+3,7,Portugal,1977,belgium
+4,6,Norway,1977,belgium
+5,6,Israel,1977,belgium
+6,5,Greece,1977,belgium
+7,4,Ireland,1977,belgium
+8,4,Luxembourg,1977,belgium
+9,4,Sweden,1977,belgium
+10,3,Finland,1977,belgium
+11,69,points received,1977,belgium
+0,8,Finland,1977,luxembourg
+1,7,Spain,1977,luxembourg
+2,2,Ireland,1977,luxembourg
+3,17,points received,1977,luxembourg
+0,10,Belgium,1977,the-netherlands
+1,8,France,1977,the-netherlands
+2,7,Switzerland,1977,the-netherlands
+3,3,Ireland,1977,the-netherlands
+4,3,Monaco,1977,the-netherlands
+5,1,United Kingdom,1977,the-netherlands
+6,1,Spain,1977,the-netherlands
+7,1,Israel,1977,the-netherlands
+8,1,Greece,1977,the-netherlands
+9,35,points received,1977,the-netherlands
+0,2,Germany,1977,sweden
+1,2,points received,1977,sweden
+0,10,Switzerland,1977,israel
+1,7,Ireland,1977,israel
+2,7,Monaco,1977,israel
+3,6,Spain,1977,israel
+4,5,Norway,1977,israel
+5,5,The Netherlands,1977,israel
+6,3,Sweden,1977,israel
+7,3,Austria,1977,israel
+8,2,France,1977,israel
+9,1,Belgium,1977,israel
+10,49,points received,1977,israel
+0,12,Spain,1977,greece
+1,10,The Netherlands,1977,greece
+2,10,Monaco,1977,greece
+3,10,Portugal,1977,greece
+4,7,Sweden,1977,greece
+5,6,Luxembourg,1977,greece
+6,6,Belgium,1977,greece
+7,6,Finland,1977,greece
+8,5,United Kingdom,1977,greece
+9,4,Norway,1977,greece
+10,4,Germany,1977,greece
+11,4,Austria,1977,greece
+12,3,France,1977,greece
+13,3,Israel,1977,greece
+14,1,Switzerland,1977,greece
+15,1,Italy,1977,greece
+16,92,points received,1977,greece
+0,6,France,1977,portugal
+1,4,Switzerland,1977,portugal
+2,3,Italy,1977,portugal
+3,2,The Netherlands,1977,portugal
+4,2,Monaco,1977,portugal
+5,1,Germany,1977,portugal
+6,18,points received,1977,portugal
+0,5,Italy,1977,norway
+1,5,Belgium,1977,norway
+2,3,Luxembourg,1977,norway
+3,2,United Kingdom,1977,norway
+4,2,Portugal,1977,norway
+5,1,Sweden,1977,norway
+6,18,points received,1977,norway
+0,12,Ireland,1977,finland
+1,8,Norway,1977,finland
+2,7,Israel,1977,finland
+3,6,Austria,1977,finland
+4,5,Switzerland,1977,finland
+5,4,The Netherlands,1977,finland
+6,4,France,1977,finland
+7,2,Greece,1977,finland
+8,2,Sweden,1977,finland
+9,50,points received,1977,finland
+0,12,Greece,1977,monaco
+1,12,Italy,1977,monaco
+2,10,Sweden,1977,monaco
+3,8,Austria,1977,monaco
+4,8,Spain,1977,monaco
+5,7,United Kingdom,1977,monaco
+6,6,Germany,1977,monaco
+7,6,Switzerland,1977,monaco
+8,6,Portugal,1977,monaco
+9,5,Finland,1977,monaco
+10,5,France,1977,monaco
+11,5,Ireland,1977,monaco
+12,2,Israel,1977,monaco
+13,2,Belgium,1977,monaco
+14,1,Luxembourg,1977,monaco
+15,1,Norway,1977,monaco
+16,96,points received,1977,monaco
+0,12,Finland,1977,france
+1,12,Germany,1977,france
+2,12,Switzerland,1977,france
+3,10,Italy,1977,france
+4,10,Ireland,1977,france
+5,10,Spain,1977,france
+6,10,Luxembourg,1977,france
+7,10,Israel,1977,france
+8,8,The Netherlands,1977,france
+9,7,Austria,1977,france
+10,7,Greece,1977,france
+11,6,United Kingdom,1977,france
+12,6,Sweden,1977,france
+13,5,Portugal,1977,france
+14,4,Monaco,1977,france
+15,4,Belgium,1977,france
+16,3,Norway,1977,france
+17,136,points received,1977,france

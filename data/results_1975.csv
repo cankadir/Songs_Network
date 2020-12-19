@@ -1,0 +1,210 @@
+,pts,pts_from,year,points_to
+0,12,Ireland,1975,france
+1,12,Portugal,1975,france
+2,8,United Kingdom,1975,france
+3,8,Italy,1975,france
+4,8,Spain,1975,france
+5,8,The Netherlands,1975,france
+6,8,Sweden,1975,france
+7,7,Monaco,1975,france
+8,7,Israel,1975,france
+9,7,Malta,1975,france
+10,3,Switzerland,1975,france
+11,2,Belgium,1975,france
+12,1,Turkey,1975,france
+13,91,points received,1975,france
+0,12,Belgium,1975,ireland
+1,10,Sweden,1975,ireland
+2,7,Switzerland,1975,ireland
+3,6,France,1975,ireland
+4,6,United Kingdom,1975,ireland
+5,6,The Netherlands,1975,ireland
+6,4,Malta,1975,ireland
+7,4,Portugal,1975,ireland
+8,4,Norway,1975,ireland
+9,4,Italy,1975,ireland
+10,3,Spain,1975,ireland
+11,1,Yugoslavia,1975,ireland
+12,1,Finland,1975,ireland
+13,68,points received,1975,ireland
+0,8,Finland,1975,spain
+1,7,Ireland,1975,spain
+2,6,Italy,1975,spain
+3,5,Germany,1975,spain
+4,5,Switzerland,1975,spain
+5,4,Monaco,1975,spain
+6,4,Yugoslavia,1975,spain
+7,4,Belgium,1975,spain
+8,4,Israel,1975,spain
+9,3,Norway,1975,spain
+10,3,Turkey,1975,spain
+11,53,points received,1975,spain
+0,12,Monaco,1975,united-kingdom
+1,12,France,1975,united-kingdom
+2,12,Yugoslavia,1975,united-kingdom
+3,12,Luxembourg,1975,united-kingdom
+4,10,Spain,1975,united-kingdom
+5,10,Israel,1975,united-kingdom
+6,10,Germany,1975,united-kingdom
+7,10,Belgium,1975,united-kingdom
+8,8,Malta,1975,united-kingdom
+9,8,Switzerland,1975,united-kingdom
+10,7,Norway,1975,united-kingdom
+11,7,Finland,1975,united-kingdom
+12,5,Portugal,1975,united-kingdom
+13,5,Sweden,1975,united-kingdom
+14,4,The Netherlands,1975,united-kingdom
+15,3,Italy,1975,united-kingdom
+16,3,Ireland,1975,united-kingdom
+17,138,points received,1975,united-kingdom
+0,7,Sweden,1975,yugoslavia
+1,5,Belgium,1975,yugoslavia
+2,4,Ireland,1975,yugoslavia
+3,3,The Netherlands,1975,yugoslavia
+4,2,Germany,1975,yugoslavia
+5,1,Portugal,1975,yugoslavia
+6,22,points received,1975,yugoslavia
+0,8,Luxembourg,1975,germany
+1,4,Spain,1975,germany
+2,3,Malta,1975,germany
+3,15,points received,1975,germany
+0,12,Italy,1975,switzerland
+1,10,France,1975,switzerland
+2,8,Belgium,1975,switzerland
+3,7,The Netherlands,1975,switzerland
+4,7,Turkey,1975,switzerland
+5,6,Malta,1975,switzerland
+6,6,Germany,1975,switzerland
+7,5,United Kingdom,1975,switzerland
+8,5,Monaco,1975,switzerland
+9,4,Finland,1975,switzerland
+10,2,Portugal,1975,switzerland
+11,2,Ireland,1975,switzerland
+12,2,Luxembourg,1975,switzerland
+13,1,Norway,1975,switzerland
+14,77,points received,1975,switzerland
+0,7,Germany,1975,belgium
+1,5,The Netherlands,1975,belgium
+2,3,Yugoslavia,1975,belgium
+3,2,Sweden,1975,belgium
+4,17,points received,1975,belgium
+0,12,The Netherlands,1975,luxembourg
+1,10,Ireland,1975,luxembourg
+2,10,Italy,1975,luxembourg
+3,8,Portugal,1975,luxembourg
+4,7,Yugoslavia,1975,luxembourg
+5,6,Israel,1975,luxembourg
+6,6,Spain,1975,luxembourg
+7,5,Malta,1975,luxembourg
+8,5,Turkey,1975,luxembourg
+9,5,Finland,1975,luxembourg
+10,4,Sweden,1975,luxembourg
+11,3,France,1975,luxembourg
+12,3,United Kingdom,1975,luxembourg
+13,84,points received,1975,luxembourg
+0,8,Norway,1975,sweden
+1,8,Turkey,1975,sweden
+2,7,France,1975,sweden
+3,7,United Kingdom,1975,sweden
+4,7,Luxembourg,1975,sweden
+5,6,Monaco,1975,sweden
+6,6,Yugoslavia,1975,sweden
+7,6,Finland,1975,sweden
+8,6,Portugal,1975,sweden
+9,5,Spain,1975,sweden
+10,3,Israel,1975,sweden
+11,2,Malta,1975,sweden
+12,1,Switzerland,1975,sweden
+13,72,points received,1975,sweden
+0,3,Monaco,1975,turkey
+1,3,points received,1975,turkey
+0,10,The Netherlands,1975,israel
+1,6,Turkey,1975,israel
+2,6,Sweden,1975,israel
+3,5,Norway,1975,israel
+4,3,Finland,1975,israel
+5,2,Italy,1975,israel
+6,2,Switzerland,1975,israel
+7,1,Luxembourg,1975,israel
+8,1,Belgium,1975,israel
+9,1,Germany,1975,israel
+10,1,United Kingdom,1975,israel
+11,1,Ireland,1975,israel
+12,1,France,1975,israel
+13,40,points received,1975,israel
+0,12,Turkey,1975,portugal
+1,2,France,1975,portugal
+2,2,Spain,1975,portugal
+3,16,points received,1975,portugal
+0,7,Italy,1975,norway
+1,2,The Netherlands,1975,norway
+2,2,Monaco,1975,norway
+3,11,points received,1975,norway
+0,12,Germany,1975,finland
+1,12,Switzerland,1975,finland
+2,10,Norway,1975,finland
+3,8,Monaco,1975,finland
+4,8,Israel,1975,finland
+5,6,Luxembourg,1975,finland
+6,5,Ireland,1975,finland
+7,5,Yugoslavia,1975,finland
+8,4,United Kingdom,1975,finland
+9,3,Sweden,1975,finland
+10,1,Spain,1975,finland
+11,74,points received,1975,finland
+0,8,France,1975,malta
+1,7,Belgium,1975,malta
+2,5,Luxembourg,1975,malta
+3,4,Switzerland,1975,malta
+4,2,Yugoslavia,1975,malta
+5,2,Turkey,1975,malta
+6,2,Norway,1975,malta
+7,1,The Netherlands,1975,malta
+8,1,Israel,1975,malta
+9,32,points received,1975,malta
+0,5,Italy,1975,monaco
+1,4,Luxembourg,1975,monaco
+2,3,Portugal,1975,monaco
+3,3,Germany,1975,monaco
+4,2,Israel,1975,monaco
+5,2,United Kingdom,1975,monaco
+6,2,Finland,1975,monaco
+7,1,Malta,1975,monaco
+8,22,points received,1975,monaco
+0,12,Finland,1975,italy
+1,10,Malta,1975,italy
+2,10,Turkey,1975,italy
+3,10,United Kingdom,1975,italy
+4,10,Yugoslavia,1975,italy
+5,10,Switzerland,1975,italy
+6,10,Portugal,1975,italy
+7,7,Spain,1975,italy
+8,6,Norway,1975,italy
+9,6,Ireland,1975,italy
+10,6,Belgium,1975,italy
+11,5,Israel,1975,italy
+12,4,France,1975,italy
+13,4,Germany,1975,italy
+14,3,Luxembourg,1975,italy
+15,1,Sweden,1975,italy
+16,1,Monaco,1975,italy
+17,115,points received,1975,italy
+0,12,Sweden,1975,the-netherlands
+1,12,Malta,1975,the-netherlands
+2,12,Norway,1975,the-netherlands
+3,12,Spain,1975,the-netherlands
+4,12,United Kingdom,1975,the-netherlands
+5,12,Israel,1975,the-netherlands
+6,10,Monaco,1975,the-netherlands
+7,10,Luxembourg,1975,the-netherlands
+8,10,Finland,1975,the-netherlands
+9,8,Ireland,1975,the-netherlands
+10,8,Germany,1975,the-netherlands
+11,8,Yugoslavia,1975,the-netherlands
+12,7,Portugal,1975,the-netherlands
+13,6,Switzerland,1975,the-netherlands
+14,5,France,1975,the-netherlands
+15,4,Turkey,1975,the-netherlands
+16,3,Belgium,1975,the-netherlands
+17,1,Italy,1975,the-netherlands
+18,152,points received,1975,the-netherlands

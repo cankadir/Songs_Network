@@ -1,0 +1,254 @@
+,pts,pts_from,year,points_to
+0,2,United Kingdom,1999,cyprus
+1,2,points received,1999,cyprus
+0,10,France,1999,israel
+1,10,Cyprus,1999,israel
+2,10,Poland,1999,israel
+3,8,Spain,1999,israel
+4,8,Portugal,1999,israel
+5,8,Croatia,1999,israel
+6,7,Germany,1999,israel
+7,6,Malta,1999,israel
+8,4,The Netherlands,1999,israel
+9,4,Estonia,1999,israel
+10,3,Sweden,1999,israel
+11,3,Turkey,1999,israel
+12,3,Belgium,1999,israel
+13,2,Norway,1999,israel
+14,2,Bosnia & Herzegovina,1999,israel
+15,2,Denmark,1999,israel
+16,1,Slovenia,1999,israel
+17,1,Iceland,1999,israel
+18,1,Austria,1999,israel
+19,93,points received,1999,israel
+0,12,Slovenia,1999,croatia
+1,12,Spain,1999,croatia
+2,10,Germany,1999,croatia
+3,8,Turkey,1999,croatia
+4,8,Bosnia & Herzegovina,1999,croatia
+5,8,Austria,1999,croatia
+6,7,France,1999,croatia
+7,7,Israel,1999,croatia
+8,7,Poland,1999,croatia
+9,6,Ireland,1999,croatia
+10,6,Portugal,1999,croatia
+11,6,Lithuania,1999,croatia
+12,5,Belgium,1999,croatia
+13,5,Malta,1999,croatia
+14,4,Iceland,1999,croatia
+15,3,Estonia,1999,croatia
+16,2,Cyprus,1999,croatia
+17,1,The Netherlands,1999,croatia
+18,1,Sweden,1999,croatia
+19,118,points received,1999,croatia
+0,10,Sweden,1999,estonia
+1,8,Slovenia,1999,estonia
+2,8,Ireland,1999,estonia
+3,8,Poland,1999,estonia
+4,7,Malta,1999,estonia
+5,7,Portugal,1999,estonia
+6,6,Germany,1999,estonia
+7,5,The Netherlands,1999,estonia
+8,5,Norway,1999,estonia
+9,4,France,1999,estonia
+10,4,Denmark,1999,estonia
+11,4,Belgium,1999,estonia
+12,3,Bosnia & Herzegovina,1999,estonia
+13,3,United Kingdom,1999,estonia
+14,3,Austria,1999,estonia
+15,2,Iceland,1999,estonia
+16,1,Spain,1999,estonia
+17,1,Lithuania,1999,estonia
+18,1,Israel,1999,estonia
+19,90,points received,1999,estonia
+0,7,Bosnia & Herzegovina,1999,malta
+1,7,Austria,1999,malta
+2,6,Croatia,1999,malta
+3,6,United Kingdom,1999,malta
+4,3,Cyprus,1999,malta
+5,1,Estonia,1999,malta
+6,1,Germany,1999,malta
+7,1,Portugal,1999,malta
+8,32,points received,1999,malta
+0,8,Norway,1999,france
+1,2,Ireland,1999,france
+2,2,Turkey,1999,france
+3,2,Lithuania,1999,france
+4,14,points received,1999,france
+0,12,Lithuania,1999,ireland
+1,4,United Kingdom,1999,ireland
+2,1,Turkey,1999,ireland
+3,1,Norway,1999,ireland
+4,18,points received,1999,ireland
+0,12,Belgium,1999,the-netherlands
+1,8,United Kingdom,1999,the-netherlands
+2,7,Denmark,1999,the-netherlands
+3,6,Israel,1999,the-netherlands
+4,6,Iceland,1999,the-netherlands
+5,5,Turkey,1999,the-netherlands
+6,4,Bosnia & Herzegovina,1999,the-netherlands
+7,4,Lithuania,1999,the-netherlands
+8,4,Austria,1999,the-netherlands
+9,4,Sweden,1999,the-netherlands
+10,3,Spain,1999,the-netherlands
+11,3,Slovenia,1999,the-netherlands
+12,2,Malta,1999,the-netherlands
+13,2,Portugal,1999,the-netherlands
+14,1,Ireland,1999,the-netherlands
+15,71,points received,1999,the-netherlands
+0,7,Lithuania,1999,poland
+1,6,Bosnia & Herzegovina,1999,poland
+2,4,Germany,1999,poland
+3,17,points received,1999,poland
+0,12,Denmark,1999,iceland
+1,12,Sweden,1999,iceland
+2,12,Cyprus,1999,iceland
+3,10,Malta,1999,iceland
+4,10,Norway,1999,iceland
+5,10,Estonia,1999,iceland
+6,10,United Kingdom,1999,iceland
+7,10,Turkey,1999,iceland
+8,10,Israel,1999,iceland
+9,10,Spain,1999,iceland
+10,8,Belgium,1999,iceland
+11,8,Lithuania,1999,iceland
+12,7,The Netherlands,1999,iceland
+13,4,Poland,1999,iceland
+14,4,Portugal,1999,iceland
+15,4,Ireland,1999,iceland
+16,3,Germany,1999,iceland
+17,2,Austria,1999,iceland
+18,146,points received,1999,iceland
+0,1,Croatia,1999,spain
+1,1,points received,1999,spain
+0,12,Poland,1999,germany
+1,12,The Netherlands,1999,germany
+2,12,Turkey,1999,germany
+3,12,Israel,1999,germany
+4,12,Portugal,1999,germany
+5,10,Belgium,1999,germany
+6,10,Bosnia & Herzegovina,1999,germany
+7,10,Austria,1999,germany
+8,8,France,1999,germany
+9,7,Spain,1999,germany
+10,7,Estonia,1999,germany
+11,6,Slovenia,1999,germany
+12,5,Denmark,1999,germany
+13,5,Iceland,1999,germany
+14,3,Malta,1999,germany
+15,3,Croatia,1999,germany
+16,3,Norway,1999,germany
+17,2,Sweden,1999,germany
+18,1,United Kingdom,1999,germany
+19,140,points received,1999,germany
+0,8,Iceland,1999,austria
+1,8,Estonia,1999,austria
+2,7,Sweden,1999,austria
+3,7,United Kingdom,1999,austria
+4,6,Norway,1999,austria
+5,6,Belgium,1999,austria
+6,5,Germany,1999,austria
+7,5,Portugal,1999,austria
+8,4,Slovenia,1999,austria
+9,3,Poland,1999,austria
+10,3,Denmark,1999,austria
+11,2,The Netherlands,1999,austria
+12,1,Cyprus,1999,austria
+13,65,points received,1999,austria
+0,10,The Netherlands,1999,belgium
+1,10,Ireland,1999,belgium
+2,5,Israel,1999,belgium
+3,5,Estonia,1999,belgium
+4,4,Croatia,1999,belgium
+5,2,Poland,1999,belgium
+6,2,France,1999,belgium
+7,38,points received,1999,belgium
+0,12,United Kingdom,1999,sweden
+1,12,Norway,1999,sweden
+2,12,Bosnia & Herzegovina,1999,sweden
+3,12,Estonia,1999,sweden
+4,12,Malta,1999,sweden
+5,10,Portugal,1999,sweden
+6,10,Iceland,1999,sweden
+7,10,Denmark,1999,sweden
+8,8,Israel,1999,sweden
+9,8,The Netherlands,1999,sweden
+10,7,Belgium,1999,sweden
+11,7,Slovenia,1999,sweden
+12,6,Poland,1999,sweden
+13,6,Spain,1999,sweden
+14,6,Austria,1999,sweden
+15,6,Cyprus,1999,sweden
+16,6,Turkey,1999,sweden
+17,5,Ireland,1999,sweden
+18,3,Lithuania,1999,sweden
+19,3,France,1999,sweden
+20,2,Germany,1999,sweden
+21,163,points received,1999,sweden
+0,12,Germany,1999,turkey
+1,5,France,1999,turkey
+2,4,Norway,1999,turkey
+3,21,points received,1999,turkey
+0,12,France,1999,portugal
+1,12,points received,1999,portugal
+0,12,Croatia,1999,slovenia
+1,12,Ireland,1999,slovenia
+2,10,Lithuania,1999,slovenia
+3,6,The Netherlands,1999,slovenia
+4,5,Bosnia & Herzegovina,1999,slovenia
+5,2,Belgium,1999,slovenia
+6,2,Spain,1999,slovenia
+7,1,France,1999,slovenia
+8,50,points received,1999,slovenia
+0,12,Austria,1999,bosnia-herzegovina
+1,10,Croatia,1999,bosnia-herzegovina
+2,10,Slovenia,1999,bosnia-herzegovina
+3,8,Denmark,1999,bosnia-herzegovina
+4,8,Germany,1999,bosnia-herzegovina
+5,7,Turkey,1999,bosnia-herzegovina
+6,7,Norway,1999,bosnia-herzegovina
+7,6,Sweden,1999,bosnia-herzegovina
+8,6,France,1999,bosnia-herzegovina
+9,5,Poland,1999,bosnia-herzegovina
+10,3,The Netherlands,1999,bosnia-herzegovina
+11,3,Iceland,1999,bosnia-herzegovina
+12,1,Belgium,1999,bosnia-herzegovina
+13,86,points received,1999,bosnia-herzegovina
+0,5,Cyprus,1999,lithuania
+1,3,Israel,1999,lithuania
+2,2,Croatia,1999,lithuania
+3,2,Estonia,1999,lithuania
+4,1,Malta,1999,lithuania
+5,13,points received,1999,lithuania
+0,12,Iceland,1999,denmark
+1,8,Cyprus,1999,denmark
+2,8,Sweden,1999,denmark
+3,7,Ireland,1999,denmark
+4,6,Estonia,1999,denmark
+5,5,United Kingdom,1999,denmark
+6,5,Spain,1999,denmark
+7,5,Austria,1999,denmark
+8,5,Slovenia,1999,denmark
+9,4,Malta,1999,denmark
+10,3,Portugal,1999,denmark
+11,2,Israel,1999,denmark
+12,1,Poland,1999,denmark
+13,71,points received,1999,denmark
+0,7,Iceland,1999,norway
+1,7,Cyprus,1999,norway
+2,7,Croatia,1999,norway
+3,6,Denmark,1999,norway
+4,5,Sweden,1999,norway
+5,3,Ireland,1999,norway
+6,35,points received,1999,norway
+0,8,Malta,1999,united-kingdom
+1,5,Lithuania,1999,united-kingdom
+2,5,Croatia,1999,united-kingdom
+3,4,Israel,1999,united-kingdom
+4,4,Spain,1999,united-kingdom
+5,4,Cyprus,1999,united-kingdom
+6,4,Turkey,1999,united-kingdom
+7,2,Slovenia,1999,united-kingdom
+8,1,Bosnia & Herzegovina,1999,united-kingdom
+9,1,Denmark,1999,united-kingdom
+10,38,points received,1999,united-kingdom

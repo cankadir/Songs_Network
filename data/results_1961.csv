@@ -1,0 +1,96 @@
+,pts,pts_from,year,points_to
+0,4,Germany,1961,france
+1,2,United Kingdom,1961,france
+2,2,Monaco,1961,france
+3,2,Spain,1961,france
+4,1,Luxembourg,1961,france
+5,1,Sweden,1961,france
+6,1,Finland,1961,france
+7,13,points received,1961,france
+0,3,Austria,1961,yugoslavia
+1,2,France,1961,yugoslavia
+2,1,United Kingdom,1961,yugoslavia
+3,1,Denmark,1961,yugoslavia
+4,1,Switzerland,1961,yugoslavia
+5,1,The Netherlands,1961,yugoslavia
+6,9,points received,1961,yugoslavia
+0,8,Norway,1961,denmark
+1,2,Sweden,1961,denmark
+2,1,The Netherlands,1961,denmark
+3,1,Finland,1961,denmark
+4,12,points received,1961,denmark
+0,1,Luxembourg,1961,belgium
+1,1,points received,1961,belgium
+0,2,Italy,1961,the-netherlands
+1,2,Yugoslavia,1961,the-netherlands
+2,1,France,1961,the-netherlands
+3,1,Germany,1961,the-netherlands
+4,6,points received,1961,the-netherlands
+0,3,Finland,1961,monaco
+1,1,Spain,1961,monaco
+2,1,United Kingdom,1961,monaco
+3,1,Switzerland,1961,monaco
+4,6,points received,1961,monaco
+0,4,Denmark,1961,italy
+1,4,Belgium,1961,italy
+2,1,France,1961,italy
+3,1,Yugoslavia,1961,italy
+4,1,The Netherlands,1961,italy
+5,1,Monaco,1961,italy
+6,12,points received,1961,italy
+0,2,France,1961,spain
+1,2,Norway,1961,spain
+2,1,United Kingdom,1961,spain
+3,1,The Netherlands,1961,spain
+4,1,Sweden,1961,spain
+5,1,Monaco,1961,spain
+6,8,points received,1961,spain
+0,4,Sweden,1961,switzerland
+1,2,United Kingdom,1961,switzerland
+2,2,Monaco,1961,switzerland
+3,2,The Netherlands,1961,switzerland
+4,2,Italy,1961,switzerland
+5,2,Austria,1961,switzerland
+6,1,Yugoslavia,1961,switzerland
+7,1,Spain,1961,switzerland
+8,16,points received,1961,switzerland
+0,5,Yugoslavia,1961,luxembourg
+1,5,Germany,1961,luxembourg
+2,4,Monaco,1961,luxembourg
+3,4,Austria,1961,luxembourg
+4,3,Italy,1961,luxembourg
+5,3,Finland,1961,luxembourg
+6,2,Spain,1961,luxembourg
+7,1,Denmark,1961,luxembourg
+8,1,Sweden,1961,luxembourg
+9,1,The Netherlands,1961,luxembourg
+10,1,France,1961,luxembourg
+11,1,Switzerland,1961,luxembourg
+12,31,points received,1961,luxembourg
+0,1,Denmark,1961,germany
+1,1,Austria,1961,germany
+2,1,Sweden,1961,germany
+3,3,points received,1961,germany
+0,1,United Kingdom,1961,austria
+1,1,points received,1961,austria
+0,2,France,1961,sweden
+1,2,points received,1961,sweden
+0,2,Italy,1961,finland
+1,2,United Kingdom,1961,finland
+2,1,France,1961,finland
+3,1,Denmark,1961,finland
+4,6,points received,1961,finland
+0,5,Belgium,1961,norway
+1,2,Finland,1961,norway
+2,1,Spain,1961,norway
+3,1,Yugoslavia,1961,norway
+4,1,Denmark,1961,norway
+5,10,points received,1961,norway
+0,8,Luxembourg,1961,united-kingdom
+1,7,Switzerland,1961,united-kingdom
+2,3,Spain,1961,united-kingdom
+3,3,The Netherlands,1961,united-kingdom
+4,1,Denmark,1961,united-kingdom
+5,1,Italy,1961,united-kingdom
+6,1,Belgium,1961,united-kingdom
+7,24,points received,1961,united-kingdom

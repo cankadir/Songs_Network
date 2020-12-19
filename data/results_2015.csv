@@ -1,0 +1,558 @@
+,pts,pts_from,year,points_to
+0,12,Cyprus,2015,italy
+1,12,Albania,2015,italy
+2,12,Israel,2015,italy
+3,12,Greece,2015,italy
+4,12,Portugal,2015,italy
+5,12,Romania,2015,italy
+6,12,Russia,2015,italy
+7,12,Malta,2015,italy
+8,12,Spain,2015,italy
+9,10,San Marino,2015,italy
+10,10,Austria,2015,italy
+11,8,Sweden,2015,italy
+12,8,Azerbaijan,2015,italy
+13,8,United Kingdom,2015,italy
+14,8,Australia,2015,italy
+15,8,Belgium,2015,italy
+16,8,Georgia,2015,italy
+17,8,Slovenia,2015,italy
+18,8,Latvia,2015,italy
+19,7,Czech Republic,2015,italy
+20,7,North Macedonia,2015,italy
+21,7,Moldova,2015,italy
+22,7,Serbia,2015,italy
+23,7,The Netherlands,2015,italy
+24,7,Poland,2015,italy
+25,6,France,2015,italy
+26,6,Ireland,2015,italy
+27,6,Iceland,2015,italy
+28,6,Switzerland,2015,italy
+29,6,Armenia,2015,italy
+30,6,Montenegro,2015,italy
+31,5,Norway,2015,italy
+32,5,Denmark,2015,italy
+33,3,Germany,2015,italy
+34,3,Estonia,2015,italy
+35,2,Hungary,2015,italy
+36,2,Finland,2015,italy
+37,1,Lithuania,2015,italy
+38,1,Belarus,2015,italy
+39,292,points received,2015,italy
+0,3,Armenia,2015,france
+1,1,San Marino,2015,france
+2,4,points received,2015,france
+0,12,Latvia,2015,ireland
+1,10,Sweden,2015,ireland
+2,8,Russia,2015,ireland
+3,7,Lithuania,2015,ireland
+4,6,Italy,2015,ireland
+5,5,Australia,2015,ireland
+6,4,Norway,2015,ireland
+7,3,Poland,2015,ireland
+8,2,Belgium,2015,ireland
+9,1,United Kingdom,2015,ireland
+0,12,Sweden,2015,iceland
+1,10,Norway,2015,iceland
+2,8,Australia,2015,iceland
+3,7,Latvia,2015,iceland
+4,6,Italy,2015,iceland
+5,5,Israel,2015,iceland
+6,4,Belgium,2015,iceland
+7,3,Russia,2015,iceland
+8,2,Slovenia,2015,iceland
+9,1,Estonia,2015,iceland
+0,5,France,2015,spain
+1,3,Portugal,2015,spain
+2,2,Montenegro,2015,spain
+3,1,Israel,2015,spain
+4,1,Russia,2015,spain
+5,1,Azerbaijan,2015,spain
+6,1,Moldova,2015,spain
+7,1,Switzerland,2015,spain
+8,15,points received,2015,spain
+0,3,San Marino,2015,united-kingdom
+1,1,Ireland,2015,united-kingdom
+2,1,Malta,2015,united-kingdom
+3,5,points received,2015,united-kingdom
+0,12,Sweden,2015,denmark
+1,10,Russia,2015,denmark
+2,8,Australia,2015,denmark
+3,7,Belgium,2015,denmark
+4,6,Estonia,2015,denmark
+5,5,Italy,2015,denmark
+6,4,Latvia,2015,denmark
+7,3,Norway,2015,denmark
+8,2,Romania,2015,denmark
+9,1,Lithuania,2015,denmark
+0,0,points received,2015,germany
+0,0,points received,2015,austria
+0,12,Sweden,2015,switzerland
+1,10,Norway,2015,switzerland
+2,8,Australia,2015,switzerland
+3,7,Russia,2015,switzerland
+4,6,Italy,2015,switzerland
+5,5,Serbia,2015,switzerland
+6,4,Latvia,2015,switzerland
+7,3,Israel,2015,switzerland
+8,2,Belgium,2015,switzerland
+9,1,Spain,2015,switzerland
+0,12,France,2015,belgium
+1,12,Hungary,2015,belgium
+2,12,The Netherlands,2015,belgium
+3,10,Sweden,2015,belgium
+4,10,Russia,2015,belgium
+5,8,Germany,2015,belgium
+6,8,Belarus,2015,belgium
+7,7,Greece,2015,belgium
+8,7,Norway,2015,belgium
+9,7,Estonia,2015,belgium
+10,7,Finland,2015,belgium
+11,7,Italy,2015,belgium
+12,7,Denmark,2015,belgium
+13,7,Romania,2015,belgium
+14,7,Lithuania,2015,belgium
+15,7,Cyprus,2015,belgium
+16,6,Australia,2015,belgium
+17,6,Spain,2015,belgium
+18,6,Moldova,2015,belgium
+19,6,Czech Republic,2015,belgium
+20,6,Georgia,2015,belgium
+21,5,Austria,2015,belgium
+22,5,San Marino,2015,belgium
+23,5,Portugal,2015,belgium
+24,5,Poland,2015,belgium
+25,4,Israel,2015,belgium
+26,4,Latvia,2015,belgium
+27,4,Iceland,2015,belgium
+28,4,Serbia,2015,belgium
+29,4,Armenia,2015,belgium
+30,3,United Kingdom,2015,belgium
+31,3,Slovenia,2015,belgium
+32,2,Ireland,2015,belgium
+33,2,Switzerland,2015,belgium
+34,1,North Macedonia,2015,belgium
+35,1,Albania,2015,belgium
+36,217,points received,2015,belgium
+0,10,Greece,2015,cyprus
+1,1,Slovenia,2015,cyprus
+2,11,points received,2015,cyprus
+0,12,Belgium,2015,the-netherlands
+1,10,Sweden,2015,the-netherlands
+2,8,Australia,2015,the-netherlands
+3,7,Italy,2015,the-netherlands
+4,6,Russia,2015,the-netherlands
+5,5,Israel,2015,the-netherlands
+6,4,Estonia,2015,the-netherlands
+7,3,Norway,2015,the-netherlands
+8,2,Latvia,2015,the-netherlands
+9,1,Serbia,2015,the-netherlands
+0,12,Italy,2015,sweden
+1,12,Iceland,2015,sweden
+2,12,United Kingdom,2015,sweden
+3,12,Denmark,2015,sweden
+4,12,Switzerland,2015,sweden
+5,12,Belgium,2015,sweden
+6,12,Norway,2015,sweden
+7,12,Finland,2015,sweden
+8,12,Slovenia,2015,sweden
+9,12,Latvia,2015,sweden
+10,12,Poland,2015,sweden
+11,12,Australia,2015,sweden
+12,10,The Netherlands,2015,sweden
+13,10,Israel,2015,sweden
+14,10,Estonia,2015,sweden
+15,10,Hungary,2015,sweden
+16,10,Lithuania,2015,sweden
+17,10,Malta,2015,sweden
+18,10,Ireland,2015,sweden
+19,10,Belarus,2015,sweden
+20,10,Germany,2015,sweden
+21,10,Czech Republic,2015,sweden
+22,10,Cyprus,2015,sweden
+23,8,Spain,2015,sweden
+24,8,Portugal,2015,sweden
+25,8,Romania,2015,sweden
+26,8,Russia,2015,sweden
+27,8,Serbia,2015,sweden
+28,8,France,2015,sweden
+29,8,Moldova,2015,sweden
+30,7,Albania,2015,sweden
+31,7,Austria,2015,sweden
+32,7,San Marino,2015,sweden
+33,7,Armenia,2015,sweden
+34,7,Georgia,2015,sweden
+35,6,Azerbaijan,2015,sweden
+36,5,North Macedonia,2015,sweden
+37,5,Montenegro,2015,sweden
+38,4,Greece,2015,sweden
+39,365,points received,2015,sweden
+0,8,Italy,2015,israel
+1,7,Portugal,2015,israel
+2,7,Azerbaijan,2015,israel
+3,6,Cyprus,2015,israel
+4,6,Serbia,2015,israel
+5,5,Malta,2015,israel
+6,5,United Kingdom,2015,israel
+7,5,Albania,2015,israel
+8,5,The Netherlands,2015,israel
+9,5,Iceland,2015,israel
+10,5,Germany,2015,israel
+11,4,Poland,2015,israel
+12,4,Sweden,2015,israel
+13,4,Norway,2015,israel
+14,3,Finland,2015,israel
+15,3,Switzerland,2015,israel
+16,3,Montenegro,2015,israel
+17,2,Belarus,2015,israel
+18,2,Australia,2015,israel
+19,2,San Marino,2015,israel
+20,2,Austria,2015,israel
+21,1,Romania,2015,israel
+22,1,Georgia,2015,israel
+23,1,Spain,2015,israel
+24,1,Latvia,2015,israel
+25,97,points received,2015,israel
+0,10,Albania,2015,greece
+1,8,Cyprus,2015,greece
+2,5,Armenia,2015,greece
+3,23,points received,2015,greece
+0,10,Iceland,2015,norway
+1,10,Switzerland,2015,norway
+2,7,Sweden,2015,norway
+3,6,Romania,2015,norway
+4,6,Portugal,2015,norway
+5,6,San Marino,2015,norway
+6,5,Italy,2015,norway
+7,5,Lithuania,2015,norway
+8,4,Australia,2015,norway
+9,4,Ireland,2015,norway
+10,4,Germany,2015,norway
+11,4,Austria,2015,norway
+12,4,Finland,2015,norway
+13,4,Slovenia,2015,norway
+14,4,Estonia,2015,norway
+15,4,Hungary,2015,norway
+16,3,Poland,2015,norway
+17,3,The Netherlands,2015,norway
+18,3,Denmark,2015,norway
+19,2,Latvia,2015,norway
+20,2,Malta,2015,norway
+21,2,Spain,2015,norway
+22,102,points received,2015,norway
+0,12,Sweden,2015,finland
+1,10,Estonia,2015,finland
+2,8,Russia,2015,finland
+3,7,Belgium,2015,finland
+4,6,Latvia,2015,finland
+5,5,Australia,2015,finland
+6,4,Norway,2015,finland
+7,3,Israel,2015,finland
+8,2,Italy,2015,finland
+9,1,Slovenia,2015,finland
+0,8,North Macedonia,2015,slovenia
+1,6,Israel,2015,slovenia
+2,5,Serbia,2015,slovenia
+3,4,Montenegro,2015,slovenia
+4,4,Lithuania,2015,slovenia
+5,3,Latvia,2015,slovenia
+6,3,Azerbaijan,2015,slovenia
+7,2,Iceland,2015,slovenia
+8,1,Finland,2015,slovenia
+9,1,Poland,2015,slovenia
+10,1,Sweden,2015,slovenia
+11,1,Norway,2015,slovenia
+12,39,points received,2015,slovenia
+0,10,Finland,2015,estonia
+1,8,Lithuania,2015,estonia
+2,7,Belarus,2015,estonia
+3,7,Russia,2015,estonia
+4,7,Hungary,2015,estonia
+5,6,Latvia,2015,estonia
+6,6,Austria,2015,estonia
+7,6,Denmark,2015,estonia
+8,4,Albania,2015,estonia
+9,4,Azerbaijan,2015,estonia
+10,4,The Netherlands,2015,estonia
+11,3,Spain,2015,estonia
+12,3,Norway,2015,estonia
+13,3,Australia,2015,estonia
+14,3,Malta,2015,estonia
+15,3,Sweden,2015,estonia
+16,3,Israel,2015,estonia
+17,2,North Macedonia,2015,estonia
+18,2,Germany,2015,estonia
+19,2,Belgium,2015,estonia
+20,2,Cyprus,2015,estonia
+21,2,Italy,2015,estonia
+22,2,Poland,2015,estonia
+23,2,Georgia,2015,estonia
+24,2,Serbia,2015,estonia
+25,1,Iceland,2015,estonia
+26,1,Portugal,2015,estonia
+27,1,Montenegro,2015,estonia
+28,106,points received,2015,estonia
+0,8,Estonia,2015,hungary
+1,4,Romania,2015,hungary
+2,4,San Marino,2015,hungary
+3,1,France,2015,hungary
+4,1,Germany,2015,hungary
+5,1,Czech Republic,2015,hungary
+6,19,points received,2015,hungary
+0,12,San Marino,2015,latvia
+1,12,Ireland,2015,latvia
+2,12,Lithuania,2015,latvia
+3,10,Poland,2015,latvia
+4,8,Norway,2015,latvia
+5,7,Slovenia,2015,latvia
+6,7,Belgium,2015,latvia
+7,7,Iceland,2015,latvia
+8,7,Australia,2015,latvia
+9,7,United Kingdom,2015,latvia
+10,7,France,2015,latvia
+11,6,Finland,2015,latvia
+12,6,Germany,2015,latvia
+13,6,Estonia,2015,latvia
+14,5,Sweden,2015,latvia
+15,5,Hungary,2015,latvia
+16,5,Romania,2015,latvia
+17,5,Azerbaijan,2015,latvia
+18,5,Belarus,2015,latvia
+19,5,Czech Republic,2015,latvia
+20,4,Spain,2015,latvia
+21,4,Switzerland,2015,latvia
+22,4,Malta,2015,latvia
+23,4,Georgia,2015,latvia
+24,4,Denmark,2015,latvia
+25,4,Italy,2015,latvia
+26,3,Cyprus,2015,latvia
+27,3,Greece,2015,latvia
+28,2,Portugal,2015,latvia
+29,2,The Netherlands,2015,latvia
+30,2,Russia,2015,latvia
+31,2,Moldova,2015,latvia
+32,2,Armenia,2015,latvia
+33,1,Serbia,2015,latvia
+34,1,Austria,2015,latvia
+35,186,points received,2015,latvia
+0,7,Ireland,2015,lithuania
+1,7,Latvia,2015,lithuania
+2,6,Norway,2015,lithuania
+3,4,United Kingdom,2015,lithuania
+4,3,Georgia,2015,lithuania
+5,2,Estonia,2015,lithuania
+6,1,Denmark,2015,lithuania
+7,30,points received,2015,lithuania
+0,12,Italy,2015,malta
+1,10,Sweden,2015,malta
+2,8,Azerbaijan,2015,malta
+3,7,Russia,2015,malta
+4,6,Australia,2015,malta
+5,5,Israel,2015,malta
+6,4,Latvia,2015,malta
+7,3,Estonia,2015,malta
+8,2,Norway,2015,malta
+9,1,United Kingdom,2015,malta
+0,4,France,2015,poland
+1,3,Ireland,2015,poland
+2,2,United Kingdom,2015,poland
+3,1,Italy,2015,poland
+4,10,points received,2015,poland
+0,12,Moldova,2015,romania
+1,5,Belgium,2015,romania
+2,5,Israel,2015,romania
+3,5,Spain,2015,romania
+4,4,Portugal,2015,romania
+5,2,Denmark,2015,romania
+6,1,Hungary,2015,romania
+7,1,Cyprus,2015,romania
+8,35,points received,2015,romania
+0,12,Azerbaijan,2015,russia
+1,12,Belarus,2015,russia
+2,12,Germany,2015,russia
+3,12,Estonia,2015,russia
+4,12,Armenia,2015,russia
+5,10,Italy,2015,russia
+6,10,France,2015,russia
+7,10,Spain,2015,russia
+8,10,Denmark,2015,russia
+9,10,Belgium,2015,russia
+10,10,Portugal,2015,russia
+11,10,Latvia,2015,russia
+12,10,Romania,2015,russia
+13,10,Moldova,2015,russia
+14,10,Serbia,2015,russia
+15,10,Australia,2015,russia
+16,8,Czech Republic,2015,russia
+17,8,Finland,2015,russia
+18,8,Austria,2015,russia
+19,8,Ireland,2015,russia
+20,8,Albania,2015,russia
+21,8,Israel,2015,russia
+22,8,Greece,2015,russia
+23,7,Malta,2015,russia
+24,7,Montenegro,2015,russia
+25,7,Switzerland,2015,russia
+26,6,Sweden,2015,russia
+27,6,Hungary,2015,russia
+28,6,Poland,2015,russia
+29,6,United Kingdom,2015,russia
+30,6,North Macedonia,2015,russia
+31,6,The Netherlands,2015,russia
+32,5,Georgia,2015,russia
+33,5,Slovenia,2015,russia
+34,5,Cyprus,2015,russia
+35,3,Iceland,2015,russia
+36,2,Norway,2015,russia
+37,303,points received,2015,russia
+0,12,North Macedonia,2015,albania
+1,10,Montenegro,2015,albania
+2,6,Belgium,2015,albania
+3,6,Greece,2015,albania
+4,34,points received,2015,albania
+0,12,Russia,2015,belarus
+1,10,Sweden,2015,belarus
+2,8,Belgium,2015,belarus
+3,7,Estonia,2015,belarus
+4,6,Australia,2015,belarus
+5,5,Latvia,2015,belarus
+6,4,Armenia,2015,belarus
+7,3,Georgia,2015,belarus
+8,2,Israel,2015,belarus
+9,1,Italy,2015,belarus
+0,12,Romania,2015,moldova
+1,10,Russia,2015,moldova
+2,8,Sweden,2015,moldova
+3,7,Italy,2015,moldova
+4,6,Belgium,2015,moldova
+5,5,Georgia,2015,moldova
+6,4,Australia,2015,moldova
+7,3,Azerbaijan,2015,moldova
+8,2,Latvia,2015,moldova
+9,1,Spain,2015,moldova
+0,12,Georgia,2015,armenia
+1,6,Russia,2015,armenia
+2,4,Belarus,2015,armenia
+3,3,North Macedonia,2015,armenia
+4,3,France,2015,armenia
+5,3,Belgium,2015,armenia
+6,2,Czech Republic,2015,armenia
+7,1,Greece,2015,armenia
+8,34,points received,2015,armenia
+0,12,Montenegro,2015,serbia
+1,10,North Macedonia,2015,serbia
+2,6,Slovenia,2015,serbia
+3,5,Australia,2015,serbia
+4,5,Switzerland,2015,serbia
+5,3,Italy,2015,serbia
+6,3,Czech Republic,2015,serbia
+7,3,Austria,2015,serbia
+8,2,Albania,2015,serbia
+9,2,Israel,2015,serbia
+10,1,United Kingdom,2015,serbia
+11,1,The Netherlands,2015,serbia
+12,53,points received,2015,serbia
+0,12,Latvia,2015,san-marino
+1,10,Italy,2015,san-marino
+2,8,Australia,2015,san-marino
+3,7,Sweden,2015,san-marino
+4,6,Norway,2015,san-marino
+5,5,Belgium,2015,san-marino
+6,4,Hungary,2015,san-marino
+7,3,United Kingdom,2015,san-marino
+8,2,Israel,2015,san-marino
+9,1,France,2015,san-marino
+0,12,Italy,2015,portugal
+1,10,Russia,2015,portugal
+2,8,Sweden,2015,portugal
+3,7,Israel,2015,portugal
+4,6,Norway,2015,portugal
+5,5,Belgium,2015,portugal
+6,4,Romania,2015,portugal
+7,3,Spain,2015,portugal
+8,2,Latvia,2015,portugal
+9,1,Estonia,2015,portugal
+0,12,Czech Republic,2015,azerbaijan
+1,10,Georgia,2015,azerbaijan
+2,8,Montenegro,2015,azerbaijan
+3,8,Malta,2015,azerbaijan
+4,3,Moldova,2015,azerbaijan
+5,3,Romania,2015,azerbaijan
+6,3,Russia,2015,azerbaijan
+7,2,Lithuania,2015,azerbaijan
+8,49,points received,2015,azerbaijan
+0,12,Serbia,2015,montenegro
+1,10,Slovenia,2015,montenegro
+2,8,Armenia,2015,montenegro
+3,6,Albania,2015,montenegro
+4,4,North Macedonia,2015,montenegro
+5,2,Azerbaijan,2015,montenegro
+6,2,Sweden,2015,montenegro
+7,44,points received,2015,montenegro
+0,12,Albania,2015,fyr-macedonia
+1,10,Serbia,2015,fyr-macedonia
+2,8,Slovenia,2015,fyr-macedonia
+3,7,Italy,2015,fyr-macedonia
+4,6,Russia,2015,fyr-macedonia
+5,5,Sweden,2015,fyr-macedonia
+6,4,Montenegro,2015,fyr-macedonia
+7,3,Armenia,2015,fyr-macedonia
+8,2,Estonia,2015,fyr-macedonia
+9,1,Belgium,2015,fyr-macedonia
+0,12,Azerbaijan,2015,czech-republic
+1,10,Sweden,2015,czech-republic
+2,8,Russia,2015,czech-republic
+3,7,Italy,2015,czech-republic
+4,6,Belgium,2015,czech-republic
+5,5,Latvia,2015,czech-republic
+6,4,Georgia,2015,czech-republic
+7,3,Serbia,2015,czech-republic
+8,2,Armenia,2015,czech-republic
+9,1,Hungary,2015,czech-republic
+0,10,Armenia,2015,georgia
+1,10,Azerbaijan,2015,georgia
+2,6,Lithuania,2015,georgia
+3,5,Moldova,2015,georgia
+4,5,Russia,2015,georgia
+5,4,Czech Republic,2015,georgia
+6,3,Belarus,2015,georgia
+7,3,Hungary,2015,georgia
+8,2,Greece,2015,georgia
+9,1,Australia,2015,georgia
+10,1,Estonia,2015,georgia
+11,1,Belgium,2015,georgia
+12,51,points received,2015,georgia
+0,12,Austria,2015,australia
+1,12,Sweden,2015,australia
+2,10,United Kingdom,2015,australia
+3,10,Norway,2015,australia
+4,8,San Marino,2015,australia
+5,8,Iceland,2015,australia
+6,8,Denmark,2015,australia
+7,8,Switzerland,2015,australia
+8,8,The Netherlands,2015,australia
+9,8,Hungary,2015,australia
+10,8,Poland,2015,australia
+11,7,Israel,2015,australia
+12,7,Spain,2015,australia
+13,7,Germany,2015,australia
+14,6,Malta,2015,australia
+15,6,Belarus,2015,australia
+16,6,Italy,2015,australia
+17,5,Finland,2015,australia
+18,5,Latvia,2015,australia
+19,5,Estonia,2015,australia
+20,5,Greece,2015,australia
+21,5,Ireland,2015,australia
+22,4,Cyprus,2015,australia
+23,4,Russia,2015,australia
+24,4,Moldova,2015,australia
+25,4,Belgium,2015,australia
+26,3,Serbia,2015,australia
+27,3,Lithuania,2015,australia
+28,3,Albania,2015,australia
+29,2,France,2015,australia
+30,2,Slovenia,2015,australia
+31,2,Romania,2015,australia
+32,1,Armenia,2015,australia
+33,196,points received,2015,australia

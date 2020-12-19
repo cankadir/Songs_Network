@@ -1,0 +1,210 @@
+,pts,pts_from,year,points_to
+0,12,Sweden,1980,united-kingdom
+1,10,Denmark,1980,united-kingdom
+2,10,Switzerland,1980,united-kingdom
+3,8,Luxembourg,1980,united-kingdom
+4,8,Spain,1980,united-kingdom
+5,8,Morocco,1980,united-kingdom
+6,7,Austria,1980,united-kingdom
+7,7,Portugal,1980,united-kingdom
+8,7,The Netherlands,1980,united-kingdom
+9,6,Belgium,1980,united-kingdom
+10,6,Ireland,1980,united-kingdom
+11,5,Turkey,1980,united-kingdom
+12,5,France,1980,united-kingdom
+13,4,Finland,1980,united-kingdom
+14,3,Germany,1980,united-kingdom
+15,106,points received,1980,united-kingdom
+0,8,The Netherlands,1980,greece
+1,5,Austria,1980,greece
+2,4,Norway,1980,greece
+3,4,Ireland,1980,greece
+4,3,United Kingdom,1980,greece
+5,2,Denmark,1980,greece
+6,2,Italy,1980,greece
+7,1,Luxembourg,1980,greece
+8,1,Portugal,1980,greece
+9,30,points received,1980,greece
+0,10,Italy,1980,portugal
+1,8,Sweden,1980,portugal
+2,8,Norway,1980,portugal
+3,7,Ireland,1980,portugal
+4,6,Denmark,1980,portugal
+5,6,France,1980,portugal
+6,5,The Netherlands,1980,portugal
+7,5,Greece,1980,portugal
+8,4,Luxembourg,1980,portugal
+9,4,Belgium,1980,portugal
+10,4,Turkey,1980,portugal
+11,2,Switzerland,1980,portugal
+12,1,Germany,1980,portugal
+13,1,Finland,1980,portugal
+14,71,points received,1980,portugal
+0,12,Portugal,1980,italy
+1,10,Spain,1980,italy
+2,10,Sweden,1980,italy
+3,10,Belgium,1980,italy
+4,8,Switzerland,1980,italy
+5,7,Germany,1980,italy
+6,6,Finland,1980,italy
+7,6,Turkey,1980,italy
+8,4,United Kingdom,1980,italy
+9,3,Denmark,1980,italy
+10,2,Greece,1980,italy
+11,2,Ireland,1980,italy
+12,2,Norway,1980,italy
+13,2,Austria,1980,italy
+14,2,France,1980,italy
+15,1,The Netherlands,1980,italy
+16,87,points received,1980,italy
+0,10,Ireland,1980,austria
+1,6,United Kingdom,1980,austria
+2,6,Norway,1980,austria
+3,5,Finland,1980,austria
+4,5,Denmark,1980,austria
+5,4,France,1980,austria
+6,4,Germany,1980,austria
+7,4,Switzerland,1980,austria
+8,4,Italy,1980,austria
+9,4,Spain,1980,austria
+10,3,Morocco,1980,austria
+11,3,The Netherlands,1980,austria
+12,3,Portugal,1980,austria
+13,1,Greece,1980,austria
+14,1,Sweden,1980,austria
+15,1,Belgium,1980,austria
+16,64,points received,1980,austria
+0,8,United Kingdom,1980,luxembourg
+1,8,Ireland,1980,luxembourg
+2,8,Belgium,1980,luxembourg
+3,7,Norway,1980,luxembourg
+4,7,France,1980,luxembourg
+5,6,Sweden,1980,luxembourg
+6,4,Denmark,1980,luxembourg
+7,3,Finland,1980,luxembourg
+8,3,Spain,1980,luxembourg
+9,1,Turkey,1980,luxembourg
+10,1,Austria,1980,luxembourg
+11,56,points received,1980,luxembourg
+0,12,Morocco,1980,turkey
+1,8,Italy,1980,turkey
+2,3,Austria,1980,turkey
+3,23,points received,1980,turkey
+0,7,Italy,1980,morocco
+1,7,points received,1980,morocco
+0,7,Greece,1980,france
+1,6,Spain,1980,france
+2,5,United Kingdom,1980,france
+3,5,Belgium,1980,france
+4,4,Sweden,1980,france
+5,4,The Netherlands,1980,france
+6,3,Ireland,1980,france
+7,3,Turkey,1980,france
+8,3,Norway,1980,france
+9,2,Luxembourg,1980,france
+10,1,Switzerland,1980,france
+11,1,Denmark,1980,france
+12,1,Morocco,1980,france
+13,45,points received,1980,france
+0,8,Greece,1980,spain
+1,7,Turkey,1980,spain
+2,6,Luxembourg,1980,spain
+3,6,Italy,1980,spain
+4,5,Morocco,1980,spain
+5,4,Austria,1980,spain
+6,2,Portugal,1980,spain
+7,38,points received,1980,spain
+0,7,Finland,1980,denmark
+1,6,Switzerland,1980,denmark
+2,5,Germany,1980,denmark
+3,4,Greece,1980,denmark
+4,2,Morocco,1980,denmark
+5,1,Norway,1980,denmark
+6,25,points received,1980,denmark
+0,12,Spain,1980,germany
+1,12,Italy,1980,germany
+2,12,The Netherlands,1980,germany
+3,10,Morocco,1980,germany
+4,10,France,1980,germany
+5,10,United Kingdom,1980,germany
+6,10,Turkey,1980,germany
+7,8,Austria,1980,germany
+8,8,Portugal,1980,germany
+9,7,Denmark,1980,germany
+10,7,Switzerland,1980,germany
+11,7,Belgium,1980,germany
+12,5,Ireland,1980,germany
+13,5,Sweden,1980,germany
+14,3,Luxembourg,1980,germany
+15,2,Finland,1980,germany
+16,128,points received,1980,germany
+0,12,Finland,1980,switzerland
+1,12,Ireland,1980,switzerland
+2,10,The Netherlands,1980,switzerland
+3,10,Germany,1980,switzerland
+4,10,Norway,1980,switzerland
+5,8,Denmark,1980,switzerland
+6,7,Morocco,1980,switzerland
+7,7,United Kingdom,1980,switzerland
+8,6,Portugal,1980,switzerland
+9,6,Austria,1980,switzerland
+10,5,Luxembourg,1980,switzerland
+11,3,Italy,1980,switzerland
+12,2,Turkey,1980,switzerland
+13,2,Sweden,1980,switzerland
+14,2,Belgium,1980,switzerland
+15,2,Spain,1980,switzerland
+16,104,points received,1980,switzerland
+0,10,Portugal,1980,belgium
+1,3,Greece,1980,belgium
+2,1,United Kingdom,1980,belgium
+3,14,points received,1980,belgium
+0,12,Austria,1980,the-netherlands
+1,12,France,1980,the-netherlands
+2,12,Turkey,1980,the-netherlands
+3,12,Luxembourg,1980,the-netherlands
+4,10,Finland,1980,the-netherlands
+5,8,Germany,1980,the-netherlands
+6,6,Greece,1980,the-netherlands
+7,5,Spain,1980,the-netherlands
+8,4,Portugal,1980,the-netherlands
+9,3,Sweden,1980,the-netherlands
+10,3,Switzerland,1980,the-netherlands
+11,3,Belgium,1980,the-netherlands
+12,2,United Kingdom,1980,the-netherlands
+13,1,Ireland,1980,the-netherlands
+14,93,points received,1980,the-netherlands
+0,10,Luxembourg,1980,sweden
+1,10,Greece,1980,sweden
+2,8,Turkey,1980,sweden
+3,6,Morocco,1980,sweden
+4,5,Switzerland,1980,sweden
+5,5,Italy,1980,sweden
+6,2,Germany,1980,sweden
+7,1,Spain,1980,sweden
+8,47,points received,1980,sweden
+0,6,Germany,1980,norway
+1,4,Morocco,1980,norway
+2,3,France,1980,norway
+3,2,The Netherlands,1980,norway
+4,15,points received,1980,norway
+0,5,Norway,1980,finland
+1,1,France,1980,finland
+2,6,points received,1980,finland
+0,12,Switzerland,1980,ireland
+1,12,Greece,1980,ireland
+2,12,Norway,1980,ireland
+3,12,United Kingdom,1980,ireland
+4,12,Denmark,1980,ireland
+5,12,Germany,1980,ireland
+6,12,Belgium,1980,ireland
+7,10,Austria,1980,ireland
+8,8,Finland,1980,ireland
+9,8,France,1980,ireland
+10,7,Sweden,1980,ireland
+11,7,Luxembourg,1980,ireland
+12,7,Spain,1980,ireland
+13,6,The Netherlands,1980,ireland
+14,5,Portugal,1980,ireland
+15,1,Italy,1980,ireland
+16,143,points received,1980,ireland

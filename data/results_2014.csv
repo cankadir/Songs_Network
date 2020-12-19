@@ -1,0 +1,507 @@
+,pts,pts_from,year,points_to
+0,12,Austria,2014,ireland
+1,10,The Netherlands,2014,ireland
+2,8,United Kingdom,2014,ireland
+3,7,Norway,2014,ireland
+4,6,Spain,2014,ireland
+5,5,Switzerland,2014,ireland
+6,4,Sweden,2014,ireland
+7,3,Malta,2014,ireland
+8,2,Romania,2014,ireland
+9,1,Hungary,2014,ireland
+0,8,San Marino,2014,iceland
+1,7,France,2014,iceland
+2,7,Italy,2014,iceland
+3,6,The Netherlands,2014,iceland
+4,6,Norway,2014,iceland
+5,5,Denmark,2014,iceland
+6,5,Hungary,2014,iceland
+7,4,United Kingdom,2014,iceland
+8,4,Sweden,2014,iceland
+9,2,Austria,2014,iceland
+10,2,Germany,2014,iceland
+11,1,Russia,2014,iceland
+12,1,Spain,2014,iceland
+13,58,points received,2014,iceland
+0,12,Albania,2014,spain
+1,8,Switzerland,2014,spain
+2,6,France,2014,spain
+3,6,Ireland,2014,spain
+4,5,United Kingdom,2014,spain
+5,5,Norway,2014,spain
+6,5,Romania,2014,spain
+7,4,Slovenia,2014,spain
+8,4,Israel,2014,spain
+9,4,Latvia,2014,spain
+10,4,Lithuania,2014,spain
+11,2,Armenia,2014,spain
+12,2,Poland,2014,spain
+13,2,Belgium,2014,spain
+14,2,Ukraine,2014,spain
+15,2,Estonia,2014,spain
+16,1,Germany,2014,spain
+17,74,points received,2014,spain
+0,8,Sweden,2014,denmark
+1,8,Germany,2014,denmark
+2,8,Iceland,2014,denmark
+3,6,Slovenia,2014,denmark
+4,6,Belgium,2014,denmark
+5,6,Poland,2014,denmark
+6,6,Finland,2014,denmark
+7,5,Portugal,2014,denmark
+8,4,Romania,2014,denmark
+9,3,France,2014,denmark
+10,3,Spain,2014,denmark
+11,3,United Kingdom,2014,denmark
+12,3,Switzerland,2014,denmark
+13,1,Lithuania,2014,denmark
+14,1,Norway,2014,denmark
+15,1,The Netherlands,2014,denmark
+16,1,Armenia,2014,denmark
+17,1,San Marino,2014,denmark
+18,74,points received,2014,denmark
+0,12,Austria,2014,belgium
+1,10,Sweden,2014,belgium
+2,8,The Netherlands,2014,belgium
+3,7,Hungary,2014,belgium
+4,6,Denmark,2014,belgium
+5,5,Romania,2014,belgium
+6,4,Ukraine,2014,belgium
+7,3,Finland,2014,belgium
+8,2,Spain,2014,belgium
+9,1,United Kingdom,2014,belgium
+0,10,The Netherlands,2014,norway
+1,8,Lithuania,2014,norway
+2,7,Poland,2014,norway
+3,7,Finland,2014,norway
+4,7,Ireland,2014,norway
+5,6,Denmark,2014,norway
+6,5,Switzerland,2014,norway
+7,5,Slovenia,2014,norway
+8,5,Latvia,2014,norway
+9,5,Germany,2014,norway
+10,4,Belarus,2014,norway
+11,3,Portugal,2014,norway
+12,3,Sweden,2014,norway
+13,3,Greece,2014,norway
+14,3,Estonia,2014,norway
+15,2,France,2014,norway
+16,2,Malta,2014,norway
+17,1,Austria,2014,norway
+18,1,Romania,2014,norway
+19,1,Iceland,2014,norway
+20,88,points received,2014,norway
+0,10,United Kingdom,2014,malta
+1,5,Azerbaijan,2014,malta
+2,5,The Netherlands,2014,malta
+3,4,San Marino,2014,malta
+4,3,Finland,2014,malta
+5,3,Ireland,2014,malta
+6,1,Albania,2014,malta
+7,1,Italy,2014,malta
+8,32,points received,2014,malta
+0,12,Armenia,2014,georgia
+1,10,Austria,2014,georgia
+2,8,Russia,2014,georgia
+3,7,Azerbaijan,2014,georgia
+4,6,Ukraine,2014,georgia
+5,5,Germany,2014,georgia
+6,4,Greece,2014,georgia
+7,3,United Kingdom,2014,georgia
+8,2,Sweden,2014,georgia
+9,1,Switzerland,2014,georgia
+0,4,Hungary,2014,san-marino
+1,3,Azerbaijan,2014,san-marino
+2,3,Albania,2014,san-marino
+3,3,Armenia,2014,san-marino
+4,1,Moldova,2014,san-marino
+5,14,points received,2014,san-marino
+0,1,Sweden,2014,france
+1,1,Finland,2014,france
+2,2,points received,2014,france
+0,10,Poland,2014,switzerland
+1,7,Portugal,2014,switzerland
+2,6,Romania,2014,switzerland
+3,5,Armenia,2014,switzerland
+4,5,Montenegro,2014,switzerland
+5,5,Ireland,2014,switzerland
+6,4,Greece,2014,switzerland
+7,3,Slovenia,2014,switzerland
+8,3,Germany,2014,switzerland
+9,3,Austria,2014,switzerland
+10,3,The Netherlands,2014,switzerland
+11,3,Malta,2014,switzerland
+12,2,Lithuania,2014,switzerland
+13,2,Italy,2014,switzerland
+14,1,Hungary,2014,switzerland
+15,1,Georgia,2014,switzerland
+16,1,United Kingdom,2014,switzerland
+17,64,points received,2014,switzerland
+0,12,Montenegro,2014,fyr-macedonia
+1,10,Hungary,2014,fyr-macedonia
+2,8,Armenia,2014,fyr-macedonia
+3,7,The Netherlands,2014,fyr-macedonia
+4,6,Russia,2014,fyr-macedonia
+5,5,Poland,2014,fyr-macedonia
+6,4,Romania,2014,fyr-macedonia
+7,3,Austria,2014,fyr-macedonia
+8,2,Italy,2014,fyr-macedonia
+9,1,Slovenia,2014,fyr-macedonia
+0,12,Spain,2014,albania
+1,10,Italy,2014,albania
+2,8,Hungary,2014,albania
+3,7,Sweden,2014,albania
+4,6,Montenegro,2014,albania
+5,5,Austria,2014,albania
+6,4,Germany,2014,albania
+7,3,San Marino,2014,albania
+8,2,Greece,2014,albania
+9,1,Malta,2014,albania
+0,12,North Macedonia,2014,montenegro
+1,12,Armenia,2014,montenegro
+2,7,Slovenia,2014,montenegro
+3,6,Albania,2014,montenegro
+4,37,points received,2014,montenegro
+0,8,Montenegro,2014,slovenia
+1,1,North Macedonia,2014,slovenia
+2,9,points received,2014,slovenia
+0,10,Germany,2014,poland
+1,8,Italy,2014,poland
+2,7,Belarus,2014,poland
+3,7,Ukraine,2014,poland
+4,5,North Macedonia,2014,poland
+5,5,France,2014,poland
+6,4,Montenegro,2014,poland
+7,3,Iceland,2014,poland
+8,3,Hungary,2014,poland
+9,2,Moldova,2014,poland
+10,2,Azerbaijan,2014,poland
+11,2,Norway,2014,poland
+12,2,Sweden,2014,poland
+13,1,Greece,2014,poland
+14,1,Slovenia,2014,poland
+15,62,points received,2014,poland
+0,12,Moldova,2014,romania
+1,8,Malta,2014,romania
+2,8,Spain,2014,romania
+3,8,Austria,2014,romania
+4,8,Israel,2014,romania
+5,6,Azerbaijan,2014,romania
+6,5,Italy,2014,romania
+7,5,Belgium,2014,romania
+8,4,North Macedonia,2014,romania
+9,4,Norway,2014,romania
+10,2,Ireland,2014,romania
+11,1,Portugal,2014,romania
+12,1,Belarus,2014,romania
+13,72,points received,2014,romania
+0,10,Italy,2014,ukraine
+1,10,Moldova,2014,ukraine
+2,10,Azerbaijan,2014,ukraine
+3,8,Estonia,2014,ukraine
+4,8,Belarus,2014,ukraine
+5,7,Montenegro,2014,ukraine
+6,7,Latvia,2014,ukraine
+7,7,Russia,2014,ukraine
+8,6,Spain,2014,ukraine
+9,6,Georgia,2014,ukraine
+10,5,Poland,2014,ukraine
+11,5,Israel,2014,ukraine
+12,5,Lithuania,2014,ukraine
+13,5,Austria,2014,ukraine
+14,5,Greece,2014,ukraine
+15,4,Belgium,2014,ukraine
+16,2,Finland,2014,ukraine
+17,2,Hungary,2014,ukraine
+18,1,Denmark,2014,ukraine
+19,113,points received,2014,ukraine
+0,12,Georgia,2014,armenia
+1,12,Austria,2014,armenia
+2,12,France,2014,armenia
+3,10,Latvia,2014,armenia
+4,10,Belarus,2014,armenia
+5,10,Montenegro,2014,armenia
+6,10,Ukraine,2014,armenia
+7,8,North Macedonia,2014,armenia
+8,8,Russia,2014,armenia
+9,7,Hungary,2014,armenia
+10,7,Greece,2014,armenia
+11,7,Romania,2014,armenia
+12,7,The Netherlands,2014,armenia
+13,6,Israel,2014,armenia
+14,6,Malta,2014,armenia
+15,6,San Marino,2014,armenia
+16,6,Germany,2014,armenia
+17,5,Sweden,2014,armenia
+18,5,Estonia,2014,armenia
+19,4,Finland,2014,armenia
+20,4,Portugal,2014,armenia
+21,4,Spain,2014,armenia
+22,3,Moldova,2014,armenia
+23,2,Denmark,2014,armenia
+24,2,Iceland,2014,armenia
+25,1,Poland,2014,armenia
+26,174,points received,2014,armenia
+0,8,Ireland,2014,united-kingdom
+1,7,Denmark,2014,united-kingdom
+2,5,San Marino,2014,united-kingdom
+3,5,Spain,2014,united-kingdom
+4,4,Malta,2014,united-kingdom
+5,4,Iceland,2014,united-kingdom
+6,3,Norway,2014,united-kingdom
+7,3,Georgia,2014,united-kingdom
+8,1,Belgium,2014,united-kingdom
+9,40,points received,2014,united-kingdom
+0,8,Poland,2014,germany
+1,7,Switzerland,2014,germany
+2,6,Armenia,2014,germany
+3,5,Georgia,2014,germany
+4,5,Ukraine,2014,germany
+5,4,Albania,2014,germany
+6,2,Romania,2014,germany
+7,2,Slovenia,2014,germany
+8,39,points received,2014,germany
+0,12,Poland,2014,the-netherlands
+1,12,Iceland,2014,the-netherlands
+2,12,Germany,2014,the-netherlands
+3,12,Norway,2014,the-netherlands
+4,12,Estonia,2014,the-netherlands
+5,12,Hungary,2014,the-netherlands
+6,12,Latvia,2014,the-netherlands
+7,12,Lithuania,2014,the-netherlands
+8,10,Austria,2014,the-netherlands
+9,10,Switzerland,2014,the-netherlands
+10,10,Sweden,2014,the-netherlands
+11,10,Portugal,2014,the-netherlands
+12,10,Ireland,2014,the-netherlands
+13,10,Denmark,2014,the-netherlands
+14,10,Slovenia,2014,the-netherlands
+15,8,France,2014,the-netherlands
+16,8,United Kingdom,2014,the-netherlands
+17,8,Belgium,2014,the-netherlands
+18,8,Finland,2014,the-netherlands
+19,8,Greece,2014,the-netherlands
+20,7,Spain,2014,the-netherlands
+21,7,North Macedonia,2014,the-netherlands
+22,4,Italy,2014,the-netherlands
+23,4,Armenia,2014,the-netherlands
+24,3,Russia,2014,the-netherlands
+25,3,Romania,2014,the-netherlands
+26,2,Belarus,2014,the-netherlands
+27,2,San Marino,2014,the-netherlands
+28,238,points received,2014,the-netherlands
+0,12,Ukraine,2014,sweden
+1,12,Romania,2014,sweden
+2,12,Denmark,2014,sweden
+3,10,Estonia,2014,sweden
+4,10,Finland,2014,sweden
+5,10,San Marino,2014,sweden
+6,10,Belgium,2014,sweden
+7,10,Israel,2014,sweden
+8,10,Spain,2014,sweden
+9,8,Slovenia,2014,sweden
+10,8,The Netherlands,2014,sweden
+11,8,Portugal,2014,sweden
+12,8,Norway,2014,sweden
+13,8,Hungary,2014,sweden
+14,8,Latvia,2014,sweden
+15,7,Malta,2014,sweden
+16,7,United Kingdom,2014,sweden
+17,7,Albania,2014,sweden
+18,7,Iceland,2014,sweden
+19,7,Lithuania,2014,sweden
+20,6,Switzerland,2014,sweden
+21,6,Austria,2014,sweden
+22,6,Moldova,2014,sweden
+23,4,France,2014,sweden
+24,4,Poland,2014,sweden
+25,4,Ireland,2014,sweden
+26,3,Montenegro,2014,sweden
+27,2,Greece,2014,sweden
+28,2,Russia,2014,sweden
+29,2,Georgia,2014,sweden
+30,218,points received,2014,sweden
+0,12,Austria,2014,portugal
+1,10,The Netherlands,2014,portugal
+2,8,Sweden,2014,portugal
+3,7,Switzerland,2014,portugal
+4,6,Hungary,2014,portugal
+5,5,Denmark,2014,portugal
+6,4,Armenia,2014,portugal
+7,3,Norway,2014,portugal
+8,2,Russia,2014,portugal
+9,1,Romania,2014,portugal
+0,7,Norway,2014,finland
+1,6,Hungary,2014,finland
+2,6,United Kingdom,2014,finland
+3,6,Estonia,2014,finland
+4,6,Italy,2014,finland
+5,6,Sweden,2014,finland
+6,5,Iceland,2014,finland
+7,4,Switzerland,2014,finland
+8,4,Denmark,2014,finland
+9,4,Germany,2014,finland
+10,4,Austria,2014,finland
+11,3,San Marino,2014,finland
+12,3,Belgium,2014,finland
+13,3,Latvia,2014,finland
+14,3,Poland,2014,finland
+15,2,The Netherlands,2014,finland
+16,72,points received,2014,finland
+0,12,The Netherlands,2014,lithuania
+1,10,Austria,2014,lithuania
+2,8,Norway,2014,lithuania
+3,7,Sweden,2014,lithuania
+4,6,Russia,2014,lithuania
+5,5,Ukraine,2014,lithuania
+6,4,Spain,2014,lithuania
+7,3,Belarus,2014,lithuania
+8,2,Switzerland,2014,lithuania
+9,1,Denmark,2014,lithuania
+0,12,Austria,2014,israel
+1,10,Sweden,2014,israel
+2,8,Romania,2014,israel
+3,7,Hungary,2014,israel
+4,6,Armenia,2014,israel
+5,5,Ukraine,2014,israel
+6,4,Spain,2014,israel
+7,3,Russia,2014,israel
+8,2,Greece,2014,israel
+9,1,Belarus,2014,israel
+0,12,The Netherlands,2014,estonia
+1,10,Sweden,2014,estonia
+2,8,Ukraine,2014,estonia
+3,7,Hungary,2014,estonia
+4,6,Finland,2014,estonia
+5,5,Armenia,2014,estonia
+6,4,Austria,2014,estonia
+7,3,Norway,2014,estonia
+8,2,Spain,2014,estonia
+9,1,Russia,2014,estonia
+0,12,The Netherlands,2014,latvia
+1,10,Armenia,2014,latvia
+2,8,Sweden,2014,latvia
+3,7,Ukraine,2014,latvia
+4,6,Austria,2014,latvia
+5,5,Norway,2014,latvia
+6,4,Spain,2014,latvia
+7,3,Finland,2014,latvia
+8,2,Russia,2014,latvia
+9,1,Hungary,2014,latvia
+0,12,Malta,2014,italy
+1,10,Albania,2014,italy
+2,6,Montenegro,2014,italy
+3,2,Switzerland,2014,italy
+4,2,North Macedonia,2014,italy
+5,1,France,2014,italy
+6,33,points received,2014,italy
+0,12,Italy,2014,austria
+1,12,Ireland,2014,austria
+2,12,Spain,2014,austria
+3,12,United Kingdom,2014,austria
+4,12,Switzerland,2014,austria
+5,12,Belgium,2014,austria
+6,12,The Netherlands,2014,austria
+7,12,Sweden,2014,austria
+8,12,Israel,2014,austria
+9,12,Greece,2014,austria
+10,12,Portugal,2014,austria
+11,12,Finland,2014,austria
+12,12,Slovenia,2014,austria
+13,10,France,2014,austria
+14,10,Malta,2014,austria
+15,10,Norway,2014,austria
+16,10,Georgia,2014,austria
+17,10,Lithuania,2014,austria
+18,10,Iceland,2014,austria
+19,10,Hungary,2014,austria
+20,8,Ukraine,2014,austria
+21,8,Denmark,2014,austria
+22,8,Romania,2014,austria
+23,7,Germany,2014,austria
+24,7,Moldova,2014,austria
+25,6,Latvia,2014,austria
+26,5,Albania,2014,austria
+27,5,Russia,2014,austria
+28,4,Estonia,2014,austria
+29,3,North Macedonia,2014,austria
+30,2,Montenegro,2014,austria
+31,1,Azerbaijan,2014,austria
+32,290,points received,2014,austria
+0,7,Armenia,2014,greece
+1,6,Belarus,2014,greece
+2,4,Georgia,2014,greece
+3,4,Russia,2014,greece
+4,4,Azerbaijan,2014,greece
+5,3,Italy,2014,greece
+6,2,Albania,2014,greece
+7,2,Israel,2014,greece
+8,2,United Kingdom,2014,greece
+9,1,Malta,2014,greece
+10,35,points received,2014,greece
+0,12,Montenegro,2014,hungary
+1,10,Romania,2014,hungary
+2,10,North Macedonia,2014,hungary
+3,8,Albania,2014,hungary
+4,8,Azerbaijan,2014,hungary
+5,7,Belgium,2014,hungary
+6,7,Sweden,2014,hungary
+7,7,Israel,2014,hungary
+8,7,San Marino,2014,hungary
+9,7,Austria,2014,hungary
+10,7,Estonia,2014,hungary
+11,6,Portugal,2014,hungary
+12,6,Russia,2014,hungary
+13,6,Iceland,2014,hungary
+14,6,Greece,2014,hungary
+15,5,Finland,2014,hungary
+16,5,Belarus,2014,hungary
+17,4,Moldova,2014,hungary
+18,4,The Netherlands,2014,hungary
+19,3,Denmark,2014,hungary
+20,3,Ukraine,2014,hungary
+21,2,Spain,2014,hungary
+22,1,Latvia,2014,hungary
+23,1,Switzerland,2014,hungary
+24,1,Ireland,2014,hungary
+25,143,points received,2014,hungary
+0,12,Azerbaijan,2014,russia
+1,12,Belarus,2014,russia
+2,10,Armenia,2014,russia
+3,10,Greece,2014,russia
+4,8,Georgia,2014,russia
+5,8,Moldova,2014,russia
+6,6,North Macedonia,2014,russia
+7,6,Lithuania,2014,russia
+8,5,Malta,2014,russia
+9,4,Ukraine,2014,russia
+10,3,Israel,2014,russia
+11,2,Latvia,2014,russia
+12,2,Portugal,2014,russia
+13,1,Estonia,2014,russia
+14,89,points received,2014,russia
+0,12,Russia,2014,belarus
+1,8,Armenia,2014,belarus
+2,7,Azerbaijan,2014,belarus
+3,6,Ukraine,2014,belarus
+4,5,Moldova,2014,belarus
+5,3,Lithuania,2014,belarus
+6,1,Montenegro,2014,belarus
+7,1,Israel,2014,belarus
+8,43,points received,2014,belarus
+0,12,San Marino,2014,azerbaijan
+1,10,Russia,2014,azerbaijan
+2,7,Georgia,2014,azerbaijan
+3,3,Belarus,2014,azerbaijan
+4,1,Ukraine,2014,azerbaijan
+5,33,points received,2014,azerbaijan
+0,12,Romania,2014,moldova
+1,10,Ukraine,2014,moldova
+2,8,Russia,2014,moldova
+3,7,Austria,2014,moldova
+4,6,Sweden,2014,moldova
+5,5,Belarus,2014,moldova
+6,4,Hungary,2014,moldova
+7,3,Armenia,2014,moldova
+8,2,Poland,2014,moldova
+9,1,San Marino,2014,moldova

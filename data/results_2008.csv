@@ -1,0 +1,636 @@
+,pts,pts_from,year,points_to
+0,12,Greece,2008,cyprus
+1,10,Armenia,2008,cyprus
+2,8,Russia,2008,cyprus
+3,7,Georgia,2008,cyprus
+4,6,Ukraine,2008,cyprus
+5,5,Serbia,2008,cyprus
+6,4,Spain,2008,cyprus
+7,3,Romania,2008,cyprus
+8,2,Israel,2008,cyprus
+9,1,Sweden,2008,cyprus
+0,12,Azerbaijan,2008,turkey
+1,10,Albania,2008,turkey
+2,10,Germany,2008,turkey
+3,10,France,2008,turkey
+4,10,Belgium,2008,turkey
+5,10,The Netherlands,2008,turkey
+6,8,Bosnia & Herzegovina,2008,turkey
+7,8,United Kingdom,2008,turkey
+8,8,Romania,2008,turkey
+9,7,North Macedonia,2008,turkey
+10,6,Switzerland,2008,turkey
+11,6,Georgia,2008,turkey
+12,5,Hungary,2008,turkey
+13,5,Bulgaria,2008,turkey
+14,4,San Marino,2008,turkey
+15,4,Ukraine,2008,turkey
+16,4,Denmark,2008,turkey
+17,4,Finland,2008,turkey
+18,3,Belarus,2008,turkey
+19,2,Russia,2008,turkey
+20,2,Norway,2008,turkey
+21,138,points received,2008,turkey
+0,10,San Marino,2008,israel
+1,8,Finland,2008,israel
+2,7,Serbia,2008,israel
+3,7,Azerbaijan,2008,israel
+4,6,France,2008,israel
+5,6,Romania,2008,israel
+6,6,Russia,2008,israel
+7,6,Moldova,2008,israel
+8,6,Armenia,2008,israel
+9,5,Poland,2008,israel
+10,5,Bosnia & Herzegovina,2008,israel
+11,5,Ukraine,2008,israel
+12,5,Belgium,2008,israel
+13,5,Montenegro,2008,israel
+14,4,Albania,2008,israel
+15,4,Belarus,2008,israel
+16,3,Slovenia,2008,israel
+17,3,Hungary,2008,israel
+18,3,Lithuania,2008,israel
+19,3,Georgia,2008,israel
+20,3,Germany,2008,israel
+21,3,The Netherlands,2008,israel
+22,3,Norway,2008,israel
+23,2,Cyprus,2008,israel
+24,2,Bulgaria,2008,israel
+25,2,Croatia,2008,israel
+26,1,Greece,2008,israel
+27,1,Switzerland,2008,israel
+28,124,points received,2008,israel
+0,12,United Kingdom,2008,greece
+1,12,Cyprus,2008,greece
+2,12,Romania,2008,greece
+3,12,San Marino,2008,greece
+4,12,Albania,2008,greece
+5,12,Germany,2008,greece
+6,10,Bulgaria,2008,greece
+7,8,Hungary,2008,greece
+8,8,Belgium,2008,greece
+9,8,Andorra,2008,greece
+10,8,Armenia,2008,greece
+11,8,Serbia,2008,greece
+12,7,Bosnia & Herzegovina,2008,greece
+13,7,Turkey,2008,greece
+14,6,Montenegro,2008,greece
+15,6,Azerbaijan,2008,greece
+16,6,Slovenia,2008,greece
+17,6,The Netherlands,2008,greece
+18,5,Israel,2008,greece
+19,5,Croatia,2008,greece
+20,5,Switzerland,2008,greece
+21,5,Czech Republic,2008,greece
+22,4,Georgia,2008,greece
+23,4,Ireland,2008,greece
+24,4,Moldova,2008,greece
+25,3,Russia,2008,greece
+26,3,Denmark,2008,greece
+27,3,Spain,2008,greece
+28,3,France,2008,greece
+29,3,North Macedonia,2008,greece
+30,3,Poland,2008,greece
+31,2,Belarus,2008,greece
+32,2,Malta,2008,greece
+33,2,Ukraine,2008,greece
+34,1,Sweden,2008,greece
+35,1,Estonia,2008,greece
+36,218,points received,2008,greece
+0,10,Andorra,2008,portugal
+1,10,Switzerland,2008,portugal
+2,8,Spain,2008,portugal
+3,8,France,2008,portugal
+4,6,Iceland,2008,portugal
+5,6,Belgium,2008,portugal
+6,5,San Marino,2008,portugal
+7,5,The Netherlands,2008,portugal
+8,4,Germany,2008,portugal
+9,3,Ukraine,2008,portugal
+10,3,Croatia,2008,portugal
+11,1,Serbia,2008,portugal
+12,69,points received,2008,portugal
+0,12,Russia,2008,estonia
+1,10,Finland,2008,estonia
+2,8,Norway,2008,estonia
+3,7,Latvia,2008,estonia
+4,6,France,2008,estonia
+5,5,Georgia,2008,estonia
+6,4,Ukraine,2008,estonia
+7,3,Denmark,2008,estonia
+8,2,Sweden,2008,estonia
+9,1,Greece,2008,estonia
+0,12,Ireland,2008,latvia
+1,10,United Kingdom,2008,latvia
+2,10,Lithuania,2008,latvia
+3,8,Portugal,2008,latvia
+4,7,Estonia,2008,latvia
+5,7,Malta,2008,latvia
+6,6,Denmark,2008,latvia
+7,4,Croatia,2008,latvia
+8,4,Iceland,2008,latvia
+9,3,Sweden,2008,latvia
+10,3,Czech Republic,2008,latvia
+11,3,Montenegro,2008,latvia
+12,2,Spain,2008,latvia
+13,2,Andorra,2008,latvia
+14,2,Georgia,2008,latvia
+15,83,points received,2008,latvia
+0,12,Russia,2008,lithuania
+1,10,Latvia,2008,lithuania
+2,8,France,2008,lithuania
+3,7,Azerbaijan,2008,lithuania
+4,6,Ukraine,2008,lithuania
+5,5,Georgia,2008,lithuania
+6,4,Norway,2008,lithuania
+7,3,Israel,2008,lithuania
+8,2,Denmark,2008,lithuania
+9,1,Sweden,2008,lithuania
+0,12,Sweden,2008,malta
+1,10,Ukraine,2008,malta
+2,8,Russia,2008,malta
+3,7,Latvia,2008,malta
+4,6,Iceland,2008,malta
+5,5,Georgia,2008,malta
+6,4,Denmark,2008,malta
+7,3,Norway,2008,malta
+8,2,Greece,2008,malta
+9,1,Serbia,2008,malta
+0,12,Estonia,2008,russia
+1,12,Israel,2008,russia
+2,12,Lithuania,2008,russia
+3,12,Latvia,2008,russia
+4,12,Belarus,2008,russia
+5,12,Armenia,2008,russia
+6,12,Ukraine,2008,russia
+7,10,Hungary,2008,russia
+8,10,Moldova,2008,russia
+9,10,Serbia,2008,russia
+10,10,Romania,2008,russia
+11,10,Finland,2008,russia
+12,8,Montenegro,2008,russia
+13,8,Cyprus,2008,russia
+14,8,Malta,2008,russia
+15,8,Azerbaijan,2008,russia
+16,8,Georgia,2008,russia
+17,7,Czech Republic,2008,russia
+18,7,Slovenia,2008,russia
+19,7,Germany,2008,russia
+20,7,Greece,2008,russia
+21,6,Albania,2008,russia
+22,6,Portugal,2008,russia
+23,6,Poland,2008,russia
+24,6,North Macedonia,2008,russia
+25,6,Bulgaria,2008,russia
+26,6,Croatia,2008,russia
+27,5,Spain,2008,russia
+28,5,Andorra,2008,russia
+29,5,Norway,2008,russia
+30,5,Turkey,2008,russia
+31,5,Ireland,2008,russia
+32,4,Bosnia & Herzegovina,2008,russia
+33,3,Belgium,2008,russia
+34,1,France,2008,russia
+35,1,The Netherlands,2008,russia
+36,272,points received,2008,russia
+0,12,Hungary,2008,azerbaijan
+1,12,Turkey,2008,azerbaijan
+2,10,Czech Republic,2008,azerbaijan
+3,10,Ukraine,2008,azerbaijan
+4,10,Russia,2008,azerbaijan
+5,8,North Macedonia,2008,azerbaijan
+6,8,Moldova,2008,azerbaijan
+7,8,Belarus,2008,azerbaijan
+8,7,Georgia,2008,azerbaijan
+9,7,Belgium,2008,azerbaijan
+10,7,Lithuania,2008,azerbaijan
+11,7,Poland,2008,azerbaijan
+12,7,Andorra,2008,azerbaijan
+13,4,Latvia,2008,azerbaijan
+14,3,Bulgaria,2008,azerbaijan
+15,3,Greece,2008,azerbaijan
+16,3,Israel,2008,azerbaijan
+17,2,Romania,2008,azerbaijan
+18,2,The Netherlands,2008,azerbaijan
+19,1,Slovenia,2008,azerbaijan
+20,1,Germany,2008,azerbaijan
+21,132,points received,2008,azerbaijan
+0,12,Portugal,2008,ukraine
+1,10,Azerbaijan,2008,ukraine
+2,10,Malta,2008,ukraine
+3,10,Poland,2008,ukraine
+4,10,Belarus,2008,ukraine
+5,10,Georgia,2008,ukraine
+6,10,Israel,2008,ukraine
+7,10,Latvia,2008,ukraine
+8,8,Russia,2008,ukraine
+9,8,Turkey,2008,ukraine
+10,8,Albania,2008,ukraine
+11,8,Czech Republic,2008,ukraine
+12,7,Moldova,2008,ukraine
+13,7,Denmark,2008,ukraine
+14,7,Croatia,2008,ukraine
+15,7,Spain,2008,ukraine
+16,7,Bulgaria,2008,ukraine
+17,6,Ireland,2008,ukraine
+18,6,Cyprus,2008,ukraine
+19,6,Greece,2008,ukraine
+20,6,Hungary,2008,ukraine
+21,6,Lithuania,2008,ukraine
+22,6,Andorra,2008,ukraine
+23,6,Serbia,2008,ukraine
+24,5,Armenia,2008,ukraine
+25,5,United Kingdom,2008,ukraine
+26,5,Iceland,2008,ukraine
+27,4,Estonia,2008,ukraine
+28,4,Montenegro,2008,ukraine
+29,4,North Macedonia,2008,ukraine
+30,3,Finland,2008,ukraine
+31,3,Bosnia & Herzegovina,2008,ukraine
+32,3,Romania,2008,ukraine
+33,2,Slovenia,2008,ukraine
+34,1,Belgium,2008,ukraine
+35,230,points received,2008,ukraine
+0,12,Russia,2008,belarus
+1,10,Ukraine,2008,belarus
+2,8,Azerbaijan,2008,belarus
+3,7,Armenia,2008,belarus
+4,6,Georgia,2008,belarus
+5,5,Norway,2008,belarus
+6,4,Israel,2008,belarus
+7,3,Turkey,2008,belarus
+8,2,Greece,2008,belarus
+9,1,Serbia,2008,belarus
+0,12,Romania,2008,moldova
+1,10,Russia,2008,moldova
+2,8,Azerbaijan,2008,moldova
+3,7,Ukraine,2008,moldova
+4,6,Israel,2008,moldova
+5,5,Norway,2008,moldova
+6,4,Greece,2008,moldova
+7,3,Georgia,2008,moldova
+8,2,Armenia,2008,moldova
+9,1,Serbia,2008,moldova
+0,12,Armenia,2008,czech-republic
+1,10,Azerbaijan,2008,czech-republic
+2,8,Ukraine,2008,czech-republic
+3,7,Russia,2008,czech-republic
+4,6,Serbia,2008,czech-republic
+5,5,Greece,2008,czech-republic
+6,4,Georgia,2008,czech-republic
+7,3,Latvia,2008,czech-republic
+8,2,Denmark,2008,czech-republic
+9,1,Bosnia & Herzegovina,2008,czech-republic
+0,12,Russia,2008,armenia
+1,12,Poland,2008,armenia
+2,12,Czech Republic,2008,armenia
+3,12,France,2008,armenia
+4,12,Greece,2008,armenia
+5,12,Georgia,2008,armenia
+6,12,Belgium,2008,armenia
+7,12,The Netherlands,2008,armenia
+8,10,Spain,2008,armenia
+9,10,Cyprus,2008,armenia
+10,10,Turkey,2008,armenia
+11,8,San Marino,2008,armenia
+12,8,Israel,2008,armenia
+13,8,Bulgaria,2008,armenia
+14,7,Belarus,2008,armenia
+15,7,Ukraine,2008,armenia
+16,6,Germany,2008,armenia
+17,6,Bosnia & Herzegovina,2008,armenia
+18,5,Slovenia,2008,armenia
+19,5,Serbia,2008,armenia
+20,4,Romania,2008,armenia
+21,2,Albania,2008,armenia
+22,2,Moldova,2008,armenia
+23,2,Sweden,2008,armenia
+24,1,North Macedonia,2008,armenia
+25,1,Iceland,2008,armenia
+26,1,Montenegro,2008,armenia
+27,199,points received,2008,armenia
+0,8,Iceland,2008,france
+1,8,Lithuania,2008,france
+2,6,Estonia,2008,france
+3,5,Denmark,2008,france
+4,4,Sweden,2008,france
+5,4,Armenia,2008,france
+6,3,Latvia,2008,france
+7,3,Andorra,2008,france
+8,2,United Kingdom,2008,france
+9,2,Finland,2008,france
+10,1,Norway,2008,france
+11,1,Poland,2008,france
+12,47,points received,2008,france
+0,8,Ireland,2008,united-kingdom
+1,6,San Marino,2008,united-kingdom
+2,14,points received,2008,united-kingdom
+0,12,Norway,2008,denmark
+1,12,Iceland,2008,denmark
+2,7,Latvia,2008,denmark
+3,5,Sweden,2008,denmark
+4,5,Portugal,2008,denmark
+5,4,Malta,2008,denmark
+6,3,Estonia,2008,denmark
+7,3,United Kingdom,2008,denmark
+8,2,San Marino,2008,denmark
+9,2,Hungary,2008,denmark
+10,2,Lithuania,2008,denmark
+11,2,Czech Republic,2008,denmark
+12,1,Ireland,2008,denmark
+13,60,points received,2008,denmark
+0,12,Bulgaria,2008,germany
+1,2,Switzerland,2008,germany
+2,14,points received,2008,germany
+0,12,Serbia,2008,switzerland
+1,10,Portugal,2008,switzerland
+2,8,Albania,2008,switzerland
+3,7,Bosnia & Herzegovina,2008,switzerland
+4,6,Turkey,2008,switzerland
+5,5,Greece,2008,switzerland
+6,4,Spain,2008,switzerland
+7,3,Croatia,2008,switzerland
+8,2,Germany,2008,switzerland
+9,1,Israel,2008,switzerland
+0,12,Armenia,2008,belgium
+1,10,Turkey,2008,belgium
+2,8,Greece,2008,belgium
+3,7,Azerbaijan,2008,belgium
+4,6,Portugal,2008,belgium
+5,5,Israel,2008,belgium
+6,4,Spain,2008,belgium
+7,3,Russia,2008,belgium
+8,2,Norway,2008,belgium
+9,1,Ukraine,2008,belgium
+0,12,Armenia,2008,the-netherlands
+1,10,Turkey,2008,the-netherlands
+2,8,Serbia,2008,the-netherlands
+3,7,Bosnia & Herzegovina,2008,the-netherlands
+4,6,Greece,2008,the-netherlands
+5,5,Portugal,2008,the-netherlands
+6,4,Norway,2008,the-netherlands
+7,3,Israel,2008,the-netherlands
+8,2,Azerbaijan,2008,the-netherlands
+9,1,Russia,2008,the-netherlands
+0,12,Finland,2008,norway
+1,12,Sweden,2008,norway
+2,10,Iceland,2008,norway
+3,10,Denmark,2008,norway
+4,8,Poland,2008,norway
+5,8,Estonia,2008,norway
+6,7,Ireland,2008,norway
+7,7,United Kingdom,2008,norway
+8,7,Israel,2008,norway
+9,7,Albania,2008,norway
+10,7,Armenia,2008,norway
+11,7,San Marino,2008,norway
+12,6,Latvia,2008,norway
+13,6,Ukraine,2008,norway
+14,6,Spain,2008,norway
+15,5,Georgia,2008,norway
+16,5,Romania,2008,norway
+17,5,Belarus,2008,norway
+18,5,Moldova,2008,norway
+19,5,Russia,2008,norway
+20,5,Azerbaijan,2008,norway
+21,4,The Netherlands,2008,norway
+22,4,Hungary,2008,norway
+23,4,Lithuania,2008,norway
+24,4,Serbia,2008,norway
+25,3,Malta,2008,norway
+26,2,Bosnia & Herzegovina,2008,norway
+27,2,Turkey,2008,norway
+28,2,Portugal,2008,norway
+29,2,Greece,2008,norway
+30,2,Belgium,2008,norway
+31,1,Croatia,2008,norway
+32,1,Bulgaria,2008,norway
+33,1,Andorra,2008,norway
+34,182,points received,2008,norway
+0,10,Estonia,2008,finland
+1,7,Sweden,2008,finland
+2,7,Iceland,2008,finland
+3,4,Norway,2008,finland
+4,4,Andorra,2008,finland
+5,2,Poland,2008,finland
+6,1,Latvia,2008,finland
+7,35,points received,2008,finland
+0,12,Croatia,2008,bosnia-herzegovina
+1,12,Serbia,2008,bosnia-herzegovina
+2,10,Montenegro,2008,bosnia-herzegovina
+3,10,Sweden,2008,bosnia-herzegovina
+4,10,Norway,2008,bosnia-herzegovina
+5,10,Slovenia,2008,bosnia-herzegovina
+6,7,Switzerland,2008,bosnia-herzegovina
+7,7,The Netherlands,2008,bosnia-herzegovina
+8,6,Finland,2008,bosnia-herzegovina
+9,6,Turkey,2008,bosnia-herzegovina
+10,5,North Macedonia,2008,bosnia-herzegovina
+11,5,Germany,2008,bosnia-herzegovina
+12,3,Azerbaijan,2008,bosnia-herzegovina
+13,2,Denmark,2008,bosnia-herzegovina
+14,2,Ireland,2008,bosnia-herzegovina
+15,2,France,2008,bosnia-herzegovina
+16,1,Czech Republic,2008,bosnia-herzegovina
+17,110,points received,2008,bosnia-herzegovina
+0,12,Albania,2008,fyr-macedonia
+1,10,Serbia,2008,fyr-macedonia
+2,8,Azerbaijan,2008,fyr-macedonia
+3,7,Turkey,2008,fyr-macedonia
+4,6,Russia,2008,fyr-macedonia
+5,5,Bosnia & Herzegovina,2008,fyr-macedonia
+6,4,Ukraine,2008,fyr-macedonia
+7,3,Greece,2008,fyr-macedonia
+8,2,Croatia,2008,fyr-macedonia
+9,1,Armenia,2008,fyr-macedonia
+0,12,Azerbaijan,2008,hungary
+1,10,Russia,2008,hungary
+2,8,Greece,2008,hungary
+3,7,Serbia,2008,hungary
+4,6,Ukraine,2008,hungary
+5,5,Turkey,2008,hungary
+6,4,Norway,2008,hungary
+7,3,Israel,2008,hungary
+8,2,Denmark,2008,hungary
+9,1,Sweden,2008,hungary
+0,12,Moldova,2008,romania
+1,12,Spain,2008,romania
+2,6,Israel,2008,romania
+3,4,France,2008,romania
+4,4,Portugal,2008,romania
+5,3,Ireland,2008,romania
+6,3,Cyprus,2008,romania
+7,1,San Marino,2008,romania
+8,45,points received,2008,romania
+0,12,North Macedonia,2008,albania
+1,10,Greece,2008,albania
+2,8,Switzerland,2008,albania
+3,8,Croatia,2008,albania
+4,7,Montenegro,2008,albania
+5,4,Slovenia,2008,albania
+6,3,San Marino,2008,albania
+7,1,Bosnia & Herzegovina,2008,albania
+8,1,Turkey,2008,albania
+9,1,Azerbaijan,2008,albania
+10,55,points received,2008,albania
+0,12,Germany,2008,bulgaria
+1,10,Greece,2008,bulgaria
+2,8,Armenia,2008,bulgaria
+3,7,Ukraine,2008,bulgaria
+4,6,Russia,2008,bulgaria
+5,5,Turkey,2008,bulgaria
+6,4,Serbia,2008,bulgaria
+7,3,Azerbaijan,2008,bulgaria
+8,2,Israel,2008,bulgaria
+9,1,Norway,2008,bulgaria
+0,10,Armenia,2008,georgia
+1,8,Latvia,2008,georgia
+2,8,Ukraine,2008,georgia
+3,7,Cyprus,2008,georgia
+4,7,Russia,2008,georgia
+5,6,Belarus,2008,georgia
+6,5,Lithuania,2008,georgia
+7,5,Estonia,2008,georgia
+8,5,Malta,2008,georgia
+9,4,Azerbaijan,2008,georgia
+10,4,Greece,2008,georgia
+11,4,Turkey,2008,georgia
+12,4,Czech Republic,2008,georgia
+13,3,Moldova,2008,georgia
+14,2,Israel,2008,georgia
+15,1,Portugal,2008,georgia
+16,83,points received,2008,georgia
+0,12,Greece,2008,san-marino
+1,10,Israel,2008,san-marino
+2,8,Armenia,2008,san-marino
+3,7,Norway,2008,san-marino
+4,6,United Kingdom,2008,san-marino
+5,5,Portugal,2008,san-marino
+6,4,Turkey,2008,san-marino
+7,3,Albania,2008,san-marino
+8,2,Denmark,2008,san-marino
+9,1,Romania,2008,san-marino
+0,12,Denmark,2008,iceland
+1,8,Norway,2008,iceland
+2,8,Sweden,2008,iceland
+3,7,Portugal,2008,iceland
+4,7,Finland,2008,iceland
+5,6,Malta,2008,iceland
+6,6,United Kingdom,2008,iceland
+7,4,Israel,2008,iceland
+8,4,Spain,2008,iceland
+9,2,Latvia,2008,iceland
+10,64,points received,2008,iceland
+0,12,Andorra,2008,spain
+1,10,Portugal,2008,spain
+2,8,Greece,2008,spain
+3,5,France,2008,spain
+4,4,Switzerland,2008,spain
+5,4,Belgium,2008,spain
+6,4,Cyprus,2008,spain
+7,3,Turkey,2008,spain
+8,1,Denmark,2008,spain
+9,1,Finland,2008,spain
+10,1,Albania,2008,spain
+11,1,United Kingdom,2008,spain
+12,1,Armenia,2008,spain
+13,55,points received,2008,spain
+0,12,Slovenia,2008,serbia
+1,12,Montenegro,2008,serbia
+2,12,Switzerland,2008,serbia
+3,12,Bosnia & Herzegovina,2008,serbia
+4,10,North Macedonia,2008,serbia
+5,10,Croatia,2008,serbia
+6,8,The Netherlands,2008,serbia
+7,8,Germany,2008,serbia
+8,7,Hungary,2008,serbia
+9,7,France,2008,serbia
+10,7,Romania,2008,serbia
+11,6,Norway,2008,serbia
+12,6,Czech Republic,2008,serbia
+13,6,Sweden,2008,serbia
+14,5,Greece,2008,serbia
+15,5,Cyprus,2008,serbia
+16,5,Albania,2008,serbia
+17,4,Russia,2008,serbia
+18,4,Bulgaria,2008,serbia
+19,4,Poland,2008,serbia
+20,3,Armenia,2008,serbia
+21,2,Iceland,2008,serbia
+22,2,Azerbaijan,2008,serbia
+23,1,Belarus,2008,serbia
+24,1,Malta,2008,serbia
+25,1,Moldova,2008,serbia
+26,160,points received,2008,serbia
+0,12,Serbia,2008,slovenia
+1,10,Bosnia & Herzegovina,2008,slovenia
+2,8,Croatia,2008,slovenia
+3,7,Russia,2008,slovenia
+4,6,Greece,2008,slovenia
+5,5,Armenia,2008,slovenia
+6,4,Albania,2008,slovenia
+7,3,Israel,2008,slovenia
+8,2,Ukraine,2008,slovenia
+9,1,Azerbaijan,2008,slovenia
+0,10,Bosnia & Herzegovina,2008,croatia
+1,8,Slovenia,2008,croatia
+2,5,Latvia,2008,croatia
+3,3,Serbia,2008,croatia
+4,3,Portugal,2008,croatia
+5,3,Switzerland,2008,croatia
+6,2,Germany,2008,croatia
+7,2,North Macedonia,2008,croatia
+8,2,Armenia,2008,croatia
+9,2,Montenegro,2008,croatia
+10,1,Romania,2008,croatia
+11,1,Georgia,2008,croatia
+12,1,Russia,2008,croatia
+13,1,Ukraine,2008,croatia
+14,44,points received,2008,croatia
+0,12,Serbia,2008,montenegro
+1,10,Bosnia & Herzegovina,2008,montenegro
+2,8,Russia,2008,montenegro
+3,7,Albania,2008,montenegro
+4,6,Greece,2008,montenegro
+5,5,Israel,2008,montenegro
+6,4,Ukraine,2008,montenegro
+7,3,Latvia,2008,montenegro
+8,2,Croatia,2008,montenegro
+9,1,Armenia,2008,montenegro
+0,12,Latvia,2008,ireland
+1,10,Poland,2008,ireland
+2,8,United Kingdom,2008,ireland
+3,7,Norway,2008,ireland
+4,6,Ukraine,2008,ireland
+5,5,Russia,2008,ireland
+6,4,Greece,2008,ireland
+7,3,Romania,2008,ireland
+8,2,Bosnia & Herzegovina,2008,ireland
+9,1,Denmark,2008,ireland
+0,12,Malta,2008,sweden
+1,8,Denmark,2008,sweden
+2,7,Norway,2008,sweden
+3,5,Finland,2008,sweden
+4,3,Iceland,2008,sweden
+5,3,Albania,2008,sweden
+6,2,Serbia,2008,sweden
+7,2,Estonia,2008,sweden
+8,1,Cyprus,2008,sweden
+9,1,Spain,2008,sweden
+10,1,Israel,2008,sweden
+11,1,Lithuania,2008,sweden
+12,1,Hungary,2008,sweden
+13,47,points received,2008,sweden
+0,12,Spain,2008,andorra
+1,10,Portugal,2008,andorra
+2,8,Greece,2008,andorra
+3,7,Azerbaijan,2008,andorra
+4,6,Ukraine,2008,andorra
+5,5,Russia,2008,andorra
+6,4,Finland,2008,andorra
+7,3,France,2008,andorra
+8,2,Latvia,2008,andorra
+9,1,Norway,2008,andorra
+0,10,Ireland,2008,poland
+1,4,United Kingdom,2008,poland
+2,14,points received,2008,poland

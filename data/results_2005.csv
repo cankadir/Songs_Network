@@ -1,0 +1,565 @@
+,pts,pts_from,year,points_to
+0,12,Monaco,2005,israel
+1,10,France,2005,israel
+2,8,Hungary,2005,israel
+3,8,Russia,2005,israel
+4,8,Andorra,2005,israel
+5,8,Belarus,2005,israel
+6,8,Malta,2005,israel
+7,7,Ukraine,2005,israel
+8,7,United Kingdom,2005,israel
+9,7,The Netherlands,2005,israel
+10,7,Romania,2005,israel
+11,6,Moldova,2005,israel
+12,6,Ireland,2005,israel
+13,6,Spain,2005,israel
+14,6,Belgium,2005,israel
+15,5,Portugal,2005,israel
+16,5,Germany,2005,israel
+17,5,Denmark,2005,israel
+18,5,Finland,2005,israel
+19,5,Norway,2005,israel
+20,3,Turkey,2005,israel
+21,3,Lithuania,2005,israel
+22,3,Albania,2005,israel
+23,2,Latvia,2005,israel
+24,1,Switzerland,2005,israel
+25,1,Austria,2005,israel
+26,1,Estonia,2005,israel
+27,1,Sweden,2005,israel
+28,154,points received,2005,israel
+0,12,North Macedonia,2005,albania
+1,10,Greece,2005,albania
+2,10,Switzerland,2005,albania
+3,8,Serbia & Montenegro,2005,albania
+4,5,Bosnia & Herzegovina,2005,albania
+5,3,Austria,2005,albania
+6,2,Turkey,2005,albania
+7,2,Croatia,2005,albania
+8,1,France,2005,albania
+9,53,points received,2005,albania
+0,12,Spain,2005,andorra
+1,10,Latvia,2005,andorra
+2,8,Israel,2005,andorra
+3,7,Romania,2005,andorra
+4,6,Hungary,2005,andorra
+5,5,France,2005,andorra
+6,4,Greece,2005,andorra
+7,3,Denmark,2005,andorra
+8,2,Norway,2005,andorra
+9,1,Switzerland,2005,andorra
+0,12,Latvia,2005,ireland
+1,10,Malta,2005,ireland
+2,8,United Kingdom,2005,ireland
+3,7,Denmark,2005,ireland
+4,6,Israel,2005,ireland
+5,5,Romania,2005,ireland
+6,4,Norway,2005,ireland
+7,3,Switzerland,2005,ireland
+8,2,Greece,2005,ireland
+9,1,Bosnia & Herzegovina,2005,ireland
+0,8,Ireland,2005,united-kingdom
+1,5,Cyprus,2005,united-kingdom
+2,4,Malta,2005,united-kingdom
+3,1,Turkey,2005,united-kingdom
+4,18,points received,2005,united-kingdom
+0,12,Norway,2005,denmark
+1,10,Iceland,2005,denmark
+2,10,Spain,2005,denmark
+3,10,Sweden,2005,denmark
+4,10,Monaco,2005,denmark
+5,8,United Kingdom,2005,denmark
+6,8,The Netherlands,2005,denmark
+7,7,Ireland,2005,denmark
+8,6,Hungary,2005,denmark
+9,6,Germany,2005,denmark
+10,5,Estonia,2005,denmark
+11,5,Poland,2005,denmark
+12,4,Romania,2005,denmark
+13,4,Belgium,2005,denmark
+14,4,Latvia,2005,denmark
+15,4,Lithuania,2005,denmark
+16,3,Andorra,2005,denmark
+17,3,Malta,2005,denmark
+18,3,Israel,2005,denmark
+19,2,Finland,2005,denmark
+20,1,Portugal,2005,denmark
+21,125,points received,2005,denmark
+0,12,Serbia & Montenegro,2005,austria
+1,10,Bosnia & Herzegovina,2005,austria
+2,8,Croatia,2005,austria
+3,7,Turkey,2005,austria
+4,6,Romania,2005,austria
+5,5,Malta,2005,austria
+6,4,Greece,2005,austria
+7,3,Albania,2005,austria
+8,2,Moldova,2005,austria
+9,1,Israel,2005,austria
+0,12,Latvia,2005,switzerland
+1,12,Estonia,2005,switzerland
+2,10,Belarus,2005,switzerland
+3,10,Finland,2005,switzerland
+4,8,Monaco,2005,switzerland
+5,8,Lithuania,2005,switzerland
+6,7,Iceland,2005,switzerland
+7,7,Russia,2005,switzerland
+8,6,Slovenia,2005,switzerland
+9,6,Poland,2005,switzerland
+10,5,Sweden,2005,switzerland
+11,5,Ukraine,2005,switzerland
+12,4,Portugal,2005,switzerland
+13,4,Germany,2005,switzerland
+14,4,Cyprus,2005,switzerland
+15,3,Croatia,2005,switzerland
+16,3,Greece,2005,switzerland
+17,3,Norway,2005,switzerland
+18,3,Ireland,2005,switzerland
+19,3,Hungary,2005,switzerland
+20,2,Israel,2005,switzerland
+21,1,Malta,2005,switzerland
+22,1,Andorra,2005,switzerland
+23,1,Denmark,2005,switzerland
+24,128,points received,2005,switzerland
+0,12,Turkey,2005,the-netherlands
+1,10,Greece,2005,the-netherlands
+2,8,Denmark,2005,the-netherlands
+3,7,Israel,2005,the-netherlands
+4,6,Bosnia & Herzegovina,2005,the-netherlands
+5,5,Malta,2005,the-netherlands
+6,4,Serbia & Montenegro,2005,the-netherlands
+7,3,Romania,2005,the-netherlands
+8,2,Croatia,2005,the-netherlands
+9,1,Norway,2005,the-netherlands
+0,7,Denmark,2005,sweden
+1,6,Finland,2005,sweden
+2,6,North Macedonia,2005,sweden
+3,5,Moldova,2005,sweden
+4,3,Monaco,2005,sweden
+5,2,Spain,2005,sweden
+6,1,Norway,2005,sweden
+7,30,points received,2005,sweden
+0,12,France,2005,turkey
+1,12,The Netherlands,2005,turkey
+2,10,Belgium,2005,turkey
+3,10,Germany,2005,turkey
+4,8,Bosnia & Herzegovina,2005,turkey
+5,8,Albania,2005,turkey
+6,8,Denmark,2005,turkey
+7,7,Austria,2005,turkey
+8,6,Switzerland,2005,turkey
+9,4,North Macedonia,2005,turkey
+10,3,Romania,2005,turkey
+11,3,Bulgaria,2005,turkey
+12,1,United Kingdom,2005,turkey
+13,92,points received,2005,turkey
+0,12,Finland,2005,norway
+1,12,Denmark,2005,norway
+2,12,Iceland,2005,norway
+3,8,Sweden,2005,norway
+4,8,Estonia,2005,norway
+5,8,Poland,2005,norway
+6,6,Ukraine,2005,norway
+7,6,Latvia,2005,norway
+8,5,Lithuania,2005,norway
+9,5,Malta,2005,norway
+10,5,United Kingdom,2005,norway
+11,4,Ireland,2005,norway
+12,4,Greece,2005,norway
+13,4,Slovenia,2005,norway
+14,4,Belarus,2005,norway
+15,3,Moldova,2005,norway
+16,3,Bosnia & Herzegovina,2005,norway
+17,3,Cyprus,2005,norway
+18,3,Belgium,2005,norway
+19,3,Spain,2005,norway
+20,2,Andorra,2005,norway
+21,2,Serbia & Montenegro,2005,norway
+22,1,The Netherlands,2005,norway
+23,1,Bulgaria,2005,norway
+24,1,Israel,2005,norway
+25,125,points received,2005,norway
+0,12,Croatia,2005,slovenia
+1,10,Serbia & Montenegro,2005,slovenia
+2,8,Bosnia & Herzegovina,2005,slovenia
+3,7,Latvia,2005,slovenia
+4,6,Switzerland,2005,slovenia
+5,5,North Macedonia,2005,slovenia
+6,4,Norway,2005,slovenia
+7,3,Moldova,2005,slovenia
+8,2,Greece,2005,slovenia
+9,1,Malta,2005,slovenia
+0,12,Bosnia & Herzegovina,2005,croatia
+1,12,Slovenia,2005,croatia
+2,10,Serbia & Montenegro,2005,croatia
+3,8,North Macedonia,2005,croatia
+4,8,Austria,2005,croatia
+5,8,Switzerland,2005,croatia
+6,8,Ukraine,2005,croatia
+7,7,Hungary,2005,croatia
+8,7,Monaco,2005,croatia
+9,7,Latvia,2005,croatia
+10,6,Lithuania,2005,croatia
+11,5,Romania,2005,croatia
+12,2,Bulgaria,2005,croatia
+13,2,Germany,2005,croatia
+14,2,The Netherlands,2005,croatia
+15,2,Norway,2005,croatia
+16,2,Estonia,2005,croatia
+17,2,Poland,2005,croatia
+18,2,Albania,2005,croatia
+19,1,Iceland,2005,croatia
+20,1,Finland,2005,croatia
+21,1,Russia,2005,croatia
+22,115,points received,2005,croatia
+0,10,Albania,2005,fyr-macedonia
+1,8,Croatia,2005,fyr-macedonia
+2,7,Bulgaria,2005,fyr-macedonia
+3,7,Bosnia & Herzegovina,2005,fyr-macedonia
+4,7,Serbia & Montenegro,2005,fyr-macedonia
+5,5,Turkey,2005,fyr-macedonia
+6,5,Slovenia,2005,fyr-macedonia
+7,2,Switzerland,2005,fyr-macedonia
+8,1,Monaco,2005,fyr-macedonia
+9,52,points received,2005,fyr-macedonia
+0,12,Switzerland,2005,serbia-montenegro
+1,12,Austria,2005,serbia-montenegro
+2,12,Croatia,2005,serbia-montenegro
+3,10,North Macedonia,2005,serbia-montenegro
+4,10,Cyprus,2005,serbia-montenegro
+5,10,Slovenia,2005,serbia-montenegro
+6,10,Bosnia & Herzegovina,2005,serbia-montenegro
+7,6,France,2005,serbia-montenegro
+8,6,Greece,2005,serbia-montenegro
+9,6,Romania,2005,serbia-montenegro
+10,6,Russia,2005,serbia-montenegro
+11,6,Monaco,2005,serbia-montenegro
+12,6,Albania,2005,serbia-montenegro
+13,4,The Netherlands,2005,serbia-montenegro
+14,4,Bulgaria,2005,serbia-montenegro
+15,4,Sweden,2005,serbia-montenegro
+16,3,Germany,2005,serbia-montenegro
+17,3,Belarus,2005,serbia-montenegro
+18,3,Ukraine,2005,serbia-montenegro
+19,2,Hungary,2005,serbia-montenegro
+20,1,Moldova,2005,serbia-montenegro
+21,1,Latvia,2005,serbia-montenegro
+22,137,points received,2005,serbia-montenegro
+0,12,Norway,2005,finland
+1,10,Switzerland,2005,finland
+2,8,Malta,2005,finland
+3,7,Russia,2005,finland
+4,6,Sweden,2005,finland
+5,5,Israel,2005,finland
+6,4,Latvia,2005,finland
+7,3,Greece,2005,finland
+8,2,Denmark,2005,finland
+9,1,Croatia,2005,finland
+0,12,Switzerland,2005,estonia
+1,10,Latvia,2005,estonia
+2,8,Norway,2005,estonia
+3,7,Russia,2005,estonia
+4,6,Moldova,2005,estonia
+5,5,Denmark,2005,estonia
+6,4,Malta,2005,estonia
+7,3,Hungary,2005,estonia
+8,2,Croatia,2005,estonia
+9,1,Israel,2005,estonia
+0,12,Ireland,2005,latvia
+1,12,Lithuania,2005,latvia
+2,12,Moldova,2005,latvia
+3,10,Malta,2005,latvia
+4,10,Andorra,2005,latvia
+5,10,Estonia,2005,latvia
+6,8,Norway,2005,latvia
+7,7,Germany,2005,latvia
+8,7,Croatia,2005,latvia
+9,7,Slovenia,2005,latvia
+10,6,United Kingdom,2005,latvia
+11,6,Israel,2005,latvia
+12,6,Portugal,2005,latvia
+13,6,Belarus,2005,latvia
+14,6,Denmark,2005,latvia
+15,5,Russia,2005,latvia
+16,5,Belgium,2005,latvia
+17,4,Poland,2005,latvia
+18,4,Finland,2005,latvia
+19,3,Sweden,2005,latvia
+20,3,Iceland,2005,latvia
+21,1,Ukraine,2005,latvia
+22,1,Cyprus,2005,latvia
+23,1,Hungary,2005,latvia
+24,1,Greece,2005,latvia
+25,153,points received,2005,latvia
+0,12,Latvia,2005,lithuania
+1,10,Moldova,2005,lithuania
+2,8,Switzerland,2005,lithuania
+3,7,Russia,2005,lithuania
+4,6,Croatia,2005,lithuania
+5,5,Norway,2005,lithuania
+6,4,Denmark,2005,lithuania
+7,3,Israel,2005,lithuania
+8,2,Malta,2005,lithuania
+9,1,Greece,2005,lithuania
+0,12,Poland,2005,ukraine
+1,8,Moldova,2005,ukraine
+2,7,Portugal,2005,ukraine
+3,2,Russia,2005,ukraine
+4,1,Spain,2005,ukraine
+5,30,points received,2005,ukraine
+0,12,Russia,2005,belarus
+1,10,Switzerland,2005,belarus
+2,8,Israel,2005,belarus
+3,7,Moldova,2005,belarus
+4,6,Latvia,2005,belarus
+5,5,Malta,2005,belarus
+6,4,Norway,2005,belarus
+7,3,Serbia & Montenegro,2005,belarus
+8,2,Hungary,2005,belarus
+9,1,Romania,2005,belarus
+0,12,Romania,2005,moldova
+1,12,Ukraine,2005,moldova
+2,10,Russia,2005,moldova
+3,10,Lithuania,2005,moldova
+4,10,Portugal,2005,moldova
+5,8,Latvia,2005,moldova
+6,8,Iceland,2005,moldova
+7,7,Greece,2005,moldova
+8,7,Turkey,2005,moldova
+9,7,Belarus,2005,moldova
+10,6,Bulgaria,2005,moldova
+11,6,Estonia,2005,moldova
+12,5,Serbia & Montenegro,2005,moldova
+13,5,North Macedonia,2005,moldova
+14,4,Israel,2005,moldova
+15,4,Hungary,2005,moldova
+16,4,Spain,2005,moldova
+17,4,Bosnia & Herzegovina,2005,moldova
+18,3,Poland,2005,moldova
+19,3,Slovenia,2005,moldova
+20,2,France,2005,moldova
+21,2,United Kingdom,2005,moldova
+22,2,Austria,2005,moldova
+23,2,Cyprus,2005,moldova
+24,2,Malta,2005,moldova
+25,1,Croatia,2005,moldova
+26,1,Belgium,2005,moldova
+27,1,Germany,2005,moldova
+28,148,points received,2005,moldova
+0,5,Israel,2005,france
+1,5,Andorra,2005,france
+2,1,Albania,2005,france
+3,11,points received,2005,france
+0,12,Norway,2005,iceland
+1,10,Denmark,2005,iceland
+2,8,Moldova,2005,iceland
+3,7,Switzerland,2005,iceland
+4,6,Hungary,2005,iceland
+5,5,Romania,2005,iceland
+6,4,Malta,2005,iceland
+7,3,Latvia,2005,iceland
+8,2,Greece,2005,iceland
+9,1,Croatia,2005,iceland
+0,12,Andorra,2005,spain
+1,8,Portugal,2005,spain
+2,4,France,2005,spain
+3,4,Switzerland,2005,spain
+4,28,points received,2005,spain
+0,2,Monaco,2005,germany
+1,2,Moldova,2005,germany
+2,4,points received,2005,germany
+0,12,Greece,2005,belgium
+1,10,Turkey,2005,belgium
+2,8,Malta,2005,belgium
+3,7,Romania,2005,belgium
+4,6,Israel,2005,belgium
+5,5,Latvia,2005,belgium
+6,4,Denmark,2005,belgium
+7,3,Norway,2005,belgium
+8,2,Hungary,2005,belgium
+9,1,Moldova,2005,belgium
+0,12,Greece,2005,cyprus
+1,12,Malta,2005,cyprus
+2,10,Bulgaria,2005,cyprus
+3,7,Albania,2005,cyprus
+4,3,United Kingdom,2005,cyprus
+5,1,Romania,2005,cyprus
+6,1,Serbia & Montenegro,2005,cyprus
+7,46,points received,2005,cyprus
+0,12,Romania,2005,portugal
+1,10,Moldova,2005,portugal
+2,8,Spain,2005,portugal
+3,7,Ukraine,2005,portugal
+4,6,Latvia,2005,portugal
+5,5,Israel,2005,portugal
+6,4,Switzerland,2005,portugal
+7,3,Greece,2005,portugal
+8,2,Hungary,2005,portugal
+9,1,Denmark,2005,portugal
+0,10,Turkey,2005,bosnia-herzegovina
+1,10,Croatia,2005,bosnia-herzegovina
+2,10,Austria,2005,bosnia-herzegovina
+3,8,Slovenia,2005,bosnia-herzegovina
+4,7,Norway,2005,bosnia-herzegovina
+5,7,Sweden,2005,bosnia-herzegovina
+6,6,The Netherlands,2005,bosnia-herzegovina
+7,5,Switzerland,2005,bosnia-herzegovina
+8,4,Serbia & Montenegro,2005,bosnia-herzegovina
+9,4,United Kingdom,2005,bosnia-herzegovina
+10,4,Denmark,2005,bosnia-herzegovina
+11,3,North Macedonia,2005,bosnia-herzegovina
+12,1,Ireland,2005,bosnia-herzegovina
+13,79,points received,2005,bosnia-herzegovina
+0,10,Poland,2005,hungary
+1,8,Romania,2005,hungary
+2,8,Israel,2005,hungary
+3,7,Cyprus,2005,hungary
+4,6,Croatia,2005,hungary
+5,6,Turkey,2005,hungary
+6,6,Andorra,2005,hungary
+7,6,Iceland,2005,hungary
+8,6,Serbia & Montenegro,2005,hungary
+9,5,Bulgaria,2005,hungary
+10,5,Spain,2005,hungary
+11,3,Estonia,2005,hungary
+12,3,France,2005,hungary
+13,3,Latvia,2005,hungary
+14,3,Russia,2005,hungary
+15,2,Portugal,2005,hungary
+16,2,Belgium,2005,hungary
+17,2,Ukraine,2005,hungary
+18,2,Belarus,2005,hungary
+19,2,Greece,2005,hungary
+20,1,Bosnia & Herzegovina,2005,hungary
+21,1,North Macedonia,2005,hungary
+22,97,points received,2005,hungary
+0,12,Russia,2005,malta
+1,10,Ireland,2005,malta
+2,10,United Kingdom,2005,malta
+3,10,Norway,2005,malta
+4,10,Israel,2005,malta
+5,10,Denmark,2005,malta
+6,10,Ukraine,2005,malta
+7,8,Greece,2005,malta
+8,8,Turkey,2005,malta
+9,8,Germany,2005,malta
+10,8,Finland,2005,malta
+11,8,Belgium,2005,malta
+12,7,France,2005,malta
+13,7,Spain,2005,malta
+14,6,Cyprus,2005,malta
+15,6,Sweden,2005,malta
+16,5,Belarus,2005,malta
+17,5,The Netherlands,2005,malta
+18,5,Hungary,2005,malta
+19,5,Latvia,2005,malta
+20,5,Austria,2005,malta
+21,5,Monaco,2005,malta
+22,4,Croatia,2005,malta
+23,4,Iceland,2005,malta
+24,4,Estonia,2005,malta
+25,4,Albania,2005,malta
+26,3,Switzerland,2005,malta
+27,2,Romania,2005,malta
+28,2,Lithuania,2005,malta
+29,1,Slovenia,2005,malta
+30,192,points received,2005,malta
+0,12,Ukraine,2005,poland
+1,10,Hungary,2005,poland
+2,8,Norway,2005,poland
+3,7,Romania,2005,poland
+4,6,Switzerland,2005,poland
+5,5,Denmark,2005,poland
+6,4,Latvia,2005,poland
+7,3,Moldova,2005,poland
+8,2,Croatia,2005,poland
+9,1,Greece,2005,poland
+0,12,Spain,2005,romania
+1,12,Portugal,2005,romania
+2,12,Israel,2005,romania
+3,10,Hungary,2005,romania
+4,8,Bulgaria,2005,romania
+5,8,Cyprus,2005,romania
+6,7,Moldova,2005,romania
+7,7,Belgium,2005,romania
+8,7,Malta,2005,romania
+9,7,Poland,2005,romania
+10,7,Andorra,2005,romania
+11,6,Austria,2005,romania
+12,6,Norway,2005,romania
+13,5,Ireland,2005,romania
+14,5,Greece,2005,romania
+15,5,Iceland,2005,romania
+16,5,Albania,2005,romania
+17,5,France,2005,romania
+18,4,Monaco,2005,romania
+19,4,Turkey,2005,romania
+20,3,The Netherlands,2005,romania
+21,3,Denmark,2005,romania
+22,3,Serbia & Montenegro,2005,romania
+23,2,Bosnia & Herzegovina,2005,romania
+24,2,North Macedonia,2005,romania
+25,2,Sweden,2005,romania
+26,1,Belarus,2005,romania
+27,158,points received,2005,romania
+0,12,Belarus,2005,russia
+1,10,Latvia,2005,russia
+2,10,Moldova,2005,russia
+3,7,Lithuania,2005,russia
+4,7,Estonia,2005,russia
+5,7,Finland,2005,russia
+6,4,Ukraine,2005,russia
+7,57,points received,2005,russia
+0,12,Greece,2005,bulgaria
+1,10,Cyprus,2005,bulgaria
+2,8,Romania,2005,bulgaria
+3,7,North Macedonia,2005,bulgaria
+4,6,Moldova,2005,bulgaria
+5,5,Hungary,2005,bulgaria
+6,4,Serbia & Montenegro,2005,bulgaria
+7,3,Turkey,2005,bulgaria
+8,2,Croatia,2005,bulgaria
+9,1,Norway,2005,bulgaria
+0,12,Israel,2005,monaco
+1,10,Denmark,2005,monaco
+2,8,Switzerland,2005,monaco
+3,7,Croatia,2005,monaco
+4,6,Serbia & Montenegro,2005,monaco
+5,5,Malta,2005,monaco
+6,4,Romania,2005,monaco
+7,3,Sweden,2005,monaco
+8,2,Germany,2005,monaco
+9,1,North Macedonia,2005,monaco
+0,12,Cyprus,2005,greece
+1,12,Bulgaria,2005,greece
+2,12,Hungary,2005,greece
+3,12,Albania,2005,greece
+4,12,United Kingdom,2005,greece
+5,12,Serbia & Montenegro,2005,greece
+6,12,Germany,2005,greece
+7,12,Turkey,2005,greece
+8,12,Sweden,2005,greece
+9,12,Belgium,2005,greece
+10,10,Romania,2005,greece
+11,10,The Netherlands,2005,greece
+12,8,France,2005,greece
+13,8,Spain,2005,greece
+14,7,Switzerland,2005,greece
+15,7,Israel,2005,greece
+16,7,North Macedonia,2005,greece
+17,6,Bosnia & Herzegovina,2005,greece
+18,6,Malta,2005,greece
+19,5,Croatia,2005,greece
+20,4,Moldova,2005,greece
+21,4,Austria,2005,greece
+22,4,Norway,2005,greece
+23,4,Russia,2005,greece
+24,4,Andorra,2005,greece
+25,3,Finland,2005,greece
+26,3,Portugal,2005,greece
+27,2,Ireland,2005,greece
+28,2,Denmark,2005,greece
+29,2,Slovenia,2005,greece
+30,2,Iceland,2005,greece
+31,1,Lithuania,2005,greece
+32,1,Poland,2005,greece
+33,230,points received,2005,greece

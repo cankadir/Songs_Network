@@ -1,0 +1,73 @@
+,pts,pts_from,year,points_to
+0,5,France,1966,ireland
+1,3,Yugoslavia,1966,ireland
+2,3,Belgium,1966,ireland
+3,3,The Netherlands,1966,ireland
+4,14,points received,1966,ireland
+0,5,Sweden,1966,luxembourg
+1,1,France,1966,luxembourg
+2,1,Austria,1966,luxembourg
+3,7,points received,1966,luxembourg
+0,1,Monaco,1966,france
+1,1,points received,1966,france
+0,5,United Kingdom,1966,yugoslavia
+1,3,Germany,1966,yugoslavia
+2,1,Finland,1966,yugoslavia
+3,9,points received,1966,yugoslavia
+0,5,Germany,1966,belgium
+1,5,The Netherlands,1966,belgium
+2,3,Portugal,1966,belgium
+3,1,Sweden,1966,belgium
+4,14,points received,1966,belgium
+0,1,Ireland,1966,the-netherlands
+1,1,United Kingdom,1966,the-netherlands
+2,2,points received,1966,the-netherlands
+0,5,Ireland,1966,united-kingdom
+1,3,Luxembourg,1966,united-kingdom
+2,8,points received,1966,united-kingdom
+0,0,points received,1966,monaco
+0,5,Monaco,1966,austria
+1,5,Belgium,1966,austria
+2,5,Luxembourg,1966,austria
+3,5,Yugoslavia,1966,austria
+4,3,Switzerland,1966,austria
+5,3,France,1966,austria
+6,3,Italy,1966,austria
+7,1,Portugal,1966,austria
+8,1,Spain,1966,austria
+9,31,points received,1966,austria
+0,5,Spain,1966,portugal
+1,1,Denmark,1966,portugal
+2,6,points received,1966,portugal
+0,3,Finland,1966,denmark
+1,1,Norway,1966,denmark
+2,4,points received,1966,denmark
+0,5,Austria,1966,switzerland
+1,3,Ireland,1966,switzerland
+2,3,Monaco,1966,switzerland
+3,1,Luxembourg,1966,switzerland
+4,12,points received,1966,switzerland
+0,5,Italy,1966,norway
+1,3,Spain,1966,norway
+2,3,Austria,1966,norway
+3,3,Sweden,1966,norway
+4,1,Germany,1966,norway
+5,15,points received,1966,norway
+0,3,Denmark,1966,finland
+1,3,Norway,1966,finland
+2,1,The Netherlands,1966,finland
+3,7,points received,1966,finland
+0,0,points received,1966,italy
+0,5,Portugal,1966,spain
+1,3,United Kingdom,1966,spain
+2,1,Yugoslavia,1966,spain
+3,9,points received,1966,spain
+0,5,Switzerland,1966,germany
+1,1,Italy,1966,germany
+2,1,Belgium,1966,germany
+3,7,points received,1966,germany
+0,5,Denmark,1966,sweden
+1,5,Norway,1966,sweden
+2,5,Finland,1966,sweden
+3,1,Switzerland,1966,sweden
+4,16,points received,1966,sweden

@@ -1,0 +1,65 @@
+,pts,pts_from,year,points_to
+0,3,Norway,1962,france
+1,3,Switzerland,1962,france
+2,3,Yugoslavia,1962,france
+3,3,Sweden,1962,france
+4,3,Germany,1962,france
+5,2,Italy,1962,france
+6,2,Spain,1962,france
+7,2,Austria,1962,france
+8,2,Belgium,1962,france
+9,1,Luxembourg,1962,france
+10,1,United Kingdom,1962,france
+11,1,Monaco,1962,france
+12,26,points received,1962,france
+0,2,United Kingdom,1962,germany
+1,2,The Netherlands,1962,germany
+2,2,Finland,1962,germany
+3,2,Monaco,1962,germany
+4,1,Denmark,1962,germany
+5,9,points received,1962,germany
+0,0,points received,1962,austria
+0,3,Spain,1962,luxembourg
+1,3,Belgium,1962,luxembourg
+2,3,Monaco,1962,luxembourg
+3,1,Austria,1962,luxembourg
+4,1,Switzerland,1962,luxembourg
+5,11,points received,1962,luxembourg
+0,0,points received,1962,the-netherlands
+0,2,France,1962,norway
+1,2,points received,1962,norway
+0,3,Italy,1962,yugoslavia
+1,3,France,1962,yugoslavia
+2,2,Sweden,1962,yugoslavia
+3,1,Belgium,1962,yugoslavia
+4,1,Finland,1962,yugoslavia
+5,10,points received,1962,yugoslavia
+0,0,points received,1962,spain
+0,2,Germany,1962,switzerland
+1,2,points received,1962,switzerland
+0,0,points received,1962,belgium
+0,3,Austria,1962,monaco
+1,3,Luxembourg,1962,monaco
+2,3,The Netherlands,1962,monaco
+3,2,Norway,1962,monaco
+4,1,France,1962,monaco
+5,1,Germany,1962,monaco
+6,13,points received,1962,monaco
+0,1,Italy,1962,denmark
+1,1,Sweden,1962,denmark
+2,2,points received,1962,denmark
+0,3,United Kingdom,1962,finland
+1,1,Norway,1962,finland
+2,4,points received,1962,finland
+0,2,Luxembourg,1962,italy
+1,1,Yugoslavia,1962,italy
+2,3,points received,1962,italy
+0,3,Denmark,1962,sweden
+1,1,The Netherlands,1962,sweden
+2,4,points received,1962,sweden
+0,3,Finland,1962,united-kingdom
+1,2,Yugoslavia,1962,united-kingdom
+2,2,Denmark,1962,united-kingdom
+3,2,Switzerland,1962,united-kingdom
+4,1,Spain,1962,united-kingdom
+5,10,points received,1962,united-kingdom

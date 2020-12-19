@@ -1,0 +1,325 @@
+,pts,pts_from,year,points_to
+0,9,France,1971,italy
+1,9,Monaco,1971,italy
+2,8,Yugoslavia,1971,italy
+3,8,Switzerland,1971,italy
+4,7,Sweden,1971,italy
+5,6,Spain,1971,italy
+6,6,United Kingdom,1971,italy
+7,6,Germany,1971,italy
+8,6,Malta,1971,italy
+9,6,Ireland,1971,italy
+10,5,Norway,1971,italy
+11,4,Austria,1971,italy
+12,3,Portugal,1971,italy
+13,2,The Netherlands,1971,italy
+14,2,Finland,1971,italy
+15,2,Belgium,1971,italy
+16,2,Luxembourg,1971,italy
+17,91,points received,1971,italy
+0,9,The Netherlands,1971,france
+1,8,Monaco,1971,france
+2,8,Switzerland,1971,france
+3,6,Ireland,1971,france
+4,5,Germany,1971,france
+5,5,Norway,1971,france
+6,5,Portugal,1971,france
+7,5,Spain,1971,france
+8,5,United Kingdom,1971,france
+9,5,Yugoslavia,1971,france
+10,4,Italy,1971,france
+11,4,Sweden,1971,france
+12,3,Belgium,1971,france
+13,3,Finland,1971,france
+14,3,Austria,1971,france
+15,2,Luxembourg,1971,france
+16,2,Malta,1971,france
+17,82,points received,1971,france
+0,7,Austria,1971,ireland
+1,7,France,1971,ireland
+2,6,Italy,1971,ireland
+3,6,United Kingdom,1971,ireland
+4,6,Malta,1971,ireland
+5,6,Monaco,1971,ireland
+6,5,The Netherlands,1971,ireland
+7,5,Spain,1971,ireland
+8,5,Yugoslavia,1971,ireland
+9,4,Germany,1971,ireland
+10,4,Portugal,1971,ireland
+11,4,Norway,1971,ireland
+12,4,Finland,1971,ireland
+13,3,Belgium,1971,ireland
+14,3,Switzerland,1971,ireland
+15,2,Luxembourg,1971,ireland
+16,2,Sweden,1971,ireland
+17,79,points received,1971,ireland
+0,10,Monaco,1971,spain
+1,10,France,1971,spain
+2,9,Finland,1971,spain
+3,9,Ireland,1971,spain
+4,8,Malta,1971,spain
+5,8,Norway,1971,spain
+6,7,Portugal,1971,spain
+7,7,United Kingdom,1971,spain
+8,7,Yugoslavia,1971,spain
+9,7,Germany,1971,spain
+10,6,The Netherlands,1971,spain
+11,6,Sweden,1971,spain
+12,5,Italy,1971,spain
+13,5,Switzerland,1971,spain
+14,4,Luxembourg,1971,spain
+15,4,Belgium,1971,spain
+16,4,Austria,1971,spain
+17,116,points received,1971,spain
+0,8,Monaco,1971,united-kingdom
+1,8,France,1971,united-kingdom
+2,8,Belgium,1971,united-kingdom
+3,8,Malta,1971,united-kingdom
+4,7,Ireland,1971,united-kingdom
+5,7,Portugal,1971,united-kingdom
+6,6,Yugoslavia,1971,united-kingdom
+7,6,Switzerland,1971,united-kingdom
+8,6,Finland,1971,united-kingdom
+9,6,Norway,1971,united-kingdom
+10,5,The Netherlands,1971,united-kingdom
+11,5,Germany,1971,united-kingdom
+12,5,Sweden,1971,united-kingdom
+13,4,Luxembourg,1971,united-kingdom
+14,4,Austria,1971,united-kingdom
+15,3,Italy,1971,united-kingdom
+16,2,Spain,1971,united-kingdom
+17,98,points received,1971,united-kingdom
+0,7,Germany,1971,yugoslavia
+1,6,France,1971,yugoslavia
+2,6,Spain,1971,yugoslavia
+3,6,Austria,1971,yugoslavia
+4,5,Italy,1971,yugoslavia
+5,5,Ireland,1971,yugoslavia
+6,5,Norway,1971,yugoslavia
+7,4,Monaco,1971,yugoslavia
+8,4,The Netherlands,1971,yugoslavia
+9,4,Portugal,1971,yugoslavia
+10,3,United Kingdom,1971,yugoslavia
+11,3,Finland,1971,yugoslavia
+12,2,Malta,1971,yugoslavia
+13,2,Belgium,1971,yugoslavia
+14,2,Luxembourg,1971,yugoslavia
+15,2,Switzerland,1971,yugoslavia
+16,2,Sweden,1971,yugoslavia
+17,68,points received,1971,yugoslavia
+0,8,Spain,1971,germany
+1,8,France,1971,germany
+2,7,Monaco,1971,germany
+3,7,Yugoslavia,1971,germany
+4,7,Belgium,1971,germany
+5,7,Portugal,1971,germany
+6,6,Austria,1971,germany
+7,6,Switzerland,1971,germany
+8,6,Sweden,1971,germany
+9,6,Italy,1971,germany
+10,6,United Kingdom,1971,germany
+11,5,Ireland,1971,germany
+12,5,Finland,1971,germany
+13,5,Malta,1971,germany
+14,5,The Netherlands,1971,germany
+15,4,Norway,1971,germany
+16,2,Luxembourg,1971,germany
+17,100,points received,1971,germany
+0,7,Germany,1971,austria
+1,6,Italy,1971,austria
+2,6,Ireland,1971,austria
+3,5,Monaco,1971,austria
+4,5,Portugal,1971,austria
+5,5,Norway,1971,austria
+6,4,Yugoslavia,1971,austria
+7,4,Sweden,1971,austria
+8,3,Belgium,1971,austria
+9,3,France,1971,austria
+10,3,Finland,1971,austria
+11,3,United Kingdom,1971,austria
+12,3,The Netherlands,1971,austria
+13,3,Malta,1971,austria
+14,2,Luxembourg,1971,austria
+15,2,Switzerland,1971,austria
+16,2,Spain,1971,austria
+17,66,points received,1971,austria
+0,7,Italy,1971,switzerland
+1,6,Portugal,1971,switzerland
+2,6,United Kingdom,1971,switzerland
+3,6,France,1971,switzerland
+4,6,Germany,1971,switzerland
+5,5,Austria,1971,switzerland
+6,5,Ireland,1971,switzerland
+7,5,The Netherlands,1971,switzerland
+8,5,Malta,1971,switzerland
+9,4,Monaco,1971,switzerland
+10,4,Yugoslavia,1971,switzerland
+11,4,Sweden,1971,switzerland
+12,4,Norway,1971,switzerland
+13,4,Finland,1971,switzerland
+14,3,Belgium,1971,switzerland
+15,2,Spain,1971,switzerland
+16,2,Luxembourg,1971,switzerland
+17,78,points received,1971,switzerland
+0,6,United Kingdom,1971,belgium
+1,6,Finland,1971,belgium
+2,6,Portugal,1971,belgium
+3,6,The Netherlands,1971,belgium
+4,5,Monaco,1971,belgium
+5,5,France,1971,belgium
+6,5,Sweden,1971,belgium
+7,4,Switzerland,1971,belgium
+8,4,Ireland,1971,belgium
+9,4,Norway,1971,belgium
+10,3,Yugoslavia,1971,belgium
+11,3,Austria,1971,belgium
+12,3,Italy,1971,belgium
+13,2,Luxembourg,1971,belgium
+14,2,Spain,1971,belgium
+15,2,Germany,1971,belgium
+16,2,Malta,1971,belgium
+17,68,points received,1971,belgium
+0,7,Malta,1971,luxembourg
+1,6,United Kingdom,1971,luxembourg
+2,6,Portugal,1971,luxembourg
+3,6,Monaco,1971,luxembourg
+4,5,Finland,1971,luxembourg
+5,5,France,1971,luxembourg
+6,5,Ireland,1971,luxembourg
+7,4,Yugoslavia,1971,luxembourg
+8,4,Norway,1971,luxembourg
+9,4,Spain,1971,luxembourg
+10,3,Switzerland,1971,luxembourg
+11,3,Italy,1971,luxembourg
+12,3,Belgium,1971,luxembourg
+13,3,The Netherlands,1971,luxembourg
+14,2,Sweden,1971,luxembourg
+15,2,Austria,1971,luxembourg
+16,2,Germany,1971,luxembourg
+17,70,points received,1971,luxembourg
+0,9,Portugal,1971,the-netherlands
+1,8,Norway,1971,the-netherlands
+2,7,France,1971,the-netherlands
+3,6,Finland,1971,the-netherlands
+4,6,Austria,1971,the-netherlands
+5,6,Sweden,1971,the-netherlands
+6,6,Monaco,1971,the-netherlands
+7,5,Switzerland,1971,the-netherlands
+8,5,Ireland,1971,the-netherlands
+9,5,Spain,1971,the-netherlands
+10,5,United Kingdom,1971,the-netherlands
+11,5,Yugoslavia,1971,the-netherlands
+12,4,Germany,1971,the-netherlands
+13,2,Luxembourg,1971,the-netherlands
+14,2,Belgium,1971,the-netherlands
+15,2,Italy,1971,the-netherlands
+16,2,Malta,1971,the-netherlands
+17,85,points received,1971,the-netherlands
+0,9,The Netherlands,1971,sweden
+1,9,Switzerland,1971,sweden
+2,7,Austria,1971,sweden
+3,6,Italy,1971,sweden
+4,6,Yugoslavia,1971,sweden
+5,6,Belgium,1971,sweden
+6,6,Norway,1971,sweden
+7,5,United Kingdom,1971,sweden
+8,5,France,1971,sweden
+9,4,Monaco,1971,sweden
+10,4,Malta,1971,sweden
+11,4,Germany,1971,sweden
+12,4,Finland,1971,sweden
+13,3,Portugal,1971,sweden
+14,3,Ireland,1971,sweden
+15,2,Spain,1971,sweden
+16,2,Luxembourg,1971,sweden
+17,85,points received,1971,sweden
+0,10,Spain,1971,portugal
+1,8,France,1971,portugal
+2,6,Monaco,1971,portugal
+3,6,United Kingdom,1971,portugal
+4,6,Yugoslavia,1971,portugal
+5,5,Luxembourg,1971,portugal
+6,5,Germany,1971,portugal
+7,5,The Netherlands,1971,portugal
+8,5,Norway,1971,portugal
+9,5,Finland,1971,portugal
+10,4,Italy,1971,portugal
+11,4,Austria,1971,portugal
+12,4,Belgium,1971,portugal
+13,3,Malta,1971,portugal
+14,3,Ireland,1971,portugal
+15,2,Sweden,1971,portugal
+16,2,Switzerland,1971,portugal
+17,83,points received,1971,portugal
+0,10,United Kingdom,1971,finland
+1,10,Belgium,1971,finland
+2,8,Portugal,1971,finland
+3,6,Ireland,1971,finland
+4,6,Norway,1971,finland
+5,6,Yugoslavia,1971,finland
+6,4,Monaco,1971,finland
+7,4,France,1971,finland
+8,4,Germany,1971,finland
+9,4,Austria,1971,finland
+10,4,Switzerland,1971,finland
+11,4,Sweden,1971,finland
+12,4,Malta,1971,finland
+13,3,Spain,1971,finland
+14,3,The Netherlands,1971,finland
+15,2,Luxembourg,1971,finland
+16,2,Italy,1971,finland
+17,84,points received,1971,finland
+0,5,Spain,1971,malta
+1,5,The Netherlands,1971,malta
+2,4,Belgium,1971,malta
+3,4,Italy,1971,malta
+4,4,Austria,1971,malta
+5,4,Ireland,1971,malta
+6,3,United Kingdom,1971,malta
+7,3,France,1971,malta
+8,3,Germany,1971,malta
+9,3,Finland,1971,malta
+10,2,Monaco,1971,malta
+11,2,Yugoslavia,1971,malta
+12,2,Switzerland,1971,malta
+13,2,Luxembourg,1971,malta
+14,2,Sweden,1971,malta
+15,2,Portugal,1971,malta
+16,2,Norway,1971,malta
+17,52,points received,1971,malta
+0,10,Sweden,1971,monaco
+1,10,Yugoslavia,1971,monaco
+2,10,Germany,1971,monaco
+3,10,Norway,1971,monaco
+4,10,Switzerland,1971,monaco
+5,10,Belgium,1971,monaco
+6,9,Ireland,1971,monaco
+7,9,The Netherlands,1971,monaco
+8,8,Portugal,1971,monaco
+9,8,France,1971,monaco
+10,8,United Kingdom,1971,monaco
+11,7,Finland,1971,monaco
+12,5,Malta,1971,monaco
+13,4,Luxembourg,1971,monaco
+14,4,Austria,1971,monaco
+15,4,Italy,1971,monaco
+16,2,Spain,1971,monaco
+17,128,points received,1971,monaco
+0,7,Ireland,1971,norway
+1,7,United Kingdom,1971,norway
+2,6,Belgium,1971,norway
+3,6,Monaco,1971,norway
+4,5,Portugal,1971,norway
+5,5,France,1971,norway
+6,4,Switzerland,1971,norway
+7,4,Yugoslavia,1971,norway
+8,3,Finland,1971,norway
+9,3,Malta,1971,norway
+10,3,Austria,1971,norway
+11,2,Sweden,1971,norway
+12,2,Germany,1971,norway
+13,2,Italy,1971,norway
+14,2,Spain,1971,norway
+15,2,Luxembourg,1971,norway
+16,2,The Netherlands,1971,norway
+17,65,points received,1971,norway

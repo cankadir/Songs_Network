@@ -1,0 +1,78 @@
+,pts,pts_from,year,points_to
+0,5,Luxembourg,1960,united-kingdom
+1,5,The Netherlands,1960,united-kingdom
+2,4,Switzerland,1960,united-kingdom
+3,3,Austria,1960,united-kingdom
+4,2,Italy,1960,united-kingdom
+5,2,Norway,1960,united-kingdom
+6,1,Germany,1960,united-kingdom
+7,1,Sweden,1960,united-kingdom
+8,1,Monaco,1960,united-kingdom
+9,1,Belgium,1960,united-kingdom
+10,25,points received,1960,united-kingdom
+0,2,Norway,1960,denmark
+1,1,United Kingdom,1960,denmark
+2,1,Luxembourg,1960,denmark
+3,4,points received,1960,denmark
+0,4,France,1960,germany
+1,2,Austria,1960,germany
+2,2,Belgium,1960,germany
+3,2,Monaco,1960,germany
+4,1,Sweden,1960,germany
+5,11,points received,1960,germany
+0,2,United Kingdom,1960,austria
+1,2,Denmark,1960,austria
+2,1,Italy,1960,austria
+3,1,Belgium,1960,austria
+4,6,points received,1960,austria
+0,2,Austria,1960,switzerland
+1,1,Italy,1960,switzerland
+2,1,Luxembourg,1960,switzerland
+3,1,Norway,1960,switzerland
+4,5,points received,1960,switzerland
+0,4,Sweden,1960,belgium
+1,3,Italy,1960,belgium
+2,1,Germany,1960,belgium
+3,1,Austria,1960,belgium
+4,9,points received,1960,belgium
+0,1,Italy,1960,luxembourg
+1,1,points received,1960,luxembourg
+0,1,Italy,1960,the-netherlands
+1,1,Belgium,1960,the-netherlands
+2,2,points received,1960,the-netherlands
+0,2,France,1960,sweden
+1,1,Italy,1960,sweden
+2,1,The Netherlands,1960,sweden
+3,4,points received,1960,sweden
+0,4,Switzerland,1960,norway
+1,2,Denmark,1960,norway
+2,1,France,1960,norway
+3,1,Belgium,1960,norway
+4,1,The Netherlands,1960,norway
+5,1,Austria,1960,norway
+6,1,United Kingdom,1960,norway
+7,11,points received,1960,norway
+0,7,Germany,1960,monaco
+1,3,France,1960,monaco
+2,2,Denmark,1960,monaco
+3,1,United Kingdom,1960,monaco
+4,1,Switzerland,1960,monaco
+5,1,Luxembourg,1960,monaco
+6,15,points received,1960,monaco
+0,5,United Kingdom,1960,france
+1,5,Norway,1960,france
+2,5,Monaco,1960,france
+3,4,Sweden,1960,france
+4,4,Denmark,1960,france
+5,3,Belgium,1960,france
+6,2,The Netherlands,1960,france
+7,1,Germany,1960,france
+8,1,Switzerland,1960,france
+9,1,Luxembourg,1960,france
+10,1,Austria,1960,france
+11,32,points received,1960,france
+0,2,Monaco,1960,italy
+1,1,Belgium,1960,italy
+2,1,Luxembourg,1960,italy
+3,1,The Netherlands,1960,italy
+4,5,points received,1960,italy

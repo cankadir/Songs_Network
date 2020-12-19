@@ -1,0 +1,210 @@
+,pts,pts_from,year,points_to
+0,12,Turkey,1984,spain
+1,12,Portugal,1984,spain
+2,10,Sweden,1984,spain
+3,10,France,1984,spain
+4,8,Italy,1984,spain
+5,8,Luxembourg,1984,spain
+6,7,Ireland,1984,spain
+7,7,Denmark,1984,spain
+8,6,Norway,1984,spain
+9,6,Austria,1984,spain
+10,6,Cyprus,1984,spain
+11,4,United Kingdom,1984,spain
+12,3,Belgium,1984,spain
+13,3,Switzerland,1984,spain
+14,2,The Netherlands,1984,spain
+15,2,Yugoslavia,1984,spain
+16,106,points received,1984,spain
+0,8,Cyprus,1984,yugoslavia
+1,8,Turkey,1984,yugoslavia
+2,3,United Kingdom,1984,yugoslavia
+3,3,Germany,1984,yugoslavia
+4,2,France,1984,yugoslavia
+5,2,Finland,1984,yugoslavia
+6,26,points received,1984,yugoslavia
+0,7,Norway,1984,germany
+1,6,Belgium,1984,germany
+2,5,The Netherlands,1984,germany
+3,5,Portugal,1984,germany
+4,4,France,1984,germany
+5,2,Italy,1984,germany
+6,2,United Kingdom,1984,germany
+7,2,Denmark,1984,germany
+8,1,Austria,1984,germany
+9,34,points received,1984,germany
+0,10,United Kingdom,1984,switzerland
+1,8,Denmark,1984,switzerland
+2,5,Belgium,1984,switzerland
+3,4,Italy,1984,switzerland
+4,1,Cyprus,1984,switzerland
+5,1,Sweden,1984,switzerland
+6,1,Finland,1984,switzerland
+7,30,points received,1984,switzerland
+0,8,Yugoslavia,1984,luxembourg
+1,7,Spain,1984,luxembourg
+2,7,Cyprus,1984,luxembourg
+3,5,Ireland,1984,luxembourg
+4,5,Denmark,1984,luxembourg
+5,4,Turkey,1984,luxembourg
+6,3,Italy,1984,luxembourg
+7,39,points received,1984,luxembourg
+0,8,Spain,1984,the-netherlands
+1,7,France,1984,the-netherlands
+2,6,Ireland,1984,the-netherlands
+3,5,Yugoslavia,1984,the-netherlands
+4,5,Switzerland,1984,the-netherlands
+5,2,Luxembourg,1984,the-netherlands
+6,1,United Kingdom,1984,the-netherlands
+7,34,points received,1984,the-netherlands
+0,4,Denmark,1984,austria
+1,1,Ireland,1984,austria
+2,5,points received,1984,austria
+0,10,Yugoslavia,1984,turkey
+1,6,Sweden,1984,turkey
+2,6,Switzerland,1984,turkey
+3,5,United Kingdom,1984,turkey
+4,4,Belgium,1984,turkey
+5,3,Finland,1984,turkey
+6,2,Ireland,1984,turkey
+7,1,The Netherlands,1984,turkey
+8,37,points received,1984,turkey
+0,8,Germany,1984,portugal
+1,8,Switzerland,1984,portugal
+2,7,Yugoslavia,1984,portugal
+3,6,The Netherlands,1984,portugal
+4,5,Spain,1984,portugal
+5,4,Luxembourg,1984,portugal
+6,38,points received,1984,portugal
+0,8,Sweden,1984,norway
+1,7,Luxembourg,1984,norway
+2,6,Finland,1984,norway
+3,3,Ireland,1984,norway
+4,2,Germany,1984,norway
+5,2,Switzerland,1984,norway
+6,1,Belgium,1984,norway
+7,29,points received,1984,norway
+0,7,Sweden,1984,finland
+1,6,Denmark,1984,finland
+2,6,Turkey,1984,finland
+3,5,Norway,1984,finland
+4,5,Austria,1984,finland
+5,5,France,1984,finland
+6,4,Cyprus,1984,finland
+7,3,Yugoslavia,1984,finland
+8,3,Portugal,1984,finland
+9,1,Spain,1984,finland
+10,1,Germany,1984,finland
+11,46,points received,1984,finland
+0,12,Spain,1984,italy
+1,12,Finland,1984,italy
+2,10,Luxembourg,1984,italy
+3,8,Portugal,1984,italy
+4,7,Austria,1984,italy
+5,7,Turkey,1984,italy
+6,7,Switzerland,1984,italy
+7,6,Germany,1984,italy
+8,1,Norway,1984,italy
+9,70,points received,1984,italy
+0,10,Italy,1984,united-kingdom
+1,8,Ireland,1984,united-kingdom
+2,8,Norway,1984,united-kingdom
+3,7,Germany,1984,united-kingdom
+4,6,Portugal,1984,united-kingdom
+5,4,Finland,1984,united-kingdom
+6,4,The Netherlands,1984,united-kingdom
+7,3,Sweden,1984,united-kingdom
+8,3,Spain,1984,united-kingdom
+9,2,Austria,1984,united-kingdom
+10,2,Cyprus,1984,united-kingdom
+11,2,Belgium,1984,united-kingdom
+12,1,Turkey,1984,united-kingdom
+13,1,Denmark,1984,united-kingdom
+14,1,Yugoslavia,1984,united-kingdom
+15,1,Luxembourg,1984,united-kingdom
+16,63,points received,1984,united-kingdom
+0,12,Norway,1984,denmark
+1,12,United Kingdom,1984,denmark
+2,10,Ireland,1984,denmark
+3,8,Belgium,1984,denmark
+4,8,France,1984,denmark
+5,6,Spain,1984,denmark
+6,6,Yugoslavia,1984,denmark
+7,5,Finland,1984,denmark
+8,5,Germany,1984,denmark
+9,5,Cyprus,1984,denmark
+10,5,Sweden,1984,denmark
+11,5,Italy,1984,denmark
+12,4,Austria,1984,denmark
+13,3,The Netherlands,1984,denmark
+14,3,Luxembourg,1984,denmark
+15,2,Turkey,1984,denmark
+16,1,Switzerland,1984,denmark
+17,1,Portugal,1984,denmark
+18,101,points received,1984,denmark
+0,12,Luxembourg,1984,belgium
+1,12,France,1984,belgium
+2,10,Finland,1984,belgium
+3,10,Portugal,1984,belgium
+4,8,The Netherlands,1984,belgium
+5,5,Turkey,1984,belgium
+6,4,Germany,1984,belgium
+7,3,Austria,1984,belgium
+8,3,Norway,1984,belgium
+9,2,Spain,1984,belgium
+10,1,Italy,1984,belgium
+11,70,points received,1984,belgium
+0,12,Yugoslavia,1984,cyprus
+1,10,Denmark,1984,cyprus
+2,4,Ireland,1984,cyprus
+3,4,Sweden,1984,cyprus
+4,1,France,1984,cyprus
+5,31,points received,1984,cyprus
+0,12,Germany,1984,sweden
+1,12,Cyprus,1984,sweden
+2,12,Denmark,1984,sweden
+3,12,Austria,1984,sweden
+4,12,Ireland,1984,sweden
+5,10,Norway,1984,sweden
+6,10,Switzerland,1984,sweden
+7,10,The Netherlands,1984,sweden
+8,8,Finland,1984,sweden
+9,7,United Kingdom,1984,sweden
+10,7,Belgium,1984,sweden
+11,6,Italy,1984,sweden
+12,6,Luxembourg,1984,sweden
+13,6,France,1984,sweden
+14,4,Spain,1984,sweden
+15,4,Yugoslavia,1984,sweden
+16,4,Portugal,1984,sweden
+17,3,Turkey,1984,sweden
+18,145,points received,1984,sweden
+0,12,The Netherlands,1984,france
+1,10,Belgium,1984,france
+2,8,Austria,1984,france
+3,7,Portugal,1984,france
+4,7,Italy,1984,france
+5,6,United Kingdom,1984,france
+6,4,Switzerland,1984,france
+7,3,Cyprus,1984,france
+8,2,Sweden,1984,france
+9,2,Norway,1984,france
+10,61,points received,1984,france
+0,12,Italy,1984,ireland
+1,12,Switzerland,1984,ireland
+2,12,Belgium,1984,ireland
+3,12,Sweden,1984,ireland
+4,10,Cyprus,1984,ireland
+5,10,Germany,1984,ireland
+6,10,Austria,1984,ireland
+7,10,Spain,1984,ireland
+8,10,Turkey,1984,ireland
+9,8,United Kingdom,1984,ireland
+10,7,The Netherlands,1984,ireland
+11,7,Finland,1984,ireland
+12,5,Luxembourg,1984,ireland
+13,4,Norway,1984,ireland
+14,3,France,1984,ireland
+15,3,Denmark,1984,ireland
+16,2,Portugal,1984,ireland
+17,137,points received,1984,ireland

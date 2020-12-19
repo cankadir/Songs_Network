@@ -1,0 +1,67 @@
+,pts,pts_from,year,points_to
+0,5,The Netherlands,1959,united-kingdom
+1,3,Switzerland,1959,united-kingdom
+2,2,Austria,1959,united-kingdom
+3,2,Belgium,1959,united-kingdom
+4,2,Monaco,1959,united-kingdom
+5,1,France,1959,united-kingdom
+6,1,Denmark,1959,united-kingdom
+7,16,points received,1959,united-kingdom
+0,4,Sweden,1959,denmark
+1,2,Austria,1959,denmark
+2,2,United Kingdom,1959,denmark
+3,1,Monaco,1959,denmark
+4,1,Switzerland,1959,denmark
+5,1,Italy,1959,denmark
+6,1,The Netherlands,1959,denmark
+7,12,points received,1959,denmark
+0,2,France,1959,germany
+1,1,Italy,1959,germany
+2,1,Switzerland,1959,germany
+3,1,Belgium,1959,germany
+4,5,points received,1959,germany
+0,7,Italy,1959,the-netherlands
+1,4,France,1959,the-netherlands
+2,3,Austria,1959,the-netherlands
+3,3,Belgium,1959,the-netherlands
+4,2,Germany,1959,the-netherlands
+5,1,United Kingdom,1959,the-netherlands
+6,1,Monaco,1959,the-netherlands
+7,21,points received,1959,the-netherlands
+0,1,Austria,1959,monaco
+1,1,points received,1959,monaco
+0,4,Germany,1959,france
+1,4,Denmark,1959,france
+2,2,Belgium,1959,france
+3,2,Monaco,1959,france
+4,1,Austria,1959,france
+5,1,Italy,1959,france
+6,1,Switzerland,1959,france
+7,15,points received,1959,france
+0,2,Sweden,1959,austria
+1,1,Switzerland,1959,austria
+2,1,Monaco,1959,austria
+3,4,points received,1959,austria
+0,5,United Kingdom,1959,switzerland
+1,3,Sweden,1959,switzerland
+2,2,Denmark,1959,switzerland
+3,1,Monaco,1959,switzerland
+4,1,Austria,1959,switzerland
+5,1,Germany,1959,switzerland
+6,1,Belgium,1959,switzerland
+7,14,points received,1959,switzerland
+0,3,Germany,1959,belgium
+1,2,United Kingdom,1959,belgium
+2,2,Denmark,1959,belgium
+3,1,The Netherlands,1959,belgium
+4,1,Monaco,1959,belgium
+5,9,points received,1959,belgium
+0,3,The Netherlands,1959,sweden
+1,1,Denmark,1959,sweden
+2,4,points received,1959,sweden
+0,3,France,1959,italy
+1,3,Switzerland,1959,italy
+2,1,Belgium,1959,italy
+3,1,Sweden,1959,italy
+4,1,Monaco,1959,italy
+5,9,points received,1959,italy

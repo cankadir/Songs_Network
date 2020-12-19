@@ -1,0 +1,243 @@
+,pts,pts_from,year,points_to
+0,12,Norway,1991,france
+1,12,Austria,1991,france
+2,12,Italy,1991,france
+3,12,Israel,1991,france
+4,10,Finland,1991,france
+5,10,Yugoslavia,1991,france
+6,8,Spain,1991,france
+7,8,Greece,1991,france
+8,8,Germany,1991,france
+9,7,Belgium,1991,france
+10,7,Ireland,1991,france
+11,7,Iceland,1991,france
+12,7,Switzerland,1991,france
+13,7,Cyprus,1991,france
+14,6,United Kingdom,1991,france
+15,5,Portugal,1991,france
+16,5,Sweden,1991,france
+17,3,Malta,1991,france
+18,146,points received,1991,france
+0,8,Luxembourg,1991,ireland
+1,7,Denmark,1991,ireland
+2,5,Belgium,1991,ireland
+3,4,United Kingdom,1991,ireland
+4,4,Malta,1991,ireland
+5,4,Turkey,1991,ireland
+6,3,Switzerland,1991,ireland
+7,3,Yugoslavia,1991,ireland
+8,3,Italy,1991,ireland
+9,2,Finland,1991,ireland
+10,2,Germany,1991,ireland
+11,1,Austria,1991,ireland
+12,1,Israel,1991,ireland
+13,47,points received,1991,ireland
+0,12,Cyprus,1991,spain
+1,12,Switzerland,1991,spain
+2,10,Greece,1991,spain
+3,8,Yugoslavia,1991,spain
+4,8,Turkey,1991,spain
+5,8,Portugal,1991,spain
+6,7,Austria,1991,spain
+7,7,Germany,1991,spain
+8,6,Malta,1991,spain
+9,6,Ireland,1991,spain
+10,6,Belgium,1991,spain
+11,6,Luxembourg,1991,spain
+12,6,France,1991,spain
+13,4,Norway,1991,spain
+14,4,Finland,1991,spain
+15,4,Sweden,1991,spain
+16,2,Israel,1991,spain
+17,2,Iceland,1991,spain
+18,1,United Kingdom,1991,spain
+19,119,points received,1991,spain
+0,1,Malta,1991,yugoslavia
+1,1,points received,1991,yugoslavia
+0,12,Luxembourg,1991,switzerland
+1,12,Belgium,1991,switzerland
+2,8,Sweden,1991,switzerland
+3,8,Israel,1991,switzerland
+4,8,United Kingdom,1991,switzerland
+5,8,Austria,1991,switzerland
+6,8,Cyprus,1991,switzerland
+7,7,Greece,1991,switzerland
+8,6,Germany,1991,switzerland
+9,6,Portugal,1991,switzerland
+10,5,Finland,1991,switzerland
+11,5,Iceland,1991,switzerland
+12,5,Yugoslavia,1991,switzerland
+13,5,Denmark,1991,switzerland
+14,4,France,1991,switzerland
+15,4,Italy,1991,switzerland
+16,3,Norway,1991,switzerland
+17,2,Turkey,1991,switzerland
+18,2,Ireland,1991,switzerland
+19,118,points received,1991,switzerland
+0,8,Italy,1991,turkey
+1,8,Denmark,1991,turkey
+2,7,Israel,1991,turkey
+3,7,France,1991,turkey
+4,7,Malta,1991,turkey
+5,5,United Kingdom,1991,turkey
+6,2,Spain,1991,turkey
+7,44,points received,1991,turkey
+0,12,Spain,1991,israel
+1,12,Turkey,1991,israel
+2,12,Yugoslavia,1991,israel
+3,10,Denmark,1991,israel
+4,10,United Kingdom,1991,israel
+5,10,Iceland,1991,israel
+6,8,Malta,1991,israel
+7,8,Switzerland,1991,israel
+8,8,Belgium,1991,israel
+9,8,Ireland,1991,israel
+10,7,Norway,1991,israel
+11,6,Sweden,1991,israel
+12,6,Finland,1991,israel
+13,5,Luxembourg,1991,israel
+14,5,Cyprus,1991,israel
+15,5,Greece,1991,israel
+16,4,Portugal,1991,israel
+17,3,France,1991,israel
+18,139,points received,1991,israel
+0,10,Cyprus,1991,greece
+1,5,Spain,1991,greece
+2,5,Malta,1991,greece
+3,4,Israel,1991,greece
+4,4,Yugoslavia,1991,greece
+5,2,Italy,1991,greece
+6,2,Austria,1991,greece
+7,1,Belgium,1991,greece
+8,1,Norway,1991,greece
+9,1,Finland,1991,greece
+10,1,Ireland,1991,greece
+11,36,points received,1991,greece
+0,10,Spain,1991,portugal
+1,10,France,1991,portugal
+2,8,Iceland,1991,portugal
+3,7,Sweden,1991,portugal
+4,7,Finland,1991,portugal
+5,5,Turkey,1991,portugal
+6,4,Greece,1991,portugal
+7,4,Cyprus,1991,portugal
+8,2,Luxembourg,1991,portugal
+9,2,Norway,1991,portugal
+10,1,Switzerland,1991,portugal
+11,1,Denmark,1991,portugal
+12,1,Italy,1991,portugal
+13,62,points received,1991,portugal
+0,6,Iceland,1991,norway
+1,4,Germany,1991,norway
+2,2,Denmark,1991,norway
+3,1,Luxembourg,1991,norway
+4,1,Turkey,1991,norway
+5,14,points received,1991,norway
+0,4,Ireland,1991,finland
+1,1,Iceland,1991,finland
+2,1,Greece,1991,finland
+3,6,points received,1991,finland
+0,12,Ireland,1991,malta
+1,12,Sweden,1991,malta
+2,10,Luxembourg,1991,malta
+3,10,Germany,1991,malta
+4,10,Italy,1991,malta
+5,7,Turkey,1991,malta
+6,7,United Kingdom,1991,malta
+7,7,Portugal,1991,malta
+8,6,Norway,1991,malta
+9,6,Spain,1991,malta
+10,6,Switzerland,1991,malta
+11,4,Belgium,1991,malta
+12,4,Austria,1991,malta
+13,2,Greece,1991,malta
+14,2,France,1991,malta
+15,1,Yugoslavia,1991,malta
+16,106,points received,1991,malta
+0,10,Sweden,1991,iceland
+1,7,Italy,1991,iceland
+2,5,Germany,1991,iceland
+3,4,Switzerland,1991,iceland
+4,26,points received,1991,iceland
+0,6,Denmark,1991,germany
+1,3,Cyprus,1991,germany
+2,1,Spain,1991,germany
+3,10,points received,1991,germany
+0,5,Austria,1991,luxembourg
+1,4,Denmark,1991,luxembourg
+2,4,Iceland,1991,luxembourg
+3,3,Turkey,1991,luxembourg
+4,3,Germany,1991,luxembourg
+5,3,United Kingdom,1991,luxembourg
+6,2,Portugal,1991,luxembourg
+7,2,Belgium,1991,luxembourg
+8,2,Cyprus,1991,luxembourg
+9,1,Sweden,1991,luxembourg
+10,29,points received,1991,luxembourg
+0,12,Portugal,1991,italy
+1,12,Finland,1991,italy
+2,10,Turkey,1991,italy
+3,10,Norway,1991,italy
+4,10,Ireland,1991,italy
+5,8,France,1991,italy
+6,7,Spain,1991,italy
+7,7,Yugoslavia,1991,italy
+8,6,Greece,1991,italy
+9,3,Israel,1991,italy
+10,2,Switzerland,1991,italy
+11,2,Malta,1991,italy
+12,89,points received,1991,italy
+0,5,Norway,1991,denmark
+1,3,Sweden,1991,denmark
+2,8,points received,1991,denmark
+0,0,points received,1991,austria
+0,5,France,1991,belgium
+1,5,Italy,1991,belgium
+2,3,Finland,1991,belgium
+3,3,Spain,1991,belgium
+4,3,Austria,1991,belgium
+5,2,United Kingdom,1991,belgium
+6,2,Sweden,1991,belgium
+7,23,points received,1991,belgium
+0,12,France,1991,cyprus
+1,12,Greece,1991,cyprus
+2,12,Malta,1991,cyprus
+3,6,Israel,1991,cyprus
+4,5,Ireland,1991,cyprus
+5,4,Luxembourg,1991,cyprus
+6,3,Portugal,1991,cyprus
+7,3,Iceland,1991,cyprus
+8,2,Yugoslavia,1991,cyprus
+9,1,Germany,1991,cyprus
+10,60,points received,1991,cyprus
+0,10,Malta,1991,united-kingdom
+1,6,Italy,1991,united-kingdom
+2,6,Austria,1991,united-kingdom
+3,5,Switzerland,1991,united-kingdom
+4,5,Israel,1991,united-kingdom
+5,3,Greece,1991,united-kingdom
+6,3,Belgium,1991,united-kingdom
+7,3,Denmark,1991,united-kingdom
+8,3,Luxembourg,1991,united-kingdom
+9,1,Cyprus,1991,united-kingdom
+10,1,France,1991,united-kingdom
+11,1,Portugal,1991,united-kingdom
+12,47,points received,1991,united-kingdom
+0,12,Denmark,1991,sweden
+1,12,Germany,1991,sweden
+2,12,United Kingdom,1991,sweden
+3,12,Iceland,1991,sweden
+4,10,Belgium,1991,sweden
+5,10,Switzerland,1991,sweden
+6,10,Portugal,1991,sweden
+7,10,Israel,1991,sweden
+8,10,Austria,1991,sweden
+9,8,Finland,1991,sweden
+10,8,Norway,1991,sweden
+11,7,Luxembourg,1991,sweden
+12,6,Cyprus,1991,sweden
+13,6,Turkey,1991,sweden
+14,6,Yugoslavia,1991,sweden
+15,4,Spain,1991,sweden
+16,3,Ireland,1991,sweden
+17,146,points received,1991,sweden

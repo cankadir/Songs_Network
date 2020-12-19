@@ -1,0 +1,636 @@
+,pts,pts_from,year,points_to
+0,12,Greece,2011,france
+1,12,Belgium,2011,france
+2,10,Spain,2011,france
+3,7,Cyprus,2011,france
+4,6,Croatia,2011,france
+5,5,Armenia,2011,france
+6,5,Ukraine,2011,france
+7,4,Bosnia & Herzegovina,2011,france
+8,4,Finland,2011,france
+9,3,San Marino,2011,france
+10,3,Russia,2011,france
+11,2,Portugal,2011,france
+12,2,Georgia,2011,france
+13,2,Albania,2011,france
+14,2,Moldova,2011,france
+15,1,Latvia,2011,france
+16,1,Italy,2011,france
+17,1,Malta,2011,france
+18,82,points received,2011,france
+0,12,Bulgaria,2011,united-kingdom
+1,10,Italy,2011,united-kingdom
+2,7,Malta,2011,united-kingdom
+3,6,Turkey,2011,united-kingdom
+4,6,Ireland,2011,united-kingdom
+5,6,Albania,2011,united-kingdom
+6,5,North Macedonia,2011,united-kingdom
+7,5,Latvia,2011,united-kingdom
+8,5,Azerbaijan,2011,united-kingdom
+9,4,Cyprus,2011,united-kingdom
+10,4,Moldova,2011,united-kingdom
+11,4,Russia,2011,united-kingdom
+12,3,Denmark,2011,united-kingdom
+13,3,Portugal,2011,united-kingdom
+14,3,Lithuania,2011,united-kingdom
+15,3,Ukraine,2011,united-kingdom
+16,2,Greece,2011,united-kingdom
+17,2,Armenia,2011,united-kingdom
+18,2,San Marino,2011,united-kingdom
+19,2,Iceland,2011,united-kingdom
+20,2,Belarus,2011,united-kingdom
+21,1,France,2011,united-kingdom
+22,1,Slovenia,2011,united-kingdom
+23,1,Israel,2011,united-kingdom
+24,1,Norway,2011,united-kingdom
+25,100,points received,2011,united-kingdom
+0,10,United Kingdom,2011,switzerland
+1,5,Serbia,2011,switzerland
+2,4,Slovakia,2011,switzerland
+3,19,points received,2011,switzerland
+0,12,Spain,2011,portugal
+1,10,Italy,2011,portugal
+2,8,Azerbaijan,2011,portugal
+3,7,Ukraine,2011,portugal
+4,6,Ireland,2011,portugal
+5,5,Moldova,2011,portugal
+6,4,Iceland,2011,portugal
+7,3,United Kingdom,2011,portugal
+8,2,France,2011,portugal
+9,1,Slovenia,2011,portugal
+0,12,Bosnia & Herzegovina,2011,slovenia
+1,12,Croatia,2011,slovenia
+2,10,North Macedonia,2011,slovenia
+3,10,Serbia,2011,slovenia
+4,7,Denmark,2011,slovenia
+5,6,Cyprus,2011,slovenia
+6,6,Hungary,2011,slovenia
+7,5,Russia,2011,slovenia
+8,4,Romania,2011,slovenia
+9,3,Israel,2011,slovenia
+10,3,Malta,2011,slovenia
+11,3,Latvia,2011,slovenia
+12,3,Austria,2011,slovenia
+13,2,Ireland,2011,slovenia
+14,2,The Netherlands,2011,slovenia
+15,2,Turkey,2011,slovenia
+16,2,Estonia,2011,slovenia
+17,1,Portugal,2011,slovenia
+18,1,Slovakia,2011,slovenia
+19,1,Germany,2011,slovenia
+20,1,San Marino,2011,slovenia
+21,96,points received,2011,slovenia
+0,7,Ireland,2011,estonia
+1,7,Finland,2011,estonia
+2,7,Lithuania,2011,estonia
+3,6,Moldova,2011,estonia
+4,5,Israel,2011,estonia
+5,4,Latvia,2011,estonia
+6,2,Ukraine,2011,estonia
+7,2,Norway,2011,estonia
+8,2,Denmark,2011,estonia
+9,2,Belgium,2011,estonia
+10,44,points received,2011,estonia
+0,12,Bosnia & Herzegovina,2011,fyr-macedonia
+1,10,Slovenia,2011,fyr-macedonia
+2,8,Serbia,2011,fyr-macedonia
+3,7,Ukraine,2011,fyr-macedonia
+4,6,Sweden,2011,fyr-macedonia
+5,5,United Kingdom,2011,fyr-macedonia
+6,4,Spain,2011,fyr-macedonia
+7,3,Greece,2011,fyr-macedonia
+8,2,Austria,2011,fyr-macedonia
+9,1,Italy,2011,fyr-macedonia
+0,12,Italy,2011,romania
+1,12,Moldova,2011,romania
+2,10,Belgium,2011,romania
+3,8,Spain,2011,romania
+4,6,Israel,2011,romania
+5,6,Azerbaijan,2011,romania
+6,6,Bulgaria,2011,romania
+7,5,Turkey,2011,romania
+8,4,Denmark,2011,romania
+9,4,The Netherlands,2011,romania
+10,1,Austria,2011,romania
+11,1,Hungary,2011,romania
+12,1,Estonia,2011,romania
+13,1,Ireland,2011,romania
+14,77,points received,2011,romania
+0,12,Ukraine,2011,slovakia
+1,10,Sweden,2011,slovakia
+2,8,Ireland,2011,slovakia
+3,7,Azerbaijan,2011,slovakia
+4,6,Denmark,2011,slovakia
+5,5,Moldova,2011,slovakia
+6,4,Switzerland,2011,slovakia
+7,3,Austria,2011,slovakia
+8,2,Spain,2011,slovakia
+9,1,Slovenia,2011,slovakia
+0,12,Italy,2011,albania
+1,10,Greece,2011,albania
+2,8,Azerbaijan,2011,albania
+3,7,Bosnia & Herzegovina,2011,albania
+4,6,United Kingdom,2011,albania
+5,5,Spain,2011,albania
+6,4,Russia,2011,albania
+7,3,Ukraine,2011,albania
+8,2,France,2011,albania
+9,1,Serbia,2011,albania
+0,12,Albania,2011,italy
+1,12,Spain,2011,italy
+2,12,Latvia,2011,italy
+3,12,San Marino,2011,italy
+4,10,Greece,2011,italy
+5,10,Portugal,2011,italy
+6,10,Poland,2011,italy
+7,10,Malta,2011,italy
+8,10,Lithuania,2011,italy
+9,8,France,2011,italy
+10,7,United Kingdom,2011,italy
+11,7,Georgia,2011,italy
+12,6,Armenia,2011,italy
+13,6,Belgium,2011,italy
+14,6,Bosnia & Herzegovina,2011,italy
+15,6,Estonia,2011,italy
+16,6,Austria,2011,italy
+17,6,Romania,2011,italy
+18,5,Ireland,2011,italy
+19,4,Switzerland,2011,italy
+20,4,Hungary,2011,italy
+21,3,Germany,2011,italy
+22,3,Finland,2011,italy
+23,3,Slovenia,2011,italy
+24,3,Iceland,2011,italy
+25,3,Belarus,2011,italy
+26,2,Serbia,2011,italy
+27,1,Azerbaijan,2011,italy
+28,1,Cyprus,2011,italy
+29,1,North Macedonia,2011,italy
+30,189,points received,2011,italy
+0,12,Portugal,2011,spain
+1,12,France,2011,spain
+2,5,Albania,2011,spain
+3,5,Romania,2011,spain
+4,4,Estonia,2011,spain
+5,4,North Macedonia,2011,spain
+6,3,Switzerland,2011,spain
+7,2,Slovenia,2011,spain
+8,2,Slovakia,2011,spain
+9,1,United Kingdom,2011,spain
+10,50,points received,2011,spain
+0,12,France,2011,belgium
+1,10,Romania,2011,belgium
+2,8,Greece,2011,belgium
+3,7,Ireland,2011,belgium
+4,6,Italy,2011,belgium
+5,5,Germany,2011,belgium
+6,4,Sweden,2011,belgium
+7,3,Azerbaijan,2011,belgium
+8,2,Estonia,2011,belgium
+9,1,Moldova,2011,belgium
+0,12,Greece,2011,cyprus
+1,10,Sweden,2011,cyprus
+2,8,Azerbaijan,2011,cyprus
+3,7,France,2011,cyprus
+4,6,Slovenia,2011,cyprus
+5,5,Ukraine,2011,cyprus
+6,4,United Kingdom,2011,cyprus
+7,3,Denmark,2011,cyprus
+8,2,Russia,2011,cyprus
+9,1,Italy,2011,cyprus
+0,12,Cyprus,2011,greece
+1,10,Bulgaria,2011,greece
+2,10,Germany,2011,greece
+3,10,Albania,2011,greece
+4,8,Russia,2011,greece
+5,8,Azerbaijan,2011,greece
+6,8,San Marino,2011,greece
+7,8,Belgium,2011,greece
+8,8,Hungary,2011,greece
+9,8,Romania,2011,greece
+10,7,Armenia,2011,greece
+11,6,Ukraine,2011,greece
+12,6,Georgia,2011,greece
+13,3,North Macedonia,2011,greece
+14,3,Serbia,2011,greece
+15,2,Italy,2011,greece
+16,2,Switzerland,2011,greece
+17,1,Moldova,2011,greece
+18,120,points received,2011,greece
+0,12,Norway,2011,finland
+1,10,Iceland,2011,finland
+2,7,Sweden,2011,finland
+3,7,Estonia,2011,finland
+4,5,Poland,2011,finland
+5,5,Denmark,2011,finland
+6,5,Switzerland,2011,finland
+7,3,Ireland,2011,finland
+8,2,Germany,2011,finland
+9,1,Lithuania,2011,finland
+10,57,points received,2011,finland
+0,12,North Macedonia,2011,bosnia-herzegovina
+1,12,Serbia,2011,bosnia-herzegovina
+2,12,Austria,2011,bosnia-herzegovina
+3,12,Switzerland,2011,bosnia-herzegovina
+4,12,Slovenia,2011,bosnia-herzegovina
+5,10,Turkey,2011,bosnia-herzegovina
+6,8,Sweden,2011,bosnia-herzegovina
+7,8,The Netherlands,2011,bosnia-herzegovina
+8,7,Germany,2011,bosnia-herzegovina
+9,7,Albania,2011,bosnia-herzegovina
+10,7,Croatia,2011,bosnia-herzegovina
+11,5,France,2011,bosnia-herzegovina
+12,4,Italy,2011,bosnia-herzegovina
+13,4,Norway,2011,bosnia-herzegovina
+14,3,Greece,2011,bosnia-herzegovina
+15,2,Bulgaria,2011,bosnia-herzegovina
+16,125,points received,2011,bosnia-herzegovina
+0,12,Slovenia,2011,croatia
+1,10,Azerbaijan,2011,croatia
+2,8,Serbia,2011,croatia
+3,7,Bosnia & Herzegovina,2011,croatia
+4,6,France,2011,croatia
+5,5,Ukraine,2011,croatia
+6,4,Sweden,2011,croatia
+7,3,Austria,2011,croatia
+8,2,Lithuania,2011,croatia
+9,1,Germany,2011,croatia
+0,12,Italy,2011,latvia
+1,10,Ireland,2011,latvia
+2,8,Germany,2011,latvia
+3,7,Lithuania,2011,latvia
+4,6,Denmark,2011,latvia
+5,5,United Kingdom,2011,latvia
+6,4,Estonia,2011,latvia
+7,3,Slovenia,2011,latvia
+8,2,Azerbaijan,2011,latvia
+9,1,France,2011,latvia
+0,12,Azerbaijan,2011,malta
+1,10,Italy,2011,malta
+2,8,Ireland,2011,malta
+3,7,United Kingdom,2011,malta
+4,6,Sweden,2011,malta
+5,5,Denmark,2011,malta
+6,4,Ukraine,2011,malta
+7,3,Slovenia,2011,malta
+8,2,Austria,2011,malta
+9,1,France,2011,malta
+0,8,Ukraine,2011,russia
+1,8,Armenia,2011,russia
+2,8,Israel,2011,russia
+3,6,Lithuania,2011,russia
+4,5,Moldova,2011,russia
+5,5,Germany,2011,russia
+6,5,Estonia,2011,russia
+7,5,Belarus,2011,russia
+8,4,Serbia,2011,russia
+9,4,Azerbaijan,2011,russia
+10,4,Albania,2011,russia
+11,4,Bulgaria,2011,russia
+12,4,Georgia,2011,russia
+13,3,Hungary,2011,russia
+14,2,Cyprus,2011,russia
+15,1,Greece,2011,russia
+16,1,Iceland,2011,russia
+17,77,points received,2011,russia
+0,12,Slovakia,2011,ukraine
+1,12,Armenia,2011,ukraine
+2,12,Azerbaijan,2011,ukraine
+3,10,Russia,2011,ukraine
+4,10,Georgia,2011,ukraine
+5,10,Belarus,2011,ukraine
+6,8,Moldova,2011,ukraine
+7,8,Bulgaria,2011,ukraine
+8,7,Israel,2011,ukraine
+9,7,North Macedonia,2011,ukraine
+10,7,Turkey,2011,ukraine
+11,7,Portugal,2011,ukraine
+12,7,Greece,2011,ukraine
+13,7,Italy,2011,ukraine
+14,6,Serbia,2011,ukraine
+15,6,Slovenia,2011,ukraine
+16,5,Croatia,2011,ukraine
+17,5,Cyprus,2011,ukraine
+18,4,Malta,2011,ukraine
+19,3,Albania,2011,ukraine
+20,2,Poland,2011,ukraine
+21,2,Sweden,2011,ukraine
+22,2,Romania,2011,ukraine
+23,159,points received,2011,ukraine
+0,12,Romania,2011,moldova
+1,8,Italy,2011,moldova
+2,8,United Kingdom,2011,moldova
+3,8,Ireland,2011,moldova
+4,7,Belarus,2011,moldova
+5,7,Russia,2011,moldova
+6,7,Azerbaijan,2011,moldova
+7,7,Ukraine,2011,moldova
+8,5,Georgia,2011,moldova
+9,5,Austria,2011,moldova
+10,5,Portugal,2011,moldova
+11,5,Slovakia,2011,moldova
+12,4,Lithuania,2011,moldova
+13,4,Germany,2011,moldova
+14,4,France,2011,moldova
+15,1,Belgium,2011,moldova
+16,97,points received,2011,moldova
+0,12,Ukraine,2011,armenia
+1,10,Georgia,2011,armenia
+2,8,Russia,2011,armenia
+3,7,Greece,2011,armenia
+4,6,Italy,2011,armenia
+5,5,France,2011,armenia
+6,4,Sweden,2011,armenia
+7,3,Austria,2011,armenia
+8,2,United Kingdom,2011,armenia
+9,1,Serbia,2011,armenia
+0,12,Ukraine,2011,georgia
+1,12,Belarus,2011,georgia
+2,12,Lithuania,2011,georgia
+3,10,Armenia,2011,georgia
+4,10,Azerbaijan,2011,georgia
+5,8,Greece,2011,georgia
+6,8,Turkey,2011,georgia
+7,7,San Marino,2011,georgia
+8,7,Poland,2011,georgia
+9,7,Moldova,2011,georgia
+10,6,Russia,2011,georgia
+11,5,Hungary,2011,georgia
+12,3,Estonia,2011,georgia
+13,2,Israel,2011,georgia
+14,1,Bulgaria,2011,georgia
+15,110,points received,2011,georgia
+0,12,Italy,2011,san-marino
+1,10,Azerbaijan,2011,san-marino
+2,8,Greece,2011,san-marino
+3,7,Georgia,2011,san-marino
+4,6,Sweden,2011,san-marino
+5,5,Serbia,2011,san-marino
+6,4,Denmark,2011,san-marino
+7,3,France,2011,san-marino
+8,2,United Kingdom,2011,san-marino
+9,1,Slovenia,2011,san-marino
+0,12,Sweden,2011,ireland
+1,12,Denmark,2011,ireland
+2,12,United Kingdom,2011,ireland
+3,10,Latvia,2011,ireland
+4,10,Finland,2011,ireland
+5,8,Slovakia,2011,ireland
+6,8,Malta,2011,ireland
+7,8,Germany,2011,ireland
+8,7,Belgium,2011,ireland
+9,7,Spain,2011,ireland
+10,6,Portugal,2011,ireland
+11,5,The Netherlands,2011,ireland
+12,4,Iceland,2011,ireland
+13,4,Austria,2011,ireland
+14,3,Bulgaria,2011,ireland
+15,2,Bosnia & Herzegovina,2011,ireland
+16,1,Poland,2011,ireland
+17,119,points received,2011,ireland
+0,12,Hungary,2011,iceland
+1,10,Switzerland,2011,iceland
+2,8,Norway,2011,iceland
+3,8,Finland,2011,iceland
+4,6,Denmark,2011,iceland
+5,5,Italy,2011,iceland
+6,4,Portugal,2011,iceland
+7,4,United Kingdom,2011,iceland
+8,2,Spain,2011,iceland
+9,1,Sweden,2011,iceland
+10,1,Bosnia & Herzegovina,2011,iceland
+11,61,points received,2011,iceland
+0,12,Ireland,2011,denmark
+1,12,The Netherlands,2011,denmark
+2,12,Iceland,2011,denmark
+3,10,Estonia,2011,denmark
+4,10,Sweden,2011,denmark
+5,10,Israel,2011,denmark
+6,8,Slovenia,2011,denmark
+7,7,France,2011,denmark
+8,7,Norway,2011,denmark
+9,7,Bulgaria,2011,denmark
+10,6,Slovakia,2011,denmark
+11,6,Latvia,2011,denmark
+12,6,Germany,2011,denmark
+13,5,United Kingdom,2011,denmark
+14,5,Malta,2011,denmark
+15,4,San Marino,2011,denmark
+16,3,Cyprus,2011,denmark
+17,3,Poland,2011,denmark
+18,1,Belarus,2011,denmark
+19,134,points received,2011,denmark
+0,12,Azerbaijan,2011,turkey
+1,10,Bosnia & Herzegovina,2011,turkey
+2,8,Georgia,2011,turkey
+3,7,Ukraine,2011,turkey
+4,6,United Kingdom,2011,turkey
+5,5,Romania,2011,turkey
+6,4,Sweden,2011,turkey
+7,3,Germany,2011,turkey
+8,2,Slovenia,2011,turkey
+9,1,Austria,2011,turkey
+0,12,Sweden,2011,israel
+1,10,Denmark,2011,israel
+2,8,Russia,2011,israel
+3,7,Ukraine,2011,israel
+4,6,Romania,2011,israel
+5,5,Estonia,2011,israel
+6,4,Azerbaijan,2011,israel
+7,3,Slovenia,2011,israel
+8,2,Georgia,2011,israel
+9,1,United Kingdom,2011,israel
+0,12,Finland,2011,norway
+1,10,Sweden,2011,norway
+2,8,Iceland,2011,norway
+3,7,Denmark,2011,norway
+4,6,Serbia,2011,norway
+5,5,Germany,2011,norway
+6,4,Bosnia & Herzegovina,2011,norway
+7,3,Lithuania,2011,norway
+8,2,Estonia,2011,norway
+9,1,United Kingdom,2011,norway
+0,12,Poland,2011,lithuania
+1,12,Georgia,2011,lithuania
+2,10,Ireland,2011,lithuania
+3,7,Serbia,2011,lithuania
+4,7,Latvia,2011,lithuania
+5,6,United Kingdom,2011,lithuania
+6,3,Norway,2011,lithuania
+7,2,Russia,2011,lithuania
+8,2,Croatia,2011,lithuania
+9,1,Spain,2011,lithuania
+10,1,Romania,2011,lithuania
+11,63,points received,2011,lithuania
+0,12,Turkey,2011,azerbaijan
+1,12,Malta,2011,azerbaijan
+2,12,Russia,2011,azerbaijan
+3,10,Moldova,2011,azerbaijan
+4,10,Croatia,2011,azerbaijan
+5,10,San Marino,2011,azerbaijan
+6,10,Romania,2011,azerbaijan
+7,10,Ukraine,2011,azerbaijan
+8,8,Estonia,2011,azerbaijan
+9,8,Iceland,2011,azerbaijan
+10,8,Austria,2011,azerbaijan
+11,8,Cyprus,2011,azerbaijan
+12,8,Portugal,2011,azerbaijan
+13,8,Bosnia & Herzegovina,2011,azerbaijan
+14,8,Lithuania,2011,azerbaijan
+15,8,Poland,2011,azerbaijan
+16,8,Albania,2011,azerbaijan
+17,8,Georgia,2011,azerbaijan
+18,7,Slovakia,2011,azerbaijan
+19,7,Hungary,2011,azerbaijan
+20,6,Belarus,2011,azerbaijan
+21,6,The Netherlands,2011,azerbaijan
+22,6,France,2011,azerbaijan
+23,5,Finland,2011,azerbaijan
+24,5,Greece,2011,azerbaijan
+25,4,Israel,2011,azerbaijan
+26,3,Belgium,2011,azerbaijan
+27,3,Sweden,2011,azerbaijan
+28,2,Latvia,2011,azerbaijan
+29,1,Switzerland,2011,azerbaijan
+30,221,points received,2011,azerbaijan
+0,12,Georgia,2011,belarus
+1,10,Ukraine,2011,belarus
+2,8,Germany,2011,belarus
+3,7,Moldova,2011,belarus
+4,6,Azerbaijan,2011,belarus
+5,5,Russia,2011,belarus
+6,4,Sweden,2011,belarus
+7,3,Italy,2011,belarus
+8,2,United Kingdom,2011,belarus
+9,1,Denmark,2011,belarus
+0,12,United Kingdom,2011,bulgaria
+1,10,Greece,2011,bulgaria
+2,8,Ukraine,2011,bulgaria
+3,7,Denmark,2011,bulgaria
+4,6,Romania,2011,bulgaria
+5,5,Austria,2011,bulgaria
+6,4,Russia,2011,bulgaria
+7,3,Ireland,2011,bulgaria
+8,2,Bosnia & Herzegovina,2011,bulgaria
+9,1,Georgia,2011,bulgaria
+0,10,Austria,2011,germany
+1,8,Belarus,2011,germany
+2,8,Latvia,2011,germany
+3,8,Denmark,2011,germany
+4,8,Switzerland,2011,germany
+5,7,Slovenia,2011,germany
+6,7,The Netherlands,2011,germany
+7,6,Italy,2011,germany
+8,6,Iceland,2011,germany
+9,6,Sweden,2011,germany
+10,5,Norway,2011,germany
+11,5,Belgium,2011,germany
+12,4,Greece,2011,germany
+13,4,Poland,2011,germany
+14,3,Turkey,2011,germany
+15,3,Bosnia & Herzegovina,2011,germany
+16,3,Spain,2011,germany
+17,3,France,2011,germany
+18,2,Lithuania,2011,germany
+19,1,Croatia,2011,germany
+20,107,points received,2011,germany
+0,12,Germany,2011,austria
+1,7,Switzerland,2011,austria
+2,7,Bosnia & Herzegovina,2011,austria
+3,5,Slovenia,2011,austria
+4,5,Bulgaria,2011,austria
+5,4,Sweden,2011,austria
+6,3,Georgia,2011,austria
+7,3,Croatia,2011,austria
+8,3,Slovakia,2011,austria
+9,3,Armenia,2011,austria
+10,2,United Kingdom,2011,austria
+11,2,North Macedonia,2011,austria
+12,2,Hungary,2011,austria
+13,2,Malta,2011,austria
+14,1,The Netherlands,2011,austria
+15,1,Finland,2011,austria
+16,1,Turkey,2011,austria
+17,1,Denmark,2011,austria
+18,64,points received,2011,austria
+0,12,Finland,2011,hungary
+1,8,Serbia,2011,hungary
+2,7,Romania,2011,hungary
+3,6,Spain,2011,hungary
+4,5,Sweden,2011,hungary
+5,5,Iceland,2011,hungary
+6,4,Ukraine,2011,hungary
+7,2,Austria,2011,hungary
+8,2,Azerbaijan,2011,hungary
+9,2,France,2011,hungary
+10,53,points received,2011,hungary
+0,12,Lithuania,2011,poland
+1,10,Italy,2011,poland
+2,8,Azerbaijan,2011,poland
+3,7,Georgia,2011,poland
+4,6,Serbia,2011,poland
+5,5,Finland,2011,poland
+6,4,Germany,2011,poland
+7,3,Denmark,2011,poland
+8,2,Ukraine,2011,poland
+9,1,Ireland,2011,poland
+0,10,Bosnia & Herzegovina,2011,serbia
+1,10,Slovenia,2011,serbia
+2,8,North Macedonia,2011,serbia
+3,8,Croatia,2011,serbia
+4,7,Austria,2011,serbia
+5,6,Switzerland,2011,serbia
+6,6,Norway,2011,serbia
+7,6,Poland,2011,serbia
+8,5,San Marino,2011,serbia
+9,5,Lithuania,2011,serbia
+10,4,Spain,2011,serbia
+11,3,The Netherlands,2011,serbia
+12,3,Italy,2011,serbia
+13,2,Finland,2011,serbia
+14,1,Albania,2011,serbia
+15,1,Armenia,2011,serbia
+16,85,points received,2011,serbia
+0,12,Denmark,2011,the-netherlands
+1,10,Sweden,2011,the-netherlands
+2,8,Bosnia & Herzegovina,2011,the-netherlands
+3,7,Germany,2011,the-netherlands
+4,6,Azerbaijan,2011,the-netherlands
+5,5,Ireland,2011,the-netherlands
+6,4,Romania,2011,the-netherlands
+7,3,Serbia,2011,the-netherlands
+8,2,Slovenia,2011,the-netherlands
+9,1,Austria,2011,the-netherlands
+0,12,Israel,2011,sweden
+1,12,Estonia,2011,sweden
+2,10,Slovakia,2011,sweden
+3,10,Hungary,2011,sweden
+4,10,Denmark,2011,sweden
+5,10,Cyprus,2011,sweden
+6,10,The Netherlands,2011,sweden
+7,10,Norway,2011,sweden
+8,10,France,2011,sweden
+9,7,Iceland,2011,sweden
+10,6,San Marino,2011,sweden
+11,6,Greece,2011,sweden
+12,6,Finland,2011,sweden
+13,6,North Macedonia,2011,sweden
+14,6,Malta,2011,sweden
+15,5,Bosnia & Herzegovina,2011,sweden
+16,5,Spain,2011,sweden
+17,4,Belgium,2011,sweden
+18,4,Ireland,2011,sweden
+19,4,Slovenia,2011,sweden
+20,4,Belarus,2011,sweden
+21,4,Armenia,2011,sweden
+22,4,Turkey,2011,sweden
+23,4,Croatia,2011,sweden
+24,3,Azerbaijan,2011,sweden
+25,3,United Kingdom,2011,sweden
+26,3,Romania,2011,sweden
+27,3,Moldova,2011,sweden
+28,1,Georgia,2011,sweden
+29,1,Ukraine,2011,sweden
+30,1,Serbia,2011,sweden
+31,1,Russia,2011,sweden
+32,185,points received,2011,sweden

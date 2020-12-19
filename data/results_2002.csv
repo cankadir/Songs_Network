@@ -1,0 +1,265 @@
+,pts,pts_from,year,points_to
+0,12,Switzerland,2002,spain
+1,12,Belgium,2002,spain
+2,12,France,2002,spain
+3,7,Cyprus,2002,spain
+4,7,Germany,2002,spain
+5,7,Sweden,2002,spain
+6,6,Croatia,2002,spain
+7,6,Israel,2002,spain
+8,6,Bosnia & Herzegovina,2002,spain
+9,4,Greece,2002,spain
+10,2,United Kingdom,2002,spain
+11,81,points received,2002,spain
+0,12,Austria,2002,united-kingdom
+1,10,Malta,2002,united-kingdom
+2,8,Finland,2002,united-kingdom
+3,8,Germany,2002,united-kingdom
+4,8,Lithuania,2002,united-kingdom
+5,8,Slovenia,2002,united-kingdom
+6,7,Greece,2002,united-kingdom
+7,7,Bosnia & Herzegovina,2002,united-kingdom
+8,6,Denmark,2002,united-kingdom
+9,6,Switzerland,2002,united-kingdom
+10,6,Estonia,2002,united-kingdom
+11,6,Belgium,2002,united-kingdom
+12,5,Israel,2002,united-kingdom
+13,5,Latvia,2002,united-kingdom
+14,4,North Macedonia,2002,united-kingdom
+15,2,Turkey,2002,united-kingdom
+16,2,Sweden,2002,united-kingdom
+17,1,France,2002,united-kingdom
+18,111,points received,2002,united-kingdom
+0,10,Turkey,2002,belgium
+1,7,Russia,2002,belgium
+2,4,United Kingdom,2002,belgium
+3,4,Denmark,2002,belgium
+4,3,Sweden,2002,belgium
+5,2,France,2002,belgium
+6,2,Lithuania,2002,belgium
+7,1,Spain,2002,belgium
+8,33,points received,2002,belgium
+0,12,Bosnia & Herzegovina,2002,sweden
+1,10,Denmark,2002,sweden
+2,10,Lithuania,2002,sweden
+3,8,Estonia,2002,sweden
+4,7,Finland,2002,sweden
+5,7,Slovenia,2002,sweden
+6,4,Turkey,2002,sweden
+7,4,Austria,2002,sweden
+8,4,Latvia,2002,sweden
+9,3,Israel,2002,sweden
+10,1,Greece,2002,sweden
+11,1,Belgium,2002,sweden
+12,1,United Kingdom,2002,sweden
+13,72,points received,2002,sweden
+0,12,Cyprus,2002,greece
+1,8,Russia,2002,greece
+2,6,Romania,2002,greece
+3,1,Croatia,2002,greece
+4,27,points received,2002,greece
+0,10,Sweden,2002,finland
+1,5,Estonia,2002,finland
+2,3,Denmark,2002,finland
+3,3,Bosnia & Herzegovina,2002,finland
+4,2,Cyprus,2002,finland
+5,1,North Macedonia,2002,finland
+6,24,points received,2002,finland
+0,8,Croatia,2002,slovenia
+1,7,Spain,2002,slovenia
+2,6,United Kingdom,2002,slovenia
+3,5,France,2002,slovenia
+4,2,North Macedonia,2002,slovenia
+5,2,Austria,2002,slovenia
+6,2,Switzerland,2002,slovenia
+7,1,Bosnia & Herzegovina,2002,slovenia
+8,33,points received,2002,slovenia
+0,12,Slovenia,2002,croatia
+1,6,Cyprus,2002,croatia
+2,6,Austria,2002,croatia
+3,5,North Macedonia,2002,croatia
+4,5,Switzerland,2002,croatia
+5,5,Greece,2002,croatia
+6,3,Germany,2002,croatia
+7,2,Bosnia & Herzegovina,2002,croatia
+8,44,points received,2002,croatia
+0,12,Latvia,2002,estonia
+1,12,Sweden,2002,estonia
+2,10,Finland,2002,estonia
+3,10,Bosnia & Herzegovina,2002,estonia
+4,8,Denmark,2002,estonia
+5,8,Turkey,2002,estonia
+6,7,United Kingdom,2002,estonia
+7,7,Lithuania,2002,estonia
+8,6,Slovenia,2002,estonia
+9,6,North Macedonia,2002,estonia
+10,5,Croatia,2002,estonia
+11,4,Belgium,2002,estonia
+12,4,Germany,2002,estonia
+13,3,Austria,2002,estonia
+14,3,Russia,2002,estonia
+15,2,Israel,2002,estonia
+16,2,Malta,2002,estonia
+17,2,Romania,2002,estonia
+18,111,points received,2002,estonia
+0,12,Spain,2002,latvia
+1,12,Israel,2002,latvia
+2,12,Lithuania,2002,latvia
+3,12,Estonia,2002,latvia
+4,12,Germany,2002,latvia
+5,10,Russia,2002,latvia
+6,10,Austria,2002,latvia
+7,10,Greece,2002,latvia
+8,8,France,2002,latvia
+9,8,Belgium,2002,latvia
+10,8,United Kingdom,2002,latvia
+11,8,Switzerland,2002,latvia
+12,7,Malta,2002,latvia
+13,7,North Macedonia,2002,latvia
+14,7,Denmark,2002,latvia
+15,6,Finland,2002,latvia
+16,6,Turkey,2002,latvia
+17,5,Bosnia & Herzegovina,2002,latvia
+18,5,Sweden,2002,latvia
+19,5,Slovenia,2002,latvia
+20,4,Cyprus,2002,latvia
+21,2,Croatia,2002,latvia
+22,176,points received,2002,latvia
+0,6,Latvia,2002,lithuania
+1,4,Russia,2002,lithuania
+2,2,Estonia,2002,lithuania
+3,12,points received,2002,lithuania
+0,12,Denmark,2002,malta
+1,12,United Kingdom,2002,malta
+2,12,Croatia,2002,malta
+3,10,Spain,2002,malta
+4,10,Slovenia,2002,malta
+5,10,Germany,2002,malta
+6,10,Cyprus,2002,malta
+7,10,North Macedonia,2002,malta
+8,10,Israel,2002,malta
+9,8,Austria,2002,malta
+10,7,Latvia,2002,malta
+11,7,Belgium,2002,malta
+12,7,Estonia,2002,malta
+13,6,France,2002,malta
+14,6,Greece,2002,malta
+15,5,Russia,2002,malta
+16,5,Turkey,2002,malta
+17,4,Switzerland,2002,malta
+18,4,Sweden,2002,malta
+19,4,Bosnia & Herzegovina,2002,malta
+20,3,Lithuania,2002,malta
+21,2,Finland,2002,malta
+22,164,points received,2002,malta
+0,12,North Macedonia,2002,romania
+1,12,Russia,2002,romania
+2,8,Israel,2002,romania
+3,8,Cyprus,2002,romania
+4,8,Greece,2002,romania
+5,7,Turkey,2002,romania
+6,6,Malta,2002,romania
+7,5,Spain,2002,romania
+8,4,France,2002,romania
+9,1,Germany,2002,romania
+10,71,points received,2002,romania
+0,10,Romania,2002,russia
+1,10,Estonia,2002,russia
+2,10,Latvia,2002,russia
+3,8,Malta,2002,russia
+4,6,Lithuania,2002,russia
+5,5,Cyprus,2002,russia
+6,3,Finland,2002,russia
+7,2,Greece,2002,russia
+8,1,Israel,2002,russia
+9,55,points received,2002,russia
+0,12,Finland,2002,france
+1,10,Switzerland,2002,france
+2,10,United Kingdom,2002,france
+3,10,Belgium,2002,france
+4,8,Bosnia & Herzegovina,2002,france
+5,8,Sweden,2002,france
+6,8,Spain,2002,france
+7,7,Israel,2002,france
+8,6,Germany,2002,france
+9,5,Lithuania,2002,france
+10,5,Denmark,2002,france
+11,4,Romania,2002,france
+12,3,Estonia,2002,france
+13,3,Slovenia,2002,france
+14,3,Greece,2002,france
+15,2,Latvia,2002,france
+16,104,points received,2002,france
+0,4,Israel,2002,denmark
+1,1,Turkey,2002,denmark
+2,1,Lithuania,2002,denmark
+3,1,Malta,2002,denmark
+4,7,points received,2002,denmark
+0,4,Malta,2002,germany
+1,3,Turkey,2002,germany
+2,3,Switzerland,2002,germany
+3,2,Spain,2002,germany
+4,2,Russia,2002,germany
+5,1,Austria,2002,germany
+6,1,Romania,2002,germany
+7,1,Estonia,2002,germany
+8,17,points received,2002,germany
+0,12,Turkey,2002,austria
+1,7,Switzerland,2002,austria
+2,5,Belgium,2002,austria
+3,1,Cyprus,2002,austria
+4,1,Russia,2002,austria
+5,26,points received,2002,austria
+0,5,Austria,2002,switzerland
+1,3,France,2002,switzerland
+2,3,Romania,2002,switzerland
+3,2,Germany,2002,switzerland
+4,1,Slovenia,2002,switzerland
+5,1,Latvia,2002,switzerland
+6,15,points received,2002,switzerland
+0,8,North Macedonia,2002,turkey
+1,7,France,2002,turkey
+2,7,Romania,2002,turkey
+3,4,Spain,2002,turkey
+4,3,Croatia,2002,turkey
+5,29,points received,2002,turkey
+0,10,France,2002,israel
+1,5,United Kingdom,2002,israel
+2,5,Germany,2002,israel
+3,5,Romania,2002,israel
+4,5,Finland,2002,israel
+5,3,Latvia,2002,israel
+6,2,Belgium,2002,israel
+7,1,Denmark,2002,israel
+8,1,Switzerland,2002,israel
+9,37,points received,2002,israel
+0,7,Croatia,2002,bosnia-herzegovina
+1,7,Austria,2002,bosnia-herzegovina
+2,6,Sweden,2002,bosnia-herzegovina
+3,3,Spain,2002,bosnia-herzegovina
+4,3,North Macedonia,2002,bosnia-herzegovina
+5,3,Malta,2002,bosnia-herzegovina
+6,2,Slovenia,2002,bosnia-herzegovina
+7,2,Denmark,2002,bosnia-herzegovina
+8,33,points received,2002,bosnia-herzegovina
+0,12,Romania,2002,fyr-macedonia
+1,5,Malta,2002,fyr-macedonia
+2,4,Croatia,2002,fyr-macedonia
+3,3,Cyprus,2002,fyr-macedonia
+4,1,Finland,2002,fyr-macedonia
+5,25,points received,2002,fyr-macedonia
+0,12,Malta,2002,cyprus
+1,12,Greece,2002,cyprus
+2,10,Croatia,2002,cyprus
+3,8,Romania,2002,cyprus
+4,8,Latvia,2002,cyprus
+5,6,Russia,2002,cyprus
+6,6,Spain,2002,cyprus
+7,4,Lithuania,2002,cyprus
+8,4,Estonia,2002,cyprus
+9,4,Finland,2002,cyprus
+10,4,Slovenia,2002,cyprus
+11,3,Belgium,2002,cyprus
+12,3,United Kingdom,2002,cyprus
+13,1,Sweden,2002,cyprus
+14,85,points received,2002,cyprus

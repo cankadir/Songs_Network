@@ -1,0 +1,232 @@
+,pts,pts_from,year,points_to
+0,8,Finland,1988,italy
+1,8,Switzerland,1988,italy
+2,8,France,1988,italy
+3,7,Spain,1988,italy
+4,5,Yugoslavia,1988,italy
+5,5,Austria,1988,italy
+6,4,Turkey,1988,italy
+7,3,Norway,1988,italy
+8,2,Luxembourg,1988,italy
+9,2,Germany,1988,italy
+10,52,points received,1988,italy
+0,12,Yugoslavia,1988,france
+1,10,Luxembourg,1988,france
+2,8,Turkey,1988,france
+3,7,Austria,1988,france
+4,5,Greece,1988,france
+5,3,Finland,1988,france
+6,3,Denmark,1988,france
+7,3,Germany,1988,france
+8,3,Switzerland,1988,france
+9,2,Sweden,1988,france
+10,2,The Netherlands,1988,france
+11,2,Belgium,1988,france
+12,2,Spain,1988,france
+13,1,Portugal,1988,france
+14,1,Norway,1988,france
+15,64,points received,1988,france
+0,12,Spain,1988,ireland
+1,7,Germany,1988,ireland
+2,7,Sweden,1988,ireland
+3,7,Norway,1988,ireland
+4,7,Denmark,1988,ireland
+5,6,The Netherlands,1988,ireland
+6,6,Austria,1988,ireland
+7,5,Portugal,1988,ireland
+8,5,Belgium,1988,ireland
+9,4,France,1988,ireland
+10,4,Switzerland,1988,ireland
+11,3,United Kingdom,1988,ireland
+12,2,Turkey,1988,ireland
+13,2,Yugoslavia,1988,ireland
+14,2,Finland,1988,ireland
+15,79,points received,1988,ireland
+0,8,Portugal,1988,iceland
+1,4,Denmark,1988,iceland
+2,4,The Netherlands,1988,iceland
+3,2,France,1988,iceland
+4,1,Italy,1988,iceland
+5,1,Sweden,1988,iceland
+6,20,points received,1988,iceland
+0,12,Italy,1988,united-kingdom
+1,12,Belgium,1988,united-kingdom
+2,12,Turkey,1988,united-kingdom
+3,10,Finland,1988,united-kingdom
+4,10,Germany,1988,united-kingdom
+5,10,Spain,1988,united-kingdom
+6,10,Israel,1988,united-kingdom
+7,10,Austria,1988,united-kingdom
+8,10,Denmark,1988,united-kingdom
+9,8,Luxembourg,1988,united-kingdom
+10,7,Ireland,1988,united-kingdom
+11,6,Greece,1988,united-kingdom
+12,5,Sweden,1988,united-kingdom
+13,5,Switzerland,1988,united-kingdom
+14,5,Norway,1988,united-kingdom
+15,3,Portugal,1988,united-kingdom
+16,1,Iceland,1988,united-kingdom
+17,136,points received,1988,united-kingdom
+0,12,Austria,1988,denmark
+1,12,The Netherlands,1988,denmark
+2,12,France,1988,denmark
+3,10,Norway,1988,denmark
+4,10,Iceland,1988,denmark
+5,7,Belgium,1988,denmark
+6,6,Portugal,1988,denmark
+7,6,Israel,1988,denmark
+8,4,Finland,1988,denmark
+9,4,Germany,1988,denmark
+10,4,Ireland,1988,denmark
+11,3,Sweden,1988,denmark
+12,1,Spain,1988,denmark
+13,1,Switzerland,1988,denmark
+14,92,points received,1988,denmark
+0,0,points received,1988,austria
+0,12,Portugal,1988,switzerland
+1,12,Germany,1988,switzerland
+2,12,Sweden,1988,switzerland
+3,10,Greece,1988,switzerland
+4,10,Ireland,1988,switzerland
+5,10,United Kingdom,1988,switzerland
+6,10,The Netherlands,1988,switzerland
+7,10,Turkey,1988,switzerland
+8,8,Norway,1988,switzerland
+9,8,Spain,1988,switzerland
+10,7,Iceland,1988,switzerland
+11,7,Italy,1988,switzerland
+12,6,Yugoslavia,1988,switzerland
+13,5,Finland,1988,switzerland
+14,4,Israel,1988,switzerland
+15,4,Belgium,1988,switzerland
+16,1,Luxembourg,1988,switzerland
+17,1,France,1988,switzerland
+18,137,points received,1988,switzerland
+0,12,Finland,1988,luxembourg
+1,12,Ireland,1988,luxembourg
+2,12,Switzerland,1988,luxembourg
+3,10,Sweden,1988,luxembourg
+4,8,Belgium,1988,luxembourg
+5,7,United Kingdom,1988,luxembourg
+6,6,Norway,1988,luxembourg
+7,5,The Netherlands,1988,luxembourg
+8,4,Iceland,1988,luxembourg
+9,4,Portugal,1988,luxembourg
+10,3,Yugoslavia,1988,luxembourg
+11,2,Greece,1988,luxembourg
+12,2,Denmark,1988,luxembourg
+13,2,Italy,1988,luxembourg
+14,1,Austria,1988,luxembourg
+15,90,points received,1988,luxembourg
+0,12,Norway,1988,sweden
+1,10,Italy,1988,sweden
+2,8,Denmark,1988,sweden
+3,8,The Netherlands,1988,sweden
+4,5,Ireland,1988,sweden
+5,3,Iceland,1988,sweden
+6,3,Luxembourg,1988,sweden
+7,2,United Kingdom,1988,sweden
+8,1,Belgium,1988,sweden
+9,52,points received,1988,sweden
+0,8,Germany,1988,turkey
+1,8,Israel,1988,turkey
+2,6,France,1988,turkey
+3,5,Spain,1988,turkey
+4,4,Luxembourg,1988,turkey
+5,4,Sweden,1988,turkey
+6,1,United Kingdom,1988,turkey
+7,1,The Netherlands,1988,turkey
+8,37,points received,1988,turkey
+0,10,Belgium,1988,israel
+1,10,France,1988,israel
+2,10,Portugal,1988,israel
+3,10,Switzerland,1988,israel
+4,6,Spain,1988,israel
+5,6,Finland,1988,israel
+6,6,Iceland,1988,israel
+7,5,Luxembourg,1988,israel
+8,5,Germany,1988,israel
+9,4,United Kingdom,1988,israel
+10,3,Italy,1988,israel
+11,3,The Netherlands,1988,israel
+12,3,Greece,1988,israel
+13,2,Austria,1988,israel
+14,1,Ireland,1988,israel
+15,1,Yugoslavia,1988,israel
+16,85,points received,1988,israel
+0,7,France,1988,greece
+1,3,Turkey,1988,greece
+2,10,points received,1988,greece
+0,3,Israel,1988,finland
+1,3,points received,1988,finland
+0,8,Austria,1988,spain
+1,8,Greece,1988,spain
+2,8,Italy,1988,spain
+3,6,Belgium,1988,spain
+4,6,Switzerland,1988,spain
+5,6,Luxembourg,1988,spain
+6,5,Turkey,1988,spain
+7,4,Yugoslavia,1988,spain
+8,2,Norway,1988,spain
+9,2,Israel,1988,spain
+10,2,Iceland,1988,spain
+11,1,Denmark,1988,spain
+12,58,points received,1988,spain
+0,12,Denmark,1988,yugoslavia
+1,12,Israel,1988,yugoslavia
+2,12,Iceland,1988,yugoslavia
+3,8,United Kingdom,1988,yugoslavia
+4,7,Luxembourg,1988,yugoslavia
+5,7,Turkey,1988,yugoslavia
+6,6,Sweden,1988,yugoslavia
+7,6,Italy,1988,yugoslavia
+8,4,Austria,1988,yugoslavia
+9,4,Greece,1988,yugoslavia
+10,3,Ireland,1988,yugoslavia
+11,3,France,1988,yugoslavia
+12,2,Switzerland,1988,yugoslavia
+13,1,Finland,1988,yugoslavia
+14,87,points received,1988,yugoslavia
+0,8,Yugoslavia,1988,germany
+1,8,Iceland,1988,germany
+2,6,Ireland,1988,germany
+3,6,Denmark,1988,germany
+4,5,Israel,1988,germany
+5,5,United Kingdom,1988,germany
+6,4,Norway,1988,germany
+7,3,Spain,1988,germany
+8,2,Portugal,1988,germany
+9,1,Turkey,1988,germany
+10,48,points received,1988,germany
+0,5,France,1988,belgium
+1,5,points received,1988,belgium
+0,12,Luxembourg,1988,the-netherlands
+1,12,Greece,1988,the-netherlands
+2,7,Switzerland,1988,the-netherlands
+3,7,Yugoslavia,1988,the-netherlands
+4,7,Israel,1988,the-netherlands
+5,6,United Kingdom,1988,the-netherlands
+6,6,Turkey,1988,the-netherlands
+7,6,Germany,1988,the-netherlands
+8,5,Italy,1988,the-netherlands
+9,2,Ireland,1988,the-netherlands
+10,70,points received,1988,the-netherlands
+0,4,Spain,1988,portugal
+1,1,Greece,1988,portugal
+2,5,points received,1988,portugal
+0,12,United Kingdom,1988,norway
+1,10,Yugoslavia,1988,norway
+2,8,Ireland,1988,norway
+3,8,Sweden,1988,norway
+4,7,The Netherlands,1988,norway
+5,7,Portugal,1988,norway
+6,7,Greece,1988,norway
+7,7,Finland,1988,norway
+8,5,Denmark,1988,norway
+9,5,Iceland,1988,norway
+10,4,Italy,1988,norway
+11,3,Belgium,1988,norway
+12,3,Austria,1988,norway
+13,1,Israel,1988,norway
+14,1,Germany,1988,norway
+15,88,points received,1988,norway

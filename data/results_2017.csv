@@ -1,0 +1,631 @@
+,pts,pts_from,year,points_to
+0,12,Albania,2017,italy
+1,12,Malta,2017,italy
+2,10,Switzerland,2017,italy
+3,10,San Marino,2017,italy
+4,10,Slovenia,2017,italy
+5,10,Montenegro,2017,italy
+6,8,Cyprus,2017,italy
+7,8,North Macedonia,2017,italy
+8,8,Spain,2017,italy
+9,8,Israel,2017,italy
+10,8,Finland,2017,italy
+11,7,Greece,2017,italy
+12,7,Croatia,2017,italy
+13,7,Iceland,2017,italy
+14,6,Austria,2017,italy
+15,6,Romania,2017,italy
+16,6,Azerbaijan,2017,italy
+17,6,Serbia,2017,italy
+18,5,France,2017,italy
+19,5,Belgium,2017,italy
+20,5,Estonia,2017,italy
+21,5,Lithuania,2017,italy
+22,5,Georgia,2017,italy
+23,4,Germany,2017,italy
+24,4,Hungary,2017,italy
+25,4,Moldova,2017,italy
+26,4,Portugal,2017,italy
+27,4,Armenia,2017,italy
+28,3,Latvia,2017,italy
+29,2,United Kingdom,2017,italy
+30,2,Australia,2017,italy
+31,2,Norway,2017,italy
+32,2,The Netherlands,2017,italy
+33,1,Czech Republic,2017,italy
+34,1,Sweden,2017,italy
+35,1,Ireland,2017,italy
+36,208,points received from televoters,2017,italy
+0,12,Bulgaria,2017,france
+1,8,Armenia,2017,france
+2,6,Portugal,2017,france
+3,6,Ukraine,2017,france
+4,6,North Macedonia,2017,france
+5,5,Moldova,2017,france
+6,5,Azerbaijan,2017,france
+7,4,Greece,2017,france
+8,4,Romania,2017,france
+9,4,Belarus,2017,france
+10,4,Israel,2017,france
+11,3,Spain,2017,france
+12,3,Croatia,2017,france
+13,3,Cyprus,2017,france
+14,3,Georgia,2017,france
+15,3,Belgium,2017,france
+16,2,Switzerland,2017,france
+17,2,Serbia,2017,france
+18,2,Montenegro,2017,france
+19,1,Hungary,2017,france
+20,1,Finland,2017,france
+21,1,Estonia,2017,france
+22,1,Italy,2017,france
+23,1,Albania,2017,france
+24,90,points received from televoters,2017,france
+0,12,Romania,2017,ireland
+1,10,Portugal,2017,ireland
+2,8,Moldova,2017,ireland
+3,7,Poland,2017,ireland
+4,6,Bulgaria,2017,ireland
+5,5,Belgium,2017,ireland
+6,4,United Kingdom,2017,ireland
+7,3,Croatia,2017,ireland
+8,2,Hungary,2017,ireland
+9,1,Italy,2017,ireland
+0,12,Portugal,2017,iceland
+1,10,Belgium,2017,iceland
+2,8,Sweden,2017,iceland
+3,7,Italy,2017,iceland
+4,6,Moldova,2017,iceland
+5,5,Romania,2017,iceland
+6,4,Bulgaria,2017,iceland
+7,3,Poland,2017,iceland
+8,2,Hungary,2017,iceland
+9,1,Norway,2017,iceland
+0,5,Portugal,2017,spain
+1,5,points received from televoters,2017,spain
+0,4,Ireland,2017,united-kingdom
+1,4,Malta,2017,united-kingdom
+2,3,Australia,2017,united-kingdom
+3,1,Spain,2017,united-kingdom
+4,12,points received from televoters,2017,united-kingdom
+0,8,Australia,2017,denmark
+1,8,points received from televoters,2017,denmark
+0,3,Switzerland,2017,germany
+1,3,points received from televoters,2017,germany
+0,12,Bulgaria,2017,austria
+1,10,Portugal,2017,austria
+2,7,Denmark,2017,austria
+3,7,Ireland,2017,austria
+4,6,Latvia,2017,austria
+5,5,Georgia,2017,austria
+6,5,Lithuania,2017,austria
+7,4,Sweden,2017,austria
+8,4,Serbia,2017,austria
+9,4,Czech Republic,2017,austria
+10,4,Belarus,2017,austria
+11,3,Australia,2017,austria
+12,3,Spain,2017,austria
+13,3,United Kingdom,2017,austria
+14,3,Belgium,2017,austria
+15,3,The Netherlands,2017,austria
+16,2,Germany,2017,austria
+17,2,Moldova,2017,austria
+18,1,Armenia,2017,austria
+19,1,France,2017,austria
+20,1,Montenegro,2017,austria
+21,1,Romania,2017,austria
+22,1,Italy,2017,austria
+23,1,Croatia,2017,austria
+24,93,points received from juries,2017,austria
+0,12,Portugal,2017,switzerland
+1,10,Italy,2017,switzerland
+2,8,Croatia,2017,switzerland
+3,7,Belgium,2017,switzerland
+4,6,Bulgaria,2017,switzerland
+5,5,Hungary,2017,switzerland
+6,4,Romania,2017,switzerland
+7,3,Germany,2017,switzerland
+8,2,France,2017,switzerland
+9,1,Sweden,2017,switzerland
+0,12,Latvia,2017,belgium
+1,12,Estonia,2017,belgium
+2,12,Poland,2017,belgium
+3,12,Sweden,2017,belgium
+4,10,Germany,2017,belgium
+5,10,Finland,2017,belgium
+6,10,Lithuania,2017,belgium
+7,10,Iceland,2017,belgium
+8,10,The Netherlands,2017,belgium
+9,10,Portugal,2017,belgium
+10,8,France,2017,belgium
+11,8,Austria,2017,belgium
+12,8,Hungary,2017,belgium
+13,7,Norway,2017,belgium
+14,7,Switzerland,2017,belgium
+15,6,Slovenia,2017,belgium
+16,6,Israel,2017,belgium
+17,6,Belarus,2017,belgium
+18,6,Denmark,2017,belgium
+19,5,Romania,2017,belgium
+20,5,Ukraine,2017,belgium
+21,5,Albania,2017,belgium
+22,5,San Marino,2017,belgium
+23,5,Armenia,2017,belgium
+24,5,Greece,2017,belgium
+25,5,Croatia,2017,belgium
+26,5,Ireland,2017,belgium
+27,5,Malta,2017,belgium
+28,4,Australia,2017,belgium
+29,4,Spain,2017,belgium
+30,4,North Macedonia,2017,belgium
+31,4,Azerbaijan,2017,belgium
+32,4,Bulgaria,2017,belgium
+33,4,Czech Republic,2017,belgium
+34,4,Montenegro,2017,belgium
+35,3,Serbia,2017,belgium
+36,3,United Kingdom,2017,belgium
+37,2,Cyprus,2017,belgium
+38,2,Italy,2017,belgium
+39,2,Moldova,2017,belgium
+40,255,points received from televoters,2017,belgium
+0,12,Greece,2017,cyprus
+1,12,Armenia,2017,cyprus
+2,3,Bulgaria,2017,cyprus
+3,2,Hungary,2017,cyprus
+4,2,Georgia,2017,cyprus
+5,1,Montenegro,2017,cyprus
+6,32,points received from televoters,2017,cyprus
+0,10,Belgium,2017,the-netherlands
+1,2,Spain,2017,the-netherlands
+2,1,Denmark,2017,the-netherlands
+3,1,Germany,2017,the-netherlands
+4,1,Croatia,2017,the-netherlands
+5,15,points received from televoters,2017,the-netherlands
+0,12,Denmark,2017,sweden
+1,8,Iceland,2017,sweden
+2,7,Malta,2017,sweden
+3,7,Ukraine,2017,sweden
+4,6,Australia,2017,sweden
+5,6,Finland,2017,sweden
+6,5,North Macedonia,2017,sweden
+7,5,Cyprus,2017,sweden
+8,5,Spain,2017,sweden
+9,5,Norway,2017,sweden
+10,4,Latvia,2017,sweden
+11,4,United Kingdom,2017,sweden
+12,4,The Netherlands,2017,sweden
+13,3,Hungary,2017,sweden
+14,3,Lithuania,2017,sweden
+15,3,Belarus,2017,sweden
+16,3,Poland,2017,sweden
+17,3,Azerbaijan,2017,sweden
+18,3,Israel,2017,sweden
+19,3,Greece,2017,sweden
+20,3,Armenia,2017,sweden
+21,3,Moldova,2017,sweden
+22,3,Estonia,2017,sweden
+23,2,Belgium,2017,sweden
+24,2,Croatia,2017,sweden
+25,2,Romania,2017,sweden
+26,2,Albania,2017,sweden
+27,2,Bulgaria,2017,sweden
+28,2,San Marino,2017,sweden
+29,1,Slovenia,2017,sweden
+30,1,Portugal,2017,sweden
+31,1,Georgia,2017,sweden
+32,1,Serbia,2017,sweden
+33,1,Austria,2017,sweden
+34,1,Switzerland,2017,sweden
+35,126,points received from televoters,2017,sweden
+0,3,France,2017,israel
+1,1,North Macedonia,2017,israel
+2,1,Azerbaijan,2017,israel
+3,5,points received from televoters,2017,israel
+0,12,Cyprus,2017,greece
+1,7,Moldova,2017,greece
+2,5,Bulgaria,2017,greece
+3,3,Albania,2017,greece
+4,1,Romania,2017,greece
+5,1,Armenia,2017,greece
+6,29,points received from televoters,2017,greece
+0,12,The Netherlands,2017,portugal
+1,12,France,2017,portugal
+2,12,Israel,2017,portugal
+3,12,Lithuania,2017,portugal
+4,12,Norway,2017,portugal
+5,12,Finland,2017,portugal
+6,12,Iceland,2017,portugal
+7,12,Germany,2017,portugal
+8,12,Austria,2017,portugal
+9,12,Switzerland,2017,portugal
+10,12,Belgium,2017,portugal
+11,12,Spain,2017,portugal
+12,10,Croatia,2017,portugal
+13,10,Poland,2017,portugal
+14,10,Latvia,2017,portugal
+15,10,Armenia,2017,portugal
+16,10,Ukraine,2017,portugal
+17,10,Sweden,2017,portugal
+18,10,Ireland,2017,portugal
+19,10,Estonia,2017,portugal
+20,8,Albania,2017,portugal
+21,8,United Kingdom,2017,portugal
+22,8,Greece,2017,portugal
+23,8,Slovenia,2017,portugal
+24,8,Malta,2017,portugal
+25,8,Azerbaijan,2017,portugal
+26,8,Czech Republic,2017,portugal
+27,8,Georgia,2017,portugal
+28,8,Serbia,2017,portugal
+29,8,Montenegro,2017,portugal
+30,7,Cyprus,2017,portugal
+31,7,Belarus,2017,portugal
+32,7,Bulgaria,2017,portugal
+33,7,North Macedonia,2017,portugal
+34,7,Romania,2017,portugal
+35,7,Australia,2017,portugal
+36,7,San Marino,2017,portugal
+37,7,Hungary,2017,portugal
+38,6,Moldova,2017,portugal
+39,5,Denmark,2017,portugal
+40,5,Italy,2017,portugal
+41,376,points received from televoters,2017,portugal
+0,7,Denmark,2017,norway
+1,6,Lithuania,2017,norway
+2,6,Sweden,2017,norway
+3,5,Belarus,2017,norway
+4,2,Finland,2017,norway
+5,1,Latvia,2017,norway
+6,1,Iceland,2017,norway
+7,1,Ukraine,2017,norway
+8,29,points received from televoters,2017,norway
+0,12,Portugal,2017,finland
+1,10,Belgium,2017,finland
+2,8,Italy,2017,finland
+3,7,Bulgaria,2017,finland
+4,6,Sweden,2017,finland
+5,5,Moldova,2017,finland
+6,4,Hungary,2017,finland
+7,3,Romania,2017,finland
+8,2,Norway,2017,finland
+9,1,France,2017,finland
+0,12,Croatia,2017,slovenia
+1,10,Italy,2017,slovenia
+2,8,Portugal,2017,slovenia
+3,7,Bulgaria,2017,slovenia
+4,6,Belgium,2017,slovenia
+5,5,Hungary,2017,slovenia
+6,4,Azerbaijan,2017,slovenia
+7,3,Moldova,2017,slovenia
+8,2,Romania,2017,slovenia
+9,1,Sweden,2017,slovenia
+0,12,Slovenia,2017,croatia
+1,12,Montenegro,2017,croatia
+2,10,North Macedonia,2017,croatia
+3,8,Germany,2017,croatia
+4,8,Switzerland,2017,croatia
+5,7,Albania,2017,croatia
+6,6,Italy,2017,croatia
+7,5,United Kingdom,2017,croatia
+8,5,Hungary,2017,croatia
+9,5,Serbia,2017,croatia
+10,4,Austria,2017,croatia
+11,3,Romania,2017,croatia
+12,3,Malta,2017,croatia
+13,3,Ireland,2017,croatia
+14,3,San Marino,2017,croatia
+15,3,The Netherlands,2017,croatia
+16,2,Sweden,2017,croatia
+17,1,Bulgaria,2017,croatia
+18,1,Poland,2017,croatia
+19,1,Norway,2017,croatia
+20,1,Australia,2017,croatia
+21,103,points received from televoters,2017,croatia
+0,12,Belgium,2017,estonia
+1,10,Portugal,2017,estonia
+2,8,Hungary,2017,estonia
+3,7,Bulgaria,2017,estonia
+4,6,Romania,2017,estonia
+5,5,Italy,2017,estonia
+6,4,Moldova,2017,estonia
+7,3,Sweden,2017,estonia
+8,2,Belarus,2017,estonia
+9,1,France,2017,estonia
+0,12,Bulgaria,2017,fyr-macedonia
+1,10,Croatia,2017,fyr-macedonia
+2,8,Italy,2017,fyr-macedonia
+3,7,Portugal,2017,fyr-macedonia
+4,6,France,2017,fyr-macedonia
+5,5,Sweden,2017,fyr-macedonia
+6,4,Belgium,2017,fyr-macedonia
+7,3,Hungary,2017,fyr-macedonia
+8,2,Moldova,2017,fyr-macedonia
+9,1,Israel,2017,fyr-macedonia
+0,12,Croatia,2017,hungary
+1,12,Serbia,2017,hungary
+2,10,Romania,2017,hungary
+3,8,Estonia,2017,hungary
+4,8,Belarus,2017,hungary
+5,7,Montenegro,2017,hungary
+6,7,Azerbaijan,2017,hungary
+7,6,Albania,2017,hungary
+8,6,The Netherlands,2017,hungary
+9,6,Bulgaria,2017,hungary
+10,5,Poland,2017,hungary
+11,5,Austria,2017,hungary
+12,5,Switzerland,2017,hungary
+13,5,Slovenia,2017,hungary
+14,4,San Marino,2017,hungary
+15,4,Sweden,2017,hungary
+16,4,Norway,2017,hungary
+17,4,Finland,2017,hungary
+18,4,Ukraine,2017,hungary
+19,4,Italy,2017,hungary
+20,3,Denmark,2017,hungary
+21,3,Germany,2017,hungary
+22,3,North Macedonia,2017,hungary
+23,2,Latvia,2017,hungary
+24,2,France,2017,hungary
+25,2,Lithuania,2017,hungary
+26,2,Malta,2017,hungary
+27,2,Iceland,2017,hungary
+28,2,Ireland,2017,hungary
+29,2,Portugal,2017,hungary
+30,1,Belgium,2017,hungary
+31,1,United Kingdom,2017,hungary
+32,1,Israel,2017,hungary
+33,152,points received from televoters,2017,hungary
+0,12,Belgium,2017,latvia
+1,10,Portugal,2017,latvia
+2,8,Moldova,2017,latvia
+3,7,Bulgaria,2017,latvia
+4,6,Belarus,2017,latvia
+5,5,Romania,2017,latvia
+6,4,Sweden,2017,latvia
+7,3,Italy,2017,latvia
+8,2,Hungary,2017,latvia
+9,1,Norway,2017,latvia
+0,12,Portugal,2017,lithuania
+1,10,Belgium,2017,lithuania
+2,8,Moldova,2017,lithuania
+3,7,Bulgaria,2017,lithuania
+4,6,Norway,2017,lithuania
+5,5,Italy,2017,lithuania
+6,4,Romania,2017,lithuania
+7,3,Sweden,2017,lithuania
+8,2,Hungary,2017,lithuania
+9,1,Belarus,2017,lithuania
+0,12,Italy,2017,malta
+1,10,Bulgaria,2017,malta
+2,8,Portugal,2017,malta
+3,7,Sweden,2017,malta
+4,6,Romania,2017,malta
+5,5,Belgium,2017,malta
+6,4,United Kingdom,2017,malta
+7,3,Croatia,2017,malta
+8,2,Hungary,2017,malta
+9,1,Moldova,2017,malta
+0,10,United Kingdom,2017,poland
+1,7,Ireland,2017,poland
+2,5,Sweden,2017,poland
+3,4,Belgium,2017,poland
+4,3,Italy,2017,poland
+5,3,Iceland,2017,poland
+6,3,Norway,2017,poland
+7,2,Germany,2017,poland
+8,2,Austria,2017,poland
+9,1,The Netherlands,2017,poland
+10,1,France,2017,poland
+11,41,points received from televoters,2017,poland
+0,12,Ireland,2017,romania
+1,12,Moldova,2017,romania
+2,10,Italy,2017,romania
+3,10,France,2017,romania
+4,10,Austria,2017,romania
+5,10,Norway,2017,romania
+6,10,Australia,2017,romania
+7,8,Bulgaria,2017,romania
+8,7,Portugal,2017,romania
+9,7,Spain,2017,romania
+10,7,Israel,2017,romania
+11,7,The Netherlands,2017,romania
+12,7,Poland,2017,romania
+13,7,United Kingdom,2017,romania
+14,6,Germany,2017,romania
+15,6,Belgium,2017,romania
+16,6,San Marino,2017,romania
+17,6,Croatia,2017,romania
+18,6,Estonia,2017,romania
+19,6,Hungary,2017,romania
+20,6,Malta,2017,romania
+21,6,Czech Republic,2017,romania
+22,5,Iceland,2017,romania
+23,5,Latvia,2017,romania
+24,4,Lithuania,2017,romania
+25,4,Cyprus,2017,romania
+26,4,Serbia,2017,romania
+27,4,Switzerland,2017,romania
+28,4,Denmark,2017,romania
+29,4,Albania,2017,romania
+30,3,Finland,2017,romania
+31,3,Sweden,2017,romania
+32,3,Ukraine,2017,romania
+33,2,Armenia,2017,romania
+34,2,Azerbaijan,2017,romania
+35,2,Belarus,2017,romania
+36,2,Slovenia,2017,romania
+37,1,Greece,2017,romania
+38,224,points received from televoters,2017,romania
+0,12,Georgia,2017,azerbaijan
+1,10,Moldova,2017,azerbaijan
+2,10,Czech Republic,2017,azerbaijan
+3,5,Montenegro,2017,azerbaijan
+4,4,Slovenia,2017,azerbaijan
+5,1,San Marino,2017,azerbaijan
+6,42,points received from televoters,2017,azerbaijan
+0,7,Italy,2017,ukraine
+1,7,Czech Republic,2017,ukraine
+2,4,Georgia,2017,ukraine
+3,3,Portugal,2017,ukraine
+4,2,Poland,2017,ukraine
+5,1,Belarus,2017,ukraine
+6,24,points received from televoters,2017,ukraine
+0,12,Italy,2017,albania
+1,10,Bulgaria,2017,albania
+2,8,Portugal,2017,albania
+3,7,Croatia,2017,albania
+4,6,Hungary,2017,albania
+5,5,Belgium,2017,albania
+6,4,Romania,2017,albania
+7,3,Greece,2017,albania
+8,2,Sweden,2017,albania
+9,1,France,2017,albania
+0,8,Ukraine,2017,belarus
+1,6,Georgia,2017,belarus
+2,6,Latvia,2017,belarus
+3,4,Poland,2017,belarus
+4,3,Czech Republic,2017,belarus
+5,2,Israel,2017,belarus
+6,2,Estonia,2017,belarus
+7,1,Lithuania,2017,belarus
+8,1,Moldova,2017,belarus
+9,33,points received from televoters,2017,belarus
+0,12,Hungary,2017,bulgaria
+1,12,Azerbaijan,2017,bulgaria
+2,12,San Marino,2017,bulgaria
+3,12,North Macedonia,2017,bulgaria
+4,12,United Kingdom,2017,bulgaria
+5,12,Czech Republic,2017,bulgaria
+6,12,Belarus,2017,bulgaria
+7,10,Greece,2017,bulgaria
+8,10,Israel,2017,bulgaria
+9,10,Spain,2017,bulgaria
+10,10,Denmark,2017,bulgaria
+11,10,Albania,2017,bulgaria
+12,10,Cyprus,2017,bulgaria
+13,10,Serbia,2017,bulgaria
+14,10,Malta,2017,bulgaria
+15,8,Belgium,2017,bulgaria
+16,8,Italy,2017,bulgaria
+17,8,The Netherlands,2017,bulgaria
+18,8,Portugal,2017,bulgaria
+19,8,Norway,2017,bulgaria
+20,8,Croatia,2017,bulgaria
+21,8,Poland,2017,bulgaria
+22,8,Romania,2017,bulgaria
+23,8,Moldova,2017,bulgaria
+24,7,Latvia,2017,bulgaria
+25,7,Lithuania,2017,bulgaria
+26,7,Sweden,2017,bulgaria
+27,7,Austria,2017,bulgaria
+28,7,Armenia,2017,bulgaria
+29,7,Georgia,2017,bulgaria
+30,7,Estonia,2017,bulgaria
+31,7,Slovenia,2017,bulgaria
+32,7,Finland,2017,bulgaria
+33,6,Switzerland,2017,bulgaria
+34,6,Ireland,2017,bulgaria
+35,6,Montenegro,2017,bulgaria
+36,5,Germany,2017,bulgaria
+37,5,Australia,2017,bulgaria
+38,4,Iceland,2017,bulgaria
+39,4,France,2017,bulgaria
+40,2,Ukraine,2017,bulgaria
+41,337,points received from televoters,2017,bulgaria
+0,12,Italy,2017,moldova
+1,12,Portugal,2017,moldova
+2,12,Romania,2017,moldova
+3,12,Ukraine,2017,moldova
+4,12,Australia,2017,moldova
+5,10,Hungary,2017,moldova
+6,10,Belarus,2017,moldova
+7,10,Azerbaijan,2017,moldova
+8,10,Bulgaria,2017,moldova
+9,8,Sweden,2017,moldova
+10,8,San Marino,2017,moldova
+11,8,Lithuania,2017,moldova
+12,8,Latvia,2017,moldova
+13,8,Denmark,2017,moldova
+14,8,Ireland,2017,moldova
+15,7,Serbia,2017,moldova
+16,7,Belgium,2017,moldova
+17,7,France,2017,moldova
+18,7,Germany,2017,moldova
+19,6,United Kingdom,2017,moldova
+20,6,Cyprus,2017,moldova
+21,6,Greece,2017,moldova
+22,6,Norway,2017,moldova
+23,6,Poland,2017,moldova
+24,6,Armenia,2017,moldova
+25,6,Iceland,2017,moldova
+26,6,Spain,2017,moldova
+27,5,The Netherlands,2017,moldova
+28,5,Finland,2017,moldova
+29,5,Israel,2017,moldova
+30,5,Czech Republic,2017,moldova
+31,4,Estonia,2017,moldova
+32,4,Croatia,2017,moldova
+33,3,Slovenia,2017,moldova
+34,3,Montenegro,2017,moldova
+35,3,Austria,2017,moldova
+36,2,North Macedonia,2017,moldova
+37,1,Malta,2017,moldova
+38,264,points received from televoters,2017,moldova
+0,12,Bulgaria,2017,czech-republic
+1,10,Azerbaijan,2017,czech-republic
+2,8,Portugal,2017,czech-republic
+3,7,Ukraine,2017,czech-republic
+4,6,Romania,2017,czech-republic
+5,5,Moldova,2017,czech-republic
+6,4,Belgium,2017,czech-republic
+7,3,Belarus,2017,czech-republic
+8,2,Armenia,2017,czech-republic
+9,1,Italy,2017,czech-republic
+0,10,Georgia,2017,armenia
+1,6,France,2017,armenia
+2,2,Greece,2017,armenia
+3,2,Czech Republic,2017,armenia
+4,1,Cyprus,2017,armenia
+5,21,points received from televoters,2017,armenia
+0,12,Azerbaijan,2017,georgia
+1,10,Armenia,2017,georgia
+2,8,Portugal,2017,georgia
+3,7,Bulgaria,2017,georgia
+4,6,Belarus,2017,georgia
+5,5,Italy,2017,georgia
+6,4,Ukraine,2017,georgia
+7,3,France,2017,georgia
+8,2,Cyprus,2017,georgia
+9,1,Sweden,2017,georgia
+0,12,Hungary,2017,serbia
+1,10,Bulgaria,2017,serbia
+2,8,Portugal,2017,serbia
+3,7,Moldova,2017,serbia
+4,6,Italy,2017,serbia
+5,5,Croatia,2017,serbia
+6,4,Romania,2017,serbia
+7,3,Belgium,2017,serbia
+8,2,France,2017,serbia
+9,1,Sweden,2017,serbia
+0,12,Croatia,2017,montenegro
+1,10,Italy,2017,montenegro
+2,8,Portugal,2017,montenegro
+3,7,Hungary,2017,montenegro
+4,6,Bulgaria,2017,montenegro
+5,5,Azerbaijan,2017,montenegro
+6,4,Belgium,2017,montenegro
+7,3,Moldova,2017,montenegro
+8,2,France,2017,montenegro
+9,1,Cyprus,2017,montenegro
+0,12,Bulgaria,2017,san-marino
+1,10,Italy,2017,san-marino
+2,8,Moldova,2017,san-marino
+3,7,Portugal,2017,san-marino
+4,6,Romania,2017,san-marino
+5,5,Belgium,2017,san-marino
+6,4,Hungary,2017,san-marino
+7,3,Croatia,2017,san-marino
+8,2,Sweden,2017,san-marino
+9,1,Azerbaijan,2017,san-marino
+0,2,Denmark,2017,australia
+1,2,points received from televoters,2017,australia

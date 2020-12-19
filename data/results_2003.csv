@@ -1,0 +1,287 @@
+,pts,pts_from,year,points_to
+0,12,Turkey,2003,bosnia-herzegovina
+1,8,Croatia,2003,bosnia-herzegovina
+2,7,Austria,2003,bosnia-herzegovina
+3,27,points received,2003,bosnia-herzegovina
+0,8,Slovenia,2003,croatia
+1,6,Ireland,2003,croatia
+2,6,Bosnia & Herzegovina,2003,croatia
+3,5,Austria,2003,croatia
+4,3,Turkey,2003,croatia
+5,1,Greece,2003,croatia
+6,29,points received,2003,croatia
+0,8,Bosnia & Herzegovina,2003,france
+1,6,Romania,2003,france
+2,3,Poland,2003,france
+3,2,Portugal,2003,france
+4,19,points received,2003,france
+0,12,Malta,2003,iceland
+1,12,Norway,2003,iceland
+2,8,Turkey,2003,iceland
+3,7,Sweden,2003,iceland
+4,7,Ireland,2003,iceland
+5,6,Croatia,2003,iceland
+6,6,The Netherlands,2003,iceland
+7,5,Cyprus,2003,iceland
+8,4,Ukraine,2003,iceland
+9,4,Slovenia,2003,iceland
+10,3,Belgium,2003,iceland
+11,3,Latvia,2003,iceland
+12,1,Estonia,2003,iceland
+13,1,Germany,2003,iceland
+14,1,Poland,2003,iceland
+15,1,France,2003,iceland
+16,81,points received,2003,iceland
+0,12,Portugal,2003,spain
+1,12,Israel,2003,spain
+2,10,Belgium,2003,spain
+3,7,Croatia,2003,spain
+4,6,Russia,2003,spain
+5,6,Cyprus,2003,spain
+6,6,Iceland,2003,spain
+7,5,Greece,2003,spain
+8,5,The Netherlands,2003,spain
+9,5,Romania,2003,spain
+10,4,Sweden,2003,spain
+11,2,Turkey,2003,spain
+12,1,Slovenia,2003,spain
+13,81,points received,2003,spain
+0,0,points received,2003,united-kingdom
+0,10,Sweden,2003,germany
+1,8,Iceland,2003,germany
+2,7,Russia,2003,germany
+3,5,Poland,2003,germany
+4,4,United Kingdom,2003,germany
+5,4,Spain,2003,germany
+6,4,Ireland,2003,germany
+7,3,Malta,2003,germany
+8,2,Estonia,2003,germany
+9,2,Latvia,2003,germany
+10,2,The Netherlands,2003,germany
+11,1,Austria,2003,germany
+12,1,Romania,2003,germany
+13,53,points received,2003,germany
+0,10,Iceland,2003,austria
+1,10,Portugal,2003,austria
+2,8,The Netherlands,2003,austria
+3,8,United Kingdom,2003,austria
+4,8,Spain,2003,austria
+5,8,Norway,2003,austria
+6,7,Slovenia,2003,austria
+7,6,Turkey,2003,austria
+8,6,Sweden,2003,austria
+9,6,Estonia,2003,austria
+10,5,Bosnia & Herzegovina,2003,austria
+11,5,Croatia,2003,austria
+12,4,Cyprus,2003,austria
+13,4,Latvia,2003,austria
+14,2,Germany,2003,austria
+15,2,Greece,2003,austria
+16,2,Belgium,2003,austria
+17,101,points received,2003,austria
+0,12,Spain,2003,belgium
+1,12,Poland,2003,belgium
+2,12,France,2003,belgium
+3,10,Ukraine,2003,belgium
+4,10,Ireland,2003,belgium
+5,10,The Netherlands,2003,belgium
+6,10,Bosnia & Herzegovina,2003,belgium
+7,10,Latvia,2003,belgium
+8,8,Israel,2003,belgium
+9,8,Estonia,2003,belgium
+10,8,Greece,2003,belgium
+11,8,Romania,2003,belgium
+12,7,Iceland,2003,belgium
+13,7,Turkey,2003,belgium
+14,6,Portugal,2003,belgium
+15,6,Germany,2003,belgium
+16,5,United Kingdom,2003,belgium
+17,4,Austria,2003,belgium
+18,3,Cyprus,2003,belgium
+19,3,Norway,2003,belgium
+20,3,Slovenia,2003,belgium
+21,3,Russia,2003,belgium
+22,165,points received,2003,belgium
+0,12,Greece,2003,cyprus
+1,2,Malta,2003,cyprus
+2,1,Israel,2003,cyprus
+3,15,points received,2003,cyprus
+0,10,Russia,2003,the-netherlands
+1,8,Belgium,2003,the-netherlands
+2,7,Malta,2003,the-netherlands
+3,5,Ireland,2003,the-netherlands
+4,5,Sweden,2003,the-netherlands
+5,5,Norway,2003,the-netherlands
+6,2,Bosnia & Herzegovina,2003,the-netherlands
+7,2,Israel,2003,the-netherlands
+8,1,United Kingdom,2003,the-netherlands
+9,45,points received,2003,the-netherlands
+0,8,France,2003,israel
+1,5,Russia,2003,israel
+2,3,Greece,2003,israel
+3,1,Spain,2003,israel
+4,17,points received,2003,israel
+0,6,France,2003,portugal
+1,3,Ukraine,2003,portugal
+2,2,Ireland,2003,portugal
+3,2,Spain,2003,portugal
+4,13,points received,2003,portugal
+0,12,Ireland,2003,norway
+1,12,Iceland,2003,norway
+2,12,Sweden,2003,norway
+3,10,Estonia,2003,norway
+4,7,The Netherlands,2003,norway
+5,7,Germany,2003,norway
+6,7,Ukraine,2003,norway
+7,7,Latvia,2003,norway
+8,6,Malta,2003,norway
+9,6,United Kingdom,2003,norway
+10,6,Belgium,2003,norway
+11,6,Poland,2003,norway
+12,5,Portugal,2003,norway
+13,5,Slovenia,2003,norway
+14,4,Russia,2003,norway
+15,3,Israel,2003,norway
+16,3,France,2003,norway
+17,3,Romania,2003,norway
+18,2,Austria,2003,norway
+19,123,points received,2003,norway
+0,4,Bosnia & Herzegovina,2003,slovenia
+1,3,Croatia,2003,slovenia
+2,7,points received,2003,slovenia
+0,8,Ireland,2003,estonia
+1,3,United Kingdom,2003,estonia
+2,2,Russia,2003,estonia
+3,1,Iceland,2003,estonia
+4,14,points received,2003,estonia
+0,5,Estonia,2003,latvia
+1,5,points received,2003,latvia
+0,3,Ireland,2003,malta
+1,1,Portugal,2003,malta
+2,4,points received,2003,malta
+0,12,Germany,2003,poland
+1,10,Malta,2003,poland
+2,10,Austria,2003,poland
+3,8,Latvia,2003,poland
+4,8,Ukraine,2003,poland
+5,6,Greece,2003,poland
+6,5,France,2003,poland
+7,5,Spain,2003,poland
+8,5,Belgium,2003,poland
+9,4,Norway,2003,poland
+10,4,Estonia,2003,poland
+11,4,The Netherlands,2003,poland
+12,4,Romania,2003,poland
+13,3,Sweden,2003,poland
+14,2,United Kingdom,2003,poland
+15,90,points received,2003,poland
+0,12,Russia,2003,romania
+1,10,Spain,2003,romania
+2,8,Poland,2003,romania
+3,7,Bosnia & Herzegovina,2003,romania
+4,6,Ukraine,2003,romania
+5,6,Austria,2003,romania
+6,6,Israel,2003,romania
+7,4,Greece,2003,romania
+8,4,Germany,2003,romania
+9,4,France,2003,romania
+10,2,Cyprus,2003,romania
+11,1,Turkey,2003,romania
+12,1,Norway,2003,romania
+13,1,Sweden,2003,romania
+14,1,Croatia,2003,romania
+15,73,points received,2003,romania
+0,10,Poland,2003,ukraine
+1,8,Russia,2003,ukraine
+2,5,Latvia,2003,ukraine
+3,4,Israel,2003,ukraine
+4,3,Estonia,2003,ukraine
+5,30,points received,2003,ukraine
+0,12,Romania,2003,sweden
+1,10,United Kingdom,2003,sweden
+2,8,Malta,2003,sweden
+3,7,Estonia,2003,sweden
+4,7,Poland,2003,sweden
+5,7,Spain,2003,sweden
+6,7,Norway,2003,sweden
+7,6,Slovenia,2003,sweden
+8,6,Latvia,2003,sweden
+9,5,Israel,2003,sweden
+10,5,Ukraine,2003,sweden
+11,5,Iceland,2003,sweden
+12,4,Belgium,2003,sweden
+13,3,Portugal,2003,sweden
+14,3,Germany,2003,sweden
+15,3,Austria,2003,sweden
+16,3,The Netherlands,2003,sweden
+17,2,Croatia,2003,sweden
+18,2,France,2003,sweden
+19,1,Bosnia & Herzegovina,2003,sweden
+20,1,Cyprus,2003,sweden
+21,107,points received,2003,sweden
+0,12,Bosnia & Herzegovina,2003,turkey
+1,12,Austria,2003,turkey
+2,12,Belgium,2003,turkey
+3,12,The Netherlands,2003,turkey
+4,10,Norway,2003,turkey
+5,10,Slovenia,2003,turkey
+6,10,Romania,2003,turkey
+7,10,Germany,2003,turkey
+8,10,France,2003,turkey
+9,10,Croatia,2003,turkey
+10,8,Portugal,2003,turkey
+11,8,Cyprus,2003,turkey
+12,8,Sweden,2003,turkey
+13,7,Israel,2003,turkey
+14,7,United Kingdom,2003,turkey
+15,7,Greece,2003,turkey
+16,4,Malta,2003,turkey
+17,3,Spain,2003,turkey
+18,3,Iceland,2003,turkey
+19,2,Poland,2003,turkey
+20,2,Ukraine,2003,turkey
+21,167,points received,2003,turkey
+0,12,Cyprus,2003,greece
+1,5,Germany,2003,greece
+2,4,Turkey,2003,greece
+3,2,Romania,2003,greece
+4,1,Ireland,2003,greece
+5,1,Russia,2003,greece
+6,25,points received,2003,greece
+0,12,Slovenia,2003,russia
+1,12,Ukraine,2003,russia
+2,12,Latvia,2003,russia
+3,12,Estonia,2003,russia
+4,12,Croatia,2003,russia
+5,10,Greece,2003,russia
+6,10,Cyprus,2003,russia
+7,10,Turkey,2003,russia
+8,10,Israel,2003,russia
+9,8,Germany,2003,russia
+10,8,Austria,2003,russia
+11,7,Romania,2003,russia
+12,7,France,2003,russia
+13,7,Belgium,2003,russia
+14,6,Spain,2003,russia
+15,4,Poland,2003,russia
+16,4,Portugal,2003,russia
+17,4,Iceland,2003,russia
+18,3,Bosnia & Herzegovina,2003,russia
+19,2,Norway,2003,russia
+20,2,Sweden,2003,russia
+21,1,The Netherlands,2003,russia
+22,1,Malta,2003,russia
+23,164,points received,2003,russia
+0,12,United Kingdom,2003,ireland
+1,7,Cyprus,2003,ireland
+2,7,Portugal,2003,ireland
+3,6,Norway,2003,ireland
+4,5,Turkey,2003,ireland
+5,5,Malta,2003,ireland
+6,4,Croatia,2003,ireland
+7,2,Iceland,2003,ireland
+8,2,Slovenia,2003,ireland
+9,1,Latvia,2003,ireland
+10,1,Belgium,2003,ireland
+11,1,Ukraine,2003,ireland
+12,53,points received,2003,ireland

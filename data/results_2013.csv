@@ -1,0 +1,547 @@
+,pts,pts_from,year,points_to
+0,8,San Marino,2013,france
+1,2,Iceland,2013,france
+2,2,Armenia,2013,france
+3,1,Cyprus,2013,france
+4,1,North Macedonia,2013,france
+5,14,points received,2013,france
+0,12,Germany,2013,hungary
+1,10,Finland,2013,hungary
+2,10,Switzerland,2013,hungary
+3,8,Albania,2013,hungary
+4,7,The Netherlands,2013,hungary
+5,6,San Marino,2013,hungary
+6,6,Bulgaria,2013,hungary
+7,5,Lithuania,2013,hungary
+8,4,Croatia,2013,hungary
+9,4,Estonia,2013,hungary
+10,3,Italy,2013,hungary
+11,3,Sweden,2013,hungary
+12,2,Norway,2013,hungary
+13,2,Serbia,2013,hungary
+14,2,Greece,2013,hungary
+15,84,points received,2013,hungary
+0,10,Italy,2013,malta
+1,10,Norway,2013,malta
+2,10,San Marino,2013,malta
+3,8,Hungary,2013,malta
+4,8,Azerbaijan,2013,malta
+5,8,The Netherlands,2013,malta
+6,7,Belarus,2013,malta
+7,7,United Kingdom,2013,malta
+8,6,Armenia,2013,malta
+9,5,Romania,2013,malta
+10,5,Germany,2013,malta
+11,5,Estonia,2013,malta
+12,5,Iceland,2013,malta
+13,5,Latvia,2013,malta
+14,4,Denmark,2013,malta
+15,3,North Macedonia,2013,malta
+16,3,Cyprus,2013,malta
+17,3,Greece,2013,malta
+18,3,Georgia,2013,malta
+19,2,Ukraine,2013,malta
+20,2,France,2013,malta
+21,1,Spain,2013,malta
+22,120,points received,2013,malta
+0,12,Latvia,2013,russia
+1,12,Estonia,2013,russia
+2,10,Ireland,2013,russia
+3,10,Slovenia,2013,russia
+4,10,United Kingdom,2013,russia
+5,8,Belarus,2013,russia
+6,8,Serbia,2013,russia
+7,7,Montenegro,2013,russia
+8,7,Denmark,2013,russia
+9,7,Israel,2013,russia
+10,7,Lithuania,2013,russia
+11,7,Moldova,2013,russia
+12,7,Armenia,2013,russia
+13,6,Georgia,2013,russia
+14,6,Croatia,2013,russia
+15,6,France,2013,russia
+16,6,North Macedonia,2013,russia
+17,6,Spain,2013,russia
+18,5,Cyprus,2013,russia
+19,5,Bulgaria,2013,russia
+20,5,Sweden,2013,russia
+21,4,Belgium,2013,russia
+22,4,The Netherlands,2013,russia
+23,4,Ukraine,2013,russia
+24,2,Finland,2013,russia
+25,2,Germany,2013,russia
+26,1,Iceland,2013,russia
+27,174,points received,2013,russia
+0,12,Azerbaijan,2013,ukraine
+1,12,Croatia,2013,ukraine
+2,12,Moldova,2013,ukraine
+3,12,Armenia,2013,ukraine
+4,12,Belarus,2013,ukraine
+5,10,Serbia,2013,ukraine
+6,10,Spain,2013,ukraine
+7,10,Cyprus,2013,ukraine
+8,10,Israel,2013,ukraine
+9,10,Estonia,2013,ukraine
+10,10,Lithuania,2013,ukraine
+11,10,Malta,2013,ukraine
+12,10,Bulgaria,2013,ukraine
+13,8,Belgium,2013,ukraine
+14,8,Greece,2013,ukraine
+15,8,Ireland,2013,ukraine
+16,8,Georgia,2013,ukraine
+17,7,Hungary,2013,ukraine
+18,7,Latvia,2013,ukraine
+19,5,Italy,2013,ukraine
+20,5,United Kingdom,2013,ukraine
+21,5,The Netherlands,2013,ukraine
+22,4,Romania,2013,ukraine
+23,3,Iceland,2013,ukraine
+24,3,Denmark,2013,ukraine
+25,1,Norway,2013,ukraine
+26,1,Russia,2013,ukraine
+27,1,Austria,2013,ukraine
+28,214,points received,2013,ukraine
+0,12,Ukraine,2013,belarus
+1,7,Azerbaijan,2013,belarus
+2,5,Georgia,2013,belarus
+3,5,North Macedonia,2013,belarus
+4,5,Armenia,2013,belarus
+5,4,Moldova,2013,belarus
+6,3,Montenegro,2013,belarus
+7,3,Israel,2013,belarus
+8,2,Malta,2013,belarus
+9,1,Lithuania,2013,belarus
+10,1,Greece,2013,belarus
+11,48,points received,2013,belarus
+0,12,Azerbaijan,2013,bulgaria
+1,10,Ukraine,2013,bulgaria
+2,8,Armenia,2013,bulgaria
+3,7,Greece,2013,bulgaria
+4,6,Hungary,2013,bulgaria
+5,5,Russia,2013,bulgaria
+6,4,Sweden,2013,bulgaria
+7,3,Moldova,2013,bulgaria
+8,2,Denmark,2013,bulgaria
+9,1,Norway,2013,bulgaria
+0,12,Romania,2013,moldova
+1,8,Ukraine,2013,moldova
+2,7,North Macedonia,2013,moldova
+3,6,Serbia,2013,moldova
+4,6,Russia,2013,moldova
+5,5,Montenegro,2013,moldova
+6,4,France,2013,moldova
+7,4,Belarus,2013,moldova
+8,4,Italy,2013,moldova
+9,3,Ireland,2013,moldova
+10,3,Belgium,2013,moldova
+11,3,Bulgaria,2013,moldova
+12,2,Austria,2013,moldova
+13,2,Spain,2013,moldova
+14,1,Azerbaijan,2013,moldova
+15,1,Israel,2013,moldova
+16,71,points received,2013,moldova
+0,10,Armenia,2013,georgia
+1,10,Azerbaijan,2013,georgia
+2,8,Lithuania,2013,georgia
+3,7,Ukraine,2013,georgia
+4,5,Greece,2013,georgia
+5,5,Russia,2013,georgia
+6,3,Moldova,2013,georgia
+7,2,Montenegro,2013,georgia
+8,50,points received,2013,georgia
+0,12,Greece,2013,san-marino
+1,10,Malta,2013,san-marino
+2,8,France,2013,san-marino
+3,7,Norway,2013,san-marino
+4,6,Hungary,2013,san-marino
+5,5,Belgium,2013,san-marino
+6,4,Italy,2013,san-marino
+7,3,Finland,2013,san-marino
+8,2,Azerbaijan,2013,san-marino
+9,1,Armenia,2013,san-marino
+0,2,Cyprus,2013,ireland
+1,2,Sweden,2013,ireland
+2,1,United Kingdom,2013,ireland
+3,5,points received,2013,ireland
+0,8,Germany,2013,iceland
+1,6,Hungary,2013,iceland
+2,6,Sweden,2013,iceland
+3,6,Estonia,2013,iceland
+4,5,Finland,2013,iceland
+5,5,Switzerland,2013,iceland
+6,4,Norway,2013,iceland
+7,4,Slovenia,2013,iceland
+8,2,United Kingdom,2013,iceland
+9,1,Denmark,2013,iceland
+10,47,points received,2013,iceland
+0,7,Ireland,2013,united-kingdom
+1,5,Malta,2013,united-kingdom
+2,4,Spain,2013,united-kingdom
+3,3,Romania,2013,united-kingdom
+4,2,Switzerland,2013,united-kingdom
+5,1,Sweden,2013,united-kingdom
+6,1,Slovenia,2013,united-kingdom
+7,23,points received,2013,united-kingdom
+0,12,North Macedonia,2013,denmark
+1,12,Ireland,2013,denmark
+2,12,Slovenia,2013,denmark
+3,12,Iceland,2013,denmark
+4,12,Italy,2013,denmark
+5,12,United Kingdom,2013,denmark
+6,12,France,2013,denmark
+7,12,Serbia,2013,denmark
+8,10,Montenegro,2013,denmark
+9,10,Germany,2013,denmark
+10,10,Belgium,2013,denmark
+11,10,The Netherlands,2013,denmark
+12,10,Sweden,2013,denmark
+13,10,Croatia,2013,denmark
+14,10,Hungary,2013,denmark
+15,8,Israel,2013,denmark
+16,8,Estonia,2013,denmark
+17,8,Spain,2013,denmark
+18,7,Norway,2013,denmark
+19,7,Finland,2013,denmark
+20,7,Cyprus,2013,denmark
+21,7,Georgia,2013,denmark
+22,7,Greece,2013,denmark
+23,6,Romania,2013,denmark
+24,6,Malta,2013,denmark
+25,6,Latvia,2013,denmark
+26,6,Moldova,2013,denmark
+27,5,Ukraine,2013,denmark
+28,5,Austria,2013,denmark
+29,5,Azerbaijan,2013,denmark
+30,4,Armenia,2013,denmark
+31,4,Russia,2013,denmark
+32,3,Switzerland,2013,denmark
+33,2,Lithuania,2013,denmark
+34,2,Bulgaria,2013,denmark
+35,1,Belarus,2013,denmark
+36,1,Albania,2013,denmark
+37,281,points received,2013,denmark
+0,12,Azerbaijan,2013,austria
+1,10,Italy,2013,austria
+2,8,The Netherlands,2013,austria
+3,7,Greece,2013,austria
+4,6,Germany,2013,austria
+5,5,Denmark,2013,austria
+6,4,Romania,2013,austria
+7,3,Belgium,2013,austria
+8,2,Moldova,2013,austria
+9,1,Ukraine,2013,austria
+0,12,Italy,2013,switzerland
+1,10,Hungary,2013,switzerland
+2,8,Greece,2013,switzerland
+3,7,Norway,2013,switzerland
+4,6,Azerbaijan,2013,switzerland
+5,5,Iceland,2013,switzerland
+6,4,The Netherlands,2013,switzerland
+7,3,Denmark,2013,switzerland
+8,2,United Kingdom,2013,switzerland
+9,1,Germany,2013,switzerland
+0,12,The Netherlands,2013,belgium
+1,8,Russia,2013,belgium
+2,7,Sweden,2013,belgium
+3,5,France,2013,belgium
+4,5,Denmark,2013,belgium
+5,5,San Marino,2013,belgium
+6,4,Ireland,2013,belgium
+7,4,Hungary,2013,belgium
+8,3,Finland,2013,belgium
+9,3,Austria,2013,belgium
+10,3,Norway,2013,belgium
+11,3,Serbia,2013,belgium
+12,3,United Kingdom,2013,belgium
+13,2,Slovenia,2013,belgium
+14,2,Estonia,2013,belgium
+15,2,Latvia,2013,belgium
+16,71,points received,2013,belgium
+0,12,Norway,2013,sweden
+1,8,Denmark,2013,sweden
+2,6,Slovenia,2013,sweden
+3,5,Ireland,2013,sweden
+4,5,Moldova,2013,sweden
+5,4,Finland,2013,sweden
+6,4,Iceland,2013,sweden
+7,4,Latvia,2013,sweden
+8,4,Bulgaria,2013,sweden
+9,3,Germany,2013,sweden
+10,3,The Netherlands,2013,sweden
+11,1,Croatia,2013,sweden
+12,1,Estonia,2013,sweden
+13,1,Serbia,2013,sweden
+14,1,Belgium,2013,sweden
+15,62,points received,2013,sweden
+0,12,Sweden,2013,norway
+1,12,Denmark,2013,norway
+2,12,Finland,2013,norway
+3,10,Iceland,2013,norway
+4,8,Romania,2013,norway
+5,8,North Macedonia,2013,norway
+6,8,Italy,2013,norway
+7,8,Latvia,2013,norway
+8,7,San Marino,2013,norway
+9,7,Germany,2013,norway
+10,7,Switzerland,2013,norway
+11,7,Belgium,2013,norway
+12,7,Russia,2013,norway
+13,7,Serbia,2013,norway
+14,6,Lithuania,2013,norway
+15,6,Israel,2013,norway
+16,6,The Netherlands,2013,norway
+17,5,Spain,2013,norway
+18,5,Slovenia,2013,norway
+19,4,Montenegro,2013,norway
+20,4,Georgia,2013,norway
+21,4,Cyprus,2013,norway
+22,4,Greece,2013,norway
+23,3,Ukraine,2013,norway
+24,3,Estonia,2013,norway
+25,3,Malta,2013,norway
+26,3,Croatia,2013,norway
+27,3,Belarus,2013,norway
+28,3,Armenia,2013,norway
+29,2,Hungary,2013,norway
+30,2,Albania,2013,norway
+31,2,Azerbaijan,2013,norway
+32,2,Moldova,2013,norway
+33,1,Bulgaria,2013,norway
+34,191,points received,2013,norway
+0,4,Israel,2013,finland
+1,3,France,2013,finland
+2,3,San Marino,2013,finland
+3,2,Denmark,2013,finland
+4,1,Germany,2013,finland
+5,13,points received,2013,finland
+0,12,Denmark,2013,slovenia
+1,10,Russia,2013,slovenia
+2,8,Italy,2013,slovenia
+3,7,The Netherlands,2013,slovenia
+4,6,Sweden,2013,slovenia
+5,5,Norway,2013,slovenia
+6,4,Iceland,2013,slovenia
+7,3,Azerbaijan,2013,slovenia
+8,2,Belgium,2013,slovenia
+9,1,United Kingdom,2013,slovenia
+0,12,Ukraine,2013,croatia
+1,10,Denmark,2013,croatia
+2,8,Italy,2013,croatia
+3,7,Azerbaijan,2013,croatia
+4,6,Russia,2013,croatia
+5,5,Greece,2013,croatia
+6,4,Hungary,2013,croatia
+7,3,Norway,2013,croatia
+8,2,The Netherlands,2013,croatia
+9,1,Sweden,2013,croatia
+0,10,Latvia,2013,estonia
+1,6,Finland,2013,estonia
+2,3,Lithuania,2013,estonia
+3,19,points received,2013,estonia
+0,12,Denmark,2013,fyr-macedonia
+1,10,Italy,2013,fyr-macedonia
+2,8,Norway,2013,fyr-macedonia
+3,7,Moldova,2013,fyr-macedonia
+4,6,Russia,2013,fyr-macedonia
+5,5,Belarus,2013,fyr-macedonia
+6,4,Greece,2013,fyr-macedonia
+7,3,Malta,2013,fyr-macedonia
+8,2,The Netherlands,2013,fyr-macedonia
+9,1,France,2013,fyr-macedonia
+0,6,Italy,2013,lithuania
+1,5,Belarus,2013,lithuania
+2,3,Azerbaijan,2013,lithuania
+3,1,Ireland,2013,lithuania
+4,1,Ukraine,2013,lithuania
+5,1,Georgia,2013,lithuania
+6,17,points received,2013,lithuania
+0,10,Greece,2013,romania
+1,10,Moldova,2013,romania
+2,7,Malta,2013,romania
+3,6,Iceland,2013,romania
+4,6,Azerbaijan,2013,romania
+5,6,Norway,2013,romania
+6,5,Albania,2013,romania
+7,4,Sweden,2013,romania
+8,4,Austria,2013,romania
+9,4,United Kingdom,2013,romania
+10,1,Montenegro,2013,romania
+11,1,France,2013,romania
+12,1,Italy,2013,romania
+13,65,points received,2013,romania
+0,12,Italy,2013,albania
+1,10,Greece,2013,albania
+2,8,Hungary,2013,albania
+3,7,Azerbaijan,2013,albania
+4,6,Spain,2013,albania
+5,5,Romania,2013,albania
+6,4,The Netherlands,2013,albania
+7,3,Germany,2013,albania
+8,2,Norway,2013,albania
+9,1,Denmark,2013,albania
+0,12,Belgium,2013,the-netherlands
+1,10,Denmark,2013,the-netherlands
+2,8,Austria,2013,the-netherlands
+3,8,Norway,2013,the-netherlands
+4,8,Iceland,2013,the-netherlands
+5,8,Sweden,2013,the-netherlands
+6,8,Finland,2013,the-netherlands
+7,7,Estonia,2013,the-netherlands
+8,7,Slovenia,2013,the-netherlands
+9,6,Ireland,2013,the-netherlands
+10,6,United Kingdom,2013,the-netherlands
+11,5,Hungary,2013,the-netherlands
+12,4,Switzerland,2013,the-netherlands
+13,4,Albania,2013,the-netherlands
+14,4,Lithuania,2013,the-netherlands
+15,3,Russia,2013,the-netherlands
+16,2,Croatia,2013,the-netherlands
+17,2,Romania,2013,the-netherlands
+18,2,North Macedonia,2013,the-netherlands
+19,114,points received,2013,the-netherlands
+0,12,Russia,2013,latvia
+1,10,Estonia,2013,latvia
+2,8,Norway,2013,latvia
+3,7,Ukraine,2013,latvia
+4,6,Denmark,2013,latvia
+5,5,Malta,2013,latvia
+6,4,Sweden,2013,latvia
+7,3,Azerbaijan,2013,latvia
+8,2,Belgium,2013,latvia
+9,1,Greece,2013,latvia
+0,12,Denmark,2013,serbia
+1,10,Ukraine,2013,serbia
+2,8,Russia,2013,serbia
+3,7,Norway,2013,serbia
+4,6,Moldova,2013,serbia
+5,5,Azerbaijan,2013,serbia
+6,4,Italy,2013,serbia
+7,3,Belgium,2013,serbia
+8,2,Hungary,2013,serbia
+9,1,Sweden,2013,serbia
+0,12,Switzerland,2013,italy
+1,12,Albania,2013,italy
+2,12,Spain,2013,italy
+3,10,France,2013,italy
+4,10,Austria,2013,italy
+5,10,North Macedonia,2013,italy
+6,8,Malta,2013,italy
+7,8,Slovenia,2013,italy
+8,8,Croatia,2013,italy
+9,6,Cyprus,2013,italy
+10,6,Belgium,2013,italy
+11,6,Montenegro,2013,italy
+12,6,Greece,2013,italy
+13,4,San Marino,2013,italy
+14,4,Serbia,2013,italy
+15,2,Georgia,2013,italy
+16,1,Armenia,2013,italy
+17,1,Romania,2013,italy
+18,126,points received,2013,italy
+0,6,Austria,2013,germany
+1,5,Israel,2013,germany
+2,3,Spain,2013,germany
+3,3,Albania,2013,germany
+4,1,Switzerland,2013,germany
+5,18,points received,2013,germany
+0,12,San Marino,2013,greece
+1,12,Cyprus,2013,greece
+2,10,Albania,2013,greece
+3,10,Russia,2013,greece
+4,8,United Kingdom,2013,greece
+5,8,Switzerland,2013,greece
+6,8,Armenia,2013,greece
+7,8,Montenegro,2013,greece
+8,7,Italy,2013,greece
+9,7,Austria,2013,greece
+10,7,Romania,2013,greece
+11,7,Bulgaria,2013,greece
+12,6,Germany,2013,greece
+13,6,Belarus,2013,greece
+14,6,Denmark,2013,greece
+15,5,Croatia,2013,greece
+16,5,Norway,2013,greece
+17,4,Azerbaijan,2013,greece
+18,4,North Macedonia,2013,greece
+19,4,Malta,2013,greece
+20,2,Israel,2013,greece
+21,2,Belgium,2013,greece
+22,1,The Netherlands,2013,greece
+23,1,Latvia,2013,greece
+24,1,Hungary,2013,greece
+25,1,Finland,2013,greece
+26,152,points received,2013,greece
+0,12,Azerbaijan,2013,israel
+1,10,Ukraine,2013,israel
+2,8,Denmark,2013,israel
+3,7,Russia,2013,israel
+4,6,Norway,2013,israel
+5,5,Germany,2013,israel
+6,4,Finland,2013,israel
+7,3,Belarus,2013,israel
+8,2,Greece,2013,israel
+9,1,Moldova,2013,israel
+0,6,Albania,2013,spain
+1,2,Italy,2013,spain
+2,8,points received,2013,spain
+0,12,Greece,2013,cyprus
+1,10,Ukraine,2013,cyprus
+2,8,Azerbaijan,2013,cyprus
+3,7,Denmark,2013,cyprus
+4,6,Italy,2013,cyprus
+5,5,Russia,2013,cyprus
+6,4,Norway,2013,cyprus
+7,3,Malta,2013,cyprus
+8,2,Ireland,2013,cyprus
+9,1,France,2013,cyprus
+0,12,Lithuania,2013,azerbaijan
+1,12,Hungary,2013,azerbaijan
+2,12,Georgia,2013,azerbaijan
+3,12,Bulgaria,2013,azerbaijan
+4,12,Israel,2013,azerbaijan
+5,12,Greece,2013,azerbaijan
+6,12,Malta,2013,azerbaijan
+7,12,Austria,2013,azerbaijan
+8,12,Russia,2013,azerbaijan
+9,12,Montenegro,2013,azerbaijan
+10,10,Belarus,2013,azerbaijan
+11,10,Romania,2013,azerbaijan
+12,10,Ukraine,2013,azerbaijan
+13,8,France,2013,azerbaijan
+14,8,Cyprus,2013,azerbaijan
+15,8,Moldova,2013,azerbaijan
+16,7,Albania,2013,azerbaijan
+17,7,Croatia,2013,azerbaijan
+18,7,Iceland,2013,azerbaijan
+19,7,Spain,2013,azerbaijan
+20,6,Switzerland,2013,azerbaijan
+21,5,Belgium,2013,azerbaijan
+22,5,Serbia,2013,azerbaijan
+23,4,Germany,2013,azerbaijan
+24,3,Slovenia,2013,azerbaijan
+25,3,Latvia,2013,azerbaijan
+26,2,San Marino,2013,azerbaijan
+27,2,The Netherlands,2013,azerbaijan
+28,2,Ireland,2013,azerbaijan
+29,234,points received,2013,azerbaijan
+0,10,Georgia,2013,armenia
+1,8,Bulgaria,2013,armenia
+2,7,France,2013,armenia
+3,6,Ukraine,2013,armenia
+4,3,Hungary,2013,armenia
+5,2,Belarus,2013,armenia
+6,2,Russia,2013,armenia
+7,1,Moldova,2013,armenia
+8,1,Malta,2013,armenia
+9,1,San Marino,2013,armenia
+10,41,points received,2013,armenia
+0,12,Azerbaijan,2013,montenegro
+1,10,Denmark,2013,montenegro
+2,8,Greece,2013,montenegro
+3,7,Russia,2013,montenegro
+4,6,Italy,2013,montenegro
+5,5,Moldova,2013,montenegro
+6,4,Norway,2013,montenegro
+7,3,Belarus,2013,montenegro
+8,2,Georgia,2013,montenegro
+9,1,Romania,2013,montenegro
