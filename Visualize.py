@@ -4,18 +4,19 @@ import networkx as nx
 import os
 from os import listdir
 from os.path import isfile, join
+
 import matplotlib.pyplot as plt
 import seaborn as sns
-import altair as alt
 import plotly.graph_objects as go
+from netwulf import visualize
 
-# %%
+#import netwulf
 
-mypath = r'C:\Users\csucuogl\Documents\GitHub\IdeasTesting\Songs\data'
+# %% IMPORT DATA
+#Data is also here 1958 - 2018 :https://raw.githubusercontent.com/cankadir/Songs_Network/main/data/results_1958.csv
+mypath = r'D:\STORED\GIT_REPO\Songs_Network\data'
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
-onlyfiles
-# %%
 df = pd.DataFrame()
 for _ in onlyfiles:
     temp = pd.read_csv( os.path.join(mypath,_) )
@@ -23,6 +24,8 @@ for _ in onlyfiles:
 
 df = df[df['pts_from']!='points received']
 df.sample(5)
+# %% Format Data
+#Create Column for % of Votes received that year per country
 
 df['pts_from'] = df['pts_from'].str.upper()
 df['points_to'] = df['points_to'].str.upper()
@@ -30,7 +33,7 @@ df['points_to'] = df['points_to'].str.upper()
 df['pts_from'] = df['pts_from'].replace('-',' ' , regex = True )
 df['points_to'] = df['points_to'].replace('-',' ' , regex = True )
 
-total_score = df.groupby('year').sum()['pts']
+total_score = df.groupby('year').sum()['pts'] #Total Points Each Year
 
 dfn = pd.DataFrame()
 for y in df['year'].unique():
@@ -41,20 +44,21 @@ for y in df['year'].unique():
 
 dfn
 
-#%%
-dfn = dfn[ ~dfn['points_to'].isin(['MONACO','MOROCCO']) ]
-dfn = dfn[ ~dfn['pts_from'].isin(['MONACO','MOROCCO']) ]
+#%% Geo Grouping
+dfn = dfn[ ~dfn['points_to'].isin(['MONACO','MOROCCO']) ] # Joined the Competition to few times
+dfn = dfn[ ~dfn['pts_from'].isin(['MONACO','MOROCCO']) ] 
+
+#dfn['points_to'] = dfn['points_to'].replace( 'BOSNIA HERZEGOVINA' , 'BiH' )
+#dfn['pts_from'] = dfn['pts_from'].replace( 'BOSNIA & HERZEGOVINA' , 'BiH' )
 
 dfn['region'] = None
-
-dfn.loc[ dfn['pts_from'].isin(['SWEDEN','DENMARK','NORWAY','FINLAND','ICELAND']) , 'region' ] = 'Sca'
-dfn.loc[ dfn['pts_from'].isin(['GERMANY','AUSTRIA','THE NETHERLANDS']) , 'region' ] = 'Germ'
+dfn.loc[ dfn['pts_from'].isin(['SWEDEN','DENMARK','NORWAY','FINLAND','ICELAND']) , 'region' ] = 'Scandinavia'
 dfn.loc[ dfn['pts_from'].isin(['PORTUGAL','SPAIN','ITALY','GREECE']) , 'region' ] = 'Med'
-dfn.loc[ dfn['pts_from'].isin(['YUGOSLAVIA','RUSSIA','BOSNIA & HERZEGOVINA','SLOVENIA','CROATIA','POLAND','HUNGARY','ROMANIA','SLOVAKIA','NORTH MACEDONIA']) , 'region' ] = 'EEu'
-dfn.loc[ dfn['pts_from'].isin(['TURKEY','ISRAEL','CYPRUS','MALTA','MOROCCO']) , 'region' ] = 'EMed'
-dfn.loc[ dfn['pts_from'].isin(['FRANCE','BELGIUM','LUXEMBOURG','SWITZERLAND','MONACO']) , 'region' ] = 'WEU'
+dfn.loc[ dfn['pts_from'].isin(['TURKEY','ISRAEL','CYPRUS','MALTA']) , 'region' ] = 'EMed'
+dfn.loc[ dfn['pts_from'].isin(['YUGOSLAVIA','RUSSIA','BOSNIA & HERZEGOVINA','SLOVENIA','CROATIA','POLAND','HUNGARY','ROMANIA','SLOVAKIA','NORTH MACEDONIA']) , 'region' ] = 'Eastern Eu'
+dfn.loc[ dfn['pts_from'].isin(['FRANCE','BELGIUM','LUXEMBOURG','SWITZERLAND','GERMANY','AUSTRIA','THE NETHERLANDS']) , 'region' ] = 'Western Eu'
 dfn.loc[ dfn['pts_from'].isin(['UNITED KINGDOM','IRELAND']) , 'region' ] = 'UK'
-dfn.loc[ dfn['pts_from'].isin(['ESTONIA','LITHUANIA']) , 'region' ] = 'Balt'
+dfn.loc[ dfn['pts_from'].isin(['ESTONIA','LITHUANIA']) , 'region' ] = 'Baltic'
 
 dfn
 
@@ -76,7 +80,7 @@ for i in range(len(conts)):
             y= temp['year'],
             mode='markers',
             text = temp['pts'],
-            hovertemplate = 'Points: %{text:.0f}',
+            hovertemplate = 'Points: %{text:.0f}<extra></extra>',
             marker=dict(
                 color = '#f4a261',
                 opacity = 0.4,
@@ -97,14 +101,16 @@ for i in range(len(conts)):
 
 fig.update_layout( # General Layout
     margin=dict(l=15, r=5, t=40, b=15),
+    width = 600,
+    height = 600,
     paper_bgcolor="#f6f6f6",
     plot_bgcolor="#f2f2f2",
-    font_family="Avalon",
+    font_family="Open Sans",
     font_color="#5a5a5a",
     hoverlabel=dict( #Hover Styling
         bgcolor="#f6f6f6",
         font_size=9,
-        font_family="Avalon",
+        font_family="Open Sans",
         font_color="#5a5a5a"
     )
     )
@@ -129,7 +135,7 @@ fig.update_layout( # Add dropdown
         ]
     )
 
-fig.update_yaxes(nticks=25)
+fig.update_yaxes(nticks=25 , range=[1965,2025])
 fig.show()
 
 # %%
